@@ -989,3 +989,4 @@ global.cgtn.cicc.media.caton.cloud
 110.7.130.241
 lbyzztfe.live.sxmty.com
 uzoiczhh.live.sxmty.com
+video.epaper.pybtv.cn
