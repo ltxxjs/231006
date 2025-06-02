@@ -990,3 +990,4 @@ global.cgtn.cicc.media.caton.cloud
 lbyzztfe.live.sxmty.com
 uzoiczhh.live.sxmty.com
 video.epaper.pybtv.cn
+120.238.94.10
