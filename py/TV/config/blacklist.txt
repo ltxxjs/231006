@@ -994,3 +994,5 @@ video.epaper.pybtv.cn
 111.29.9.33
 jxlive.jxrmtzx.com
 jzlive.jztvnews.com
+zb.gxlbamc.com
+113.195.172.192
