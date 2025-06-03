@@ -1009,3 +1009,7 @@ global.cgtn.cicc.media.caton.cloud
 110.7.130.241
 video.epaper.pybtv.cn
 nmxlive.akamaized.net
+jzlive.jztvnews.com
+jxlive.jxrmtzx.com
+www.dalitv.com.tw
+111.29.9.33
