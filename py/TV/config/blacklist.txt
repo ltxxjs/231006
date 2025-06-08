@@ -1012,3 +1012,5 @@ live.yantaitv.cn
 m3u8channel.yunxya.com
 106.124.91.222
 channel.wcrmt.cn
+hls.cntv.myhwcdn.cn
+zbbf2.ahbztv.com
