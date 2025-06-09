@@ -1014,3 +1014,4 @@ m3u8channel.yunxya.com
 channel.wcrmt.cn
 hls.cntv.myhwcdn.cn
 zbbf2.ahbztv.com
+222.240.220.198
