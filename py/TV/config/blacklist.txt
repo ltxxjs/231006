@@ -1016,3 +1016,5 @@ hls.cntv.myhwcdn.cn
 zbbf2.ahbztv.com
 222.240.220.198
 live.zhgbtv.cn
+livepull.myntv.cn
+qwt.zhibotv.top
