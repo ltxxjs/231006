@@ -1019,3 +1019,5 @@ live.zhgbtv.cn
 livepull.myntv.cn
 qwt.zhibotv.top
 tc-tct.douyucdn2.cn
+39.137.75.230
+dx.hdaccp.com
