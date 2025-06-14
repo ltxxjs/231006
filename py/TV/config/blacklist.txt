@@ -1039,3 +1039,5 @@ stream.zztvzd.com
 101.66.198.167
 hyf000.eu.org
 live.hznet.tv
+43.138.0.72
+61.133.118.228
