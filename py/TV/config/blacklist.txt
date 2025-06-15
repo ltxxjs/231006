@@ -1041,3 +1041,4 @@ hyf000.eu.org
 live.hznet.tv
 43.138.0.72
 61.133.118.228
+cdn.iptv8k.top
