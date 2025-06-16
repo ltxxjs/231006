@@ -1051,3 +1051,4 @@ hyf000.eu.org
 cdn.iptv8k.top
 116.52.175.3
 fn.tmde.top
+hlscdn.liangtv.cn
