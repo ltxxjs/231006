@@ -1052,3 +1052,4 @@ cdn.iptv8k.top
 116.52.175.3
 fn.tmde.top
 hlscdn.liangtv.cn
+39.134.65.173
