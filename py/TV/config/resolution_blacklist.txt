@@ -1053,3 +1053,6 @@ cdn.iptv8k.top
 fn.tmde.top
 hlscdn.liangtv.cn
 39.134.65.173
+d18dyiwu97wm6q.cloudfront.net
+39.134.65.141
+121.17.146.178
