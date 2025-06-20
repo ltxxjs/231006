@@ -1057,3 +1057,5 @@ fn.tmde.top
 gdfire2.67890123.cn
 iot-mqqt.111yao.cn
 58.243.224.242
+sh.lnott.top
+xg.52sw.top
