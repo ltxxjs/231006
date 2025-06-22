@@ -1064,3 +1064,5 @@ fxgm.fxjf.work
 101.66.198.119
 tv.cdn.com.mp
 ottproxy2.ist.ooo
+1.wcnm.qzz.io
+101.66.198.56
