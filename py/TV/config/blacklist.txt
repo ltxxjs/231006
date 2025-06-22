@@ -1066,3 +1066,4 @@ tv.cdn.com.mp
 ottproxy2.ist.ooo
 1.wcnm.qzz.io
 101.66.198.56
+115.190.105.236
