@@ -1069,3 +1069,4 @@ ottproxy2.ist.ooo
 115.190.105.236
 bx.757888.xyz
 livecdn.dmqhyadmin.com
+rthktv33-live.akamaized.net
