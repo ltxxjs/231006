@@ -1071,3 +1071,4 @@ tv.666150.xyz
 rthktv33-live.akamaized.net
 124.220.159.96
 english-livetx.cgtn.com
+lishui-tv-hls.cm.jstv.com

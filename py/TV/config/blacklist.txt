@@ -1072,3 +1072,4 @@ livecdn.dmqhyadmin.com
 rthktv33-live.akamaized.net
 101.66.195.152
 ali.hlspull.yximgs.com
+lishui-tv-hls.cm.jstv.com
