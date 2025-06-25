@@ -1073,3 +1073,5 @@ rthktv33-live.akamaized.net
 english-livetx.cgtn.com
 lishui-tv-hls.cm.jstv.com
 alimov2.a.kwimgs.com
+60.220.198.84
+s1.m16tv.cfd
