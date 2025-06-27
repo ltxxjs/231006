@@ -1077,3 +1077,4 @@ alimov2.a.kwimgs.com
 s1.m16tv.cfd
 live.qthnews.org.cn
 yncbn.ks-cdn.gitv.tv
+198.16.100.186
