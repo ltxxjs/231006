@@ -1,20 +1,15 @@
 央视频道,#genre#
 CCTV1,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV5+,http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8
-CCTV10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8
-CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV16,http://livetv.wqwqwq.sbs/gaoma/cctv4k16.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 卫视频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
+重庆卫视,http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8#http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 东南卫视,http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 河北卫视,http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 宁夏卫视,http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-海南卫视,http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8#http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
 云南卫视,http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 西藏卫视,http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
@@ -31,18 +26,15 @@ CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8#http://61.162.52.6
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 ☘️山东省,#genre#
-山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8#https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 ☘️山西省,#genre#
-黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
-☘️新疆,#genre#
-新疆卫视,http://36.32.174.67:60080/newlive/live/hls/47/live.m3u8
+黎城综合,http://111.53.96.67:8081/live/1/index.m3u8#http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 ☘️港·澳·台,#genre#
 J2,http://mytvsuper.27481716.xyz/mytvsuper/C
 明珠台,http://mytvsuper.27481716.xyz/mytvsuper/B
 翡翠台,http://mytvsuper.27481716.xyz/mytvsuper/J
 ☘️地方影视,#genre#
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
-湖南电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8
 其他,#genre#
 (勿)(址)MovieMusic欣赏,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 (卖)(变)音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
