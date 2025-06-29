@@ -1089,3 +1089,5 @@ hkfa.2025link.site
 hls-gateway.vpstv.net
 trn03.bozztv.com
 123.163.114.72
+templaralone.asuscomm.com
+zhz.gxhzxw.com
