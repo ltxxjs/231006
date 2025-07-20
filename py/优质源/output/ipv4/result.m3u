@@ -8,9 +8,9 @@ http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 tvg-name="深圳卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 #EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
-https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
-#EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://36.32.174.67:60080/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 tvg-name="广西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-name="河北卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 http://36.32.174.67:60080/newlive/live/hls/36/live.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
@@ -79,8 +79,30 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="关于本源(iptv365.org)" group-title="其他",关于本源(iptv365.org)
 https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+#EXTINF:-1 tvg-name="喜剧合集" group-title="其他",喜剧合集
+http://fmbox.cc/huya.php?id=11352877
+#EXTINF:-1 tvg-name="国产合集" group-title="其他",国产合集
+http://fmbox.cc/huya.php?id=11352973
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1 tvg-name="宇宙合集" group-title="其他",宇宙合集
+http://fmbox.cc/huya.php?id=11342428
+#EXTINF:-1 tvg-name="强森合集" group-title="其他",强森合集
+http://fmbox.cc/huya.php?id=21059581
+#EXTINF:-1 tvg-name="怪兽合集" group-title="其他",怪兽合集
+http://fmbox.cc/huya.php?id=21059577
+#EXTINF:-1 tvg-name="推荐合集" group-title="其他",推荐合集
+http://fmbox.cc/huya.php?id=11602041
+#EXTINF:-1 tvg-name="枪战合集" group-title="其他",枪战合集
+http://fmbox.cc/huya.php?id=21059579
+#EXTINF:-1 tvg-name="武侠合集" group-title="其他",武侠合集
+http://fmbox.cc/huya.php?id=11342427
+#EXTINF:-1 tvg-name="港产搞笑" group-title="其他",港产搞笑
+http://fmbox.cc/huya.php?id=11601960
+#EXTINF:-1 tvg-name="港台警匪" group-title="其他",港台警匪
+http://fmbox.cc/huya.php?id=11352886
+#EXTINF:-1 tvg-name="热血合集" group-title="其他",热血合集
+http://fmbox.cc/huya.php?id=11352934
 #EXTINF:-1 tvg-name="無綫新聞台" group-title="其他",無綫新聞台
 http://mytvsuper.27481716.xyz/mytvsuper/P
 #EXTINF:-1 tvg-name="翡翠台 UHD" group-title="其他",翡翠台 UHD
