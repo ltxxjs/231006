@@ -39,17 +39,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 关于本源(iptv365.org),https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-喜剧合集,http://fmbox.cc/huya.php?id=11352877
-国产合集,http://fmbox.cc/huya.php?id=11352973
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
-宇宙合集,http://fmbox.cc/huya.php?id=11342428
-强森合集,http://fmbox.cc/huya.php?id=21059581
-怪兽合集,http://fmbox.cc/huya.php?id=21059577
-推荐合集,http://fmbox.cc/huya.php?id=11602041
-枪战合集,http://fmbox.cc/huya.php?id=21059579
-武侠合集,http://fmbox.cc/huya.php?id=11342427
-港产搞笑,http://fmbox.cc/huya.php?id=11601960
-港台警匪,http://fmbox.cc/huya.php?id=11352886
-热血合集,http://fmbox.cc/huya.php?id=11352934
 無綫新聞台,http://mytvsuper.27481716.xyz/mytvsuper/P
 翡翠台 UHD,http://mytvsuper.27481716.xyz/mytvsuper/JUHD
