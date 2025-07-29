@@ -1056,3 +1056,5 @@ event.pull.hebtv.com
 fmbox.cc
 iptv77.iptv66.eu.org
 111.9.163.186
+101.66.195.4
+mytvsuper.27481716.xyz
