@@ -1061,3 +1061,7 @@ mytvsuper.27481716.xyz
 112.123.206.32
 47.102.149.208
 english-livetx.cgtn.com
+101.66.199.112
+101.66.199.230
+fjcm-2117.live.iptv.darwinchow.com
+fjcm-2118.live.iptv.darwinchow.com
