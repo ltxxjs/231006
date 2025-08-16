@@ -1070,3 +1070,4 @@ fjcm-2118.live.iptv.darwinchow.com
 mursor.ottiptv.cc
 101.66.199.124
 101.66.195.147
+115.48.160.227
