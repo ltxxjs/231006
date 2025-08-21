@@ -1,51 +1,63 @@
-测速日志 2025-08-21 09:12:15
-[2025-08-21 09:12:18] ✅ 测速成功: https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-   速度: 2059.57KB/s | 数据量: 2.1KB | 总耗时: 0.25s
-[2025-08-21 09:12:18] ✅ 测速成功: https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
-   速度: 96572.52KB/s | 数据量: 8412.8KB | 总耗时: 0.34s
-[2025-08-21 09:12:18] ✅ 测速成功: https://AMChls.wns.live/hls/stream.m3u8
+测速日志 2025-08-21 20:31:41
+[2025-08-21 20:31:42] ✅ 测速成功: https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+   速度: 2407.23KB/s | 数据量: 2.4KB | 总耗时: 0.26s
+[2025-08-21 20:31:42] ✅ 测速成功: https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4
+   速度: 106276.95KB/s | 数据量: 8412.8KB | 总耗时: 0.31s
+[2025-08-21 20:31:42] ✅ 测速成功: https://AMChls.wns.live/hls/stream.m3u8
    速度: 721.68KB/s | 数据量: 0.7KB | 总耗时: 0.37s
-[2025-08-21 09:12:18] ✅ 测速成功: http://61.221.215.25:8800/hls/49/index.m3u8
+[2025-08-21 20:31:42] ✅ 测速成功: http://61.221.215.25:8800/hls/43/index.m3u8
+   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.40s
+[2025-08-21 20:31:42] ✅ 测速成功: http://61.221.215.25:8800/hls/49/index.m3u8
    速度: 252.93KB/s | 数据量: 0.3KB | 总耗时: 0.41s
-[2025-08-21 09:12:18] ✅ 测速成功: http://61.221.215.25:8800/hls/43/index.m3u8
-   速度: 236.33KB/s | 数据量: 0.2KB | 总耗时: 0.41s
-[2025-08-21 09:12:18] ✅ 测速成功: http://125.42.151.98:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 433.59KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2025-08-21 09:12:18] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+[2025-08-21 20:31:42] ✅ 测速成功: http://113.195.172.192:808/hls/113/index.m3u8
+   速度: 223.63KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2025-08-21 20:31:42] ✅ 测速成功: http://113.195.172.192:808/hls/114/index.m3u8
+   速度: 223.63KB/s | 数据量: 0.2KB | 总耗时: 0.49s
+[2025-08-21 20:31:42] ✅ 测速成功: http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
    速度: 226.56KB/s | 数据量: 0.2KB | 总耗时: 0.50s
-[2025-08-21 09:12:18] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
-   速度: 438.48KB/s | 数据量: 0.4KB | 总耗时: 0.50s
-[2025-08-21 09:12:18] ✅ 测速成功: http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
-   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.54s
-[2025-08-21 09:12:18] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
-   速度: 386.72KB/s | 数据量: 0.4KB | 总耗时: 0.13s
-[2025-08-21 09:12:19] ✅ 测速成功: http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
+[2025-08-21 20:31:42] ✅ 测速成功: http://120.198.95.220:9901/tsfile/live/1038_1.m3u8?key=txiptv
+   速度: 658.20KB/s | 数据量: 0.7KB | 总耗时: 0.55s
+[2025-08-21 20:31:42] ✅ 测速成功: http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
+   速度: 444.34KB/s | 数据量: 0.4KB | 总耗时: 0.51s
+[2025-08-21 20:31:42] ✅ 测速成功: http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd
    速度: 545.90KB/s | 数据量: 0.5KB | 总耗时: 0.51s
-[2025-08-21 09:12:19] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
-   速度: 227.54KB/s | 数据量: 0.2KB | 总耗时: 0.13s
-[2025-08-21 09:12:19] ✅ 测速成功: http://125.42.151.98:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.51s
-[2025-08-21 09:12:19] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
-   速度: 227.54KB/s | 数据量: 0.2KB | 总耗时: 0.13s
-[2025-08-21 09:12:19] ✅ 测速成功: http://125.42.151.98:9901/tsfile/live/0125_1.m3u8
-   速度: 428.71KB/s | 数据量: 0.4KB | 总耗时: 0.49s
-[2025-08-21 09:12:19] ✅ 测速成功: http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
-   速度: 330.08KB/s | 数据量: 0.3KB | 总耗时: 0.50s
-[2025-08-21 09:12:19] ✅ 测速成功: http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
-   速度: 69.34KB/s | 数据量: 0.1KB | 总耗时: 0.50s
-[2025-08-21 09:12:19] ✅ 测速成功: http://182.112.188.157:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-   速度: 417.97KB/s | 数据量: 0.4KB | 总耗时: 0.52s
-[2025-08-21 09:12:19] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.83s
-[2025-08-21 09:12:19] ✅ 测速成功: http://222.128.55.152:9080/live/dwq.m3u8
-   速度: 0.33KB/s | 数据量: 0.1KB | 总耗时: 0.79s
-[2025-08-21 09:12:19] ✅ 测速成功: http://111.53.96.67:8081/live/1/index.m3u8
+[2025-08-21 20:31:43] ✅ 测速成功: http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8?zzhongqd
+   速度: 545.90KB/s | 数据量: 0.5KB | 总耗时: 0.51s
+[2025-08-21 20:31:43] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/33/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
+[2025-08-21 20:31:43] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
+[2025-08-21 20:31:43] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.77s
+[2025-08-21 20:31:43] ✅ 测速成功: http://222.128.55.152:9080/live/dwq.m3u8
+   速度: 0.34KB/s | 数据量: 0.1KB | 总耗时: 0.77s
+[2025-08-21 20:31:43] ✅ 测速成功: http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
+   速度: 330.08KB/s | 数据量: 0.3KB | 总耗时: 0.51s
+[2025-08-21 20:31:43] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+   速度: 386.72KB/s | 数据量: 0.4KB | 总耗时: 0.35s
+[2025-08-21 20:31:43] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+   速度: 227.54KB/s | 数据量: 0.2KB | 总耗时: 0.22s
+[2025-08-21 20:31:43] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/49/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.75s
+[2025-08-21 20:31:43] ✅ 测速成功: http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
+   速度: 69.34KB/s | 数据量: 0.1KB | 总耗时: 0.51s
+[2025-08-21 20:31:43] ✅ 测速成功: http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
+   速度: 227.54KB/s | 数据量: 0.2KB | 总耗时: 0.34s
+[2025-08-21 20:31:43] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/22/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.81s
+[2025-08-21 20:31:44] ✅ 测速成功: http://111.53.96.67:8081/live/1/index.m3u8
    速度: 208.98KB/s | 数据量: 0.2KB | 总耗时: 0.48s
-[2025-08-21 09:12:19] ✅ 测速成功: http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+[2025-08-21 20:31:44] ✅ 测速成功: http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
    速度: 208.98KB/s | 数据量: 0.2KB | 总耗时: 0.52s
-[2025-08-21 09:12:19] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.80s
-[2025-08-21 09:12:21] ✅ 测速成功: http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
-   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.47s
-[2025-08-21 09:12:27] ✅ 测速成功: https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
-   速度: 965.79KB/s | 数据量: 6144.0KB | 总耗时: 8.76s
+[2025-08-21 20:31:44] ✅ 测速成功: http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
+   速度: 232.42KB/s | 数据量: 0.2KB | 总耗时: 0.82s
+[2025-08-21 20:31:45] ❌ 测速失败: http://125.42.151.98:9901/tsfile/live/0125_1.m3u8
+   错误: HTTPConnectionPool(host='125.42.151.98', port=9901): Max retries exceeded with url: /tsfile/live/0125_1.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff839f66b50>, 'Connection to 125.42.151.98 timed out. (connect timeout=3.05)')) | 域名: 125.42.151.98
+[2025-08-21 20:31:45] ❌ 测速失败: http://125.42.151.98:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+   错误: HTTPConnectionPool(host='125.42.151.98', port=9901): Max retries exceeded with url: /tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff839f66c50>, 'Connection to 125.42.151.98 timed out. (connect timeout=3.05)')) | 域名: 125.42.151.98
+[2025-08-21 20:31:45] ✅ 测速成功: http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+   速度: 0.00KB/s | 数据量: 0.0KB | 总耗时: 2.08s
+[2025-08-21 20:31:45] ❌ 测速失败: http://125.42.151.98:9901/tsfile/live/0130_1.m3u8
+   错误: HTTPConnectionPool(host='125.42.151.98', port=9901): Max retries exceeded with url: /tsfile/live/0130_1.m3u8 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7ff839f66e50>, 'Connection to 125.42.151.98 timed out. (connect timeout=3.05)')) | 域名: 125.42.151.98
+[2025-08-21 20:31:47] ✅ 测速成功: https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240192067467.mp4
+   速度: 12459.53KB/s | 数据量: 31831.9KB | 总耗时: 5.04s
