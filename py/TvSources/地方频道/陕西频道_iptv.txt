@@ -1,4 +1,5 @@
 陕西频道,#genre#
-陕西体育休闲,http://112.46.105.20:8009/hls/24/index.m3u8
+陕西新闻资讯,https://mursor.ottiptv.cc/migu/956909289.m3u8?migutoken=976773e55dad215f24e845fdcf04b7311bb59092b4f7f734b647b8ec3dea138bc1cf839fbd1a91e8f4e03e75cc10ffe171d8298cd6cb3937ab08f0cf911ab3ed4ed4b85ba27cde318e5beda0bd
 陕西都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
-陕西都市青春,https://mursor.ottiptv.cc/migu/956909358.m3u8?migutoken=c309dc5cfed16226cc850c5255e43555fb7bbc14089bb58924b9c2852f93b1b8d484c8a197ba17340571e81409433c8f99e03faf5056720fd666aaa77788b111b71f00899dd267ce6f247d2789
+陕西都市青春,https://mursor.ottiptv.cc/migu/956909358.m3u8?migutoken=0bc9195d5840eceb58ddfd0fb8bb86bffdeb839e8a517775d42f0c6fee53bdd2f3d4090482a556a5f026f3a8b9e31e9e33fdc98445c92077d1fc78131d6a43b4d14d14b8d396a8afe390ef15d8
+陕西体育休闲,http://112.46.105.20:8009/hls/24/index.m3u8
