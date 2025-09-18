@@ -1,11 +1,10 @@
 上海频道,#genre#
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=73a4a6b0d0ceee37a702126eff15353d1c61993097da37d267c63bbcb361c3f74605daf16f8d23e77f8ae9b847208c45da3304c3b0dca46ce47b8b9046419097857b517ee0fdfc07ca7e1714b2b09fa130&auth_token=d96795f1341390f714a1afffe625b303
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=0d1c4fab90ae88e3067967d87de5aa06d55c95b4bd0e319e59d4eaa72801315bed8c7ff412728efeecbc6e9a7246ccf7ee90a213abecc28f5a152c2633a8a6c0ca2d4e980a5a6648676bfc2dfb7819fa73&auth_token=d96795f1341390f714a1afffe625b303
+哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
-哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海新闻综合,https://mgtv.ottiptv.cc/migu/651632657.m3u8?migutoken=348c9164063c2b1df215dd2fa7cd92cb119d8a335ae0edfb5d615a6c714e71b669eee2f5ff1730afa92af7ca41d0aa96e3a280d7e5f2069eb8a3b852f3ebc270147489d7c8bfb08a7c4b9c4d80
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=da71801fbcbf4744a3c0d068ee54e7dc4e5465e25900fabd1eb77acf3e87e5177abd1f4dba7fbfacec51bad89b1ff1774d43816ad904a924cbb36a10b9ef90b47345e4e68f89bffc1c2b6ba886e1cf4446&auth_token=d96795f1341390f714a1afffe625b303
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=1556b0f348de1b3573cfc1b5b80e66518c97b77ce068c4a17ef8f71bb7bd27deaaee1e785cff2149eb1e0340ab5cdc5134ac5f75afd00a449d2e320974b8953449e05c554eb50e06b2bd18a2fba3ed430a&auth_token=d96795f1341390f714a1afffe625b303
+新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
