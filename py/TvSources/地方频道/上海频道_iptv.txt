@@ -1,8 +1,8 @@
 上海频道,#genre#
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=3048235bd50b79ff83a1b1ddab08623a339682140274a2b4124d6d8dcd36f619db0643f4e59b6737bfe8da408b783496860207f2a1c18c1bb743933adddfaa131da35713f327ebcabb1e28ceb3e4996b17&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=7bbe15ab2d809959b5e5d81208ab64cfd6e8db81a92f76e76bd0542b0715b36c821ca37d5d19b8fee91125ecbcde3f68d976bb6741cc8d0e1f6ac590bd7d29c1d10a8615e7770f260e6c1fa4ce89f1b6a4&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
