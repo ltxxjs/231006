@@ -1,11 +1,9 @@
 上海频道,#genre#
-都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=bab0d913398ce1ea64c707b2c9326ac1c6b7b2dd647c8c9721c4ed7713d85d20c91e863dda47fc7bea018885f03165338a909c1b0e8abfb5715cf87d76fcae2d25becac30c2ef21146b6a6494a5fc27c9f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
-全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=51caafcb702629768ef5df1385495df65f4a37aeaf2a1d6fb2a2f0e55a45b9af159a5858a9bbe6c72623a1b653b71a6da5411fa30cad5ea23ecc19af8dbbb7d165743e6b46544e4c05527c18c41d9754a7&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=40726cdaaf1ff7761cad7117ae119991fbcde97a5e24662f69564f1779717a94121b04b82e787e3444ae503c8a612bdf31ebd52ebb0aa55b2c78ab7499befbf06abe291e8f592f676d0ef517e048dfe70e&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=73cc773d72d7ff4a0ccd5b2f6eb7eae562bf0a6b543b0b08436623fed1f9e18a3a458598f895affe7b343c847fbb6e98059b2bf4e6ba3c00f2e25004f745414205505c86baa3bb323c452877e2a6584e20&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
