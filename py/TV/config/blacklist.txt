@@ -392,3 +392,4 @@ tvpull.hmgbtv.com:443
 222.179.42.129:8181
 lb1-live-mv.v2h-cdn.com:443
 other.ottiptv.cc:443
+tmxk.pp.ua:443
