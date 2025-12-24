@@ -413,3 +413,7 @@ www.wmviv.com:80
 edgeone.passwdword.xyz:443
 101.66.194.51:9901
 221.193.168.69:9901
+hlscdn.liangtv.cn:443
+zbbf2.ahbztv.com:80
+61.136.172.236:9901
+182.114.48.126:9901
