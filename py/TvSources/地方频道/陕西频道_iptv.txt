@@ -1,3 +1,4 @@
 陕西频道,#genre#
+陕西都市青春,https://mgtv.ottiptv.cc/mg/956909358.m3u8?userid=5559462299&sign=45ae4e3ffd504fc0a7c7e5e63ae2c7c46ad5f458e86fdaee57adb39f61eadc6edc24a564dbbecbca62c823893e7a3fda65fdbe19b72e55dfc56434499a406be4114a0123c362d83fa9dbd7583734771af0&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 陕西体育休闲,http://112.46.105.20:8009/hls/24/index.m3u8
-陕西都市青春,http://112.46.105.20:8009/hls/19/index.m3u8
+陕西体育休闲,https://mgtv.ottiptv.cc/mg/956909356.m3u8?userid=5559462299&sign=1c3f9ec1c0bade247096759bb5df9885f6fc732ebb21f8abd188a97f77ad0b6069aebccd31bab6050b6d5ed4c1bb853685475927761de43c6a7eef86ca5c5d6b1ce8789ecf73ae8fdb75d14fe16f40d61c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
