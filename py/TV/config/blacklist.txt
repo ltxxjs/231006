@@ -518,3 +518,13 @@ liveout.xntv.tv:443
 lianshui-tv-hls.cm.jstv.com:443
 221.13.235.234:9901
 hczn.x3322.net:9902
+221.13.234.32:9901
+221.13.234.199:9901
+play-hsbj.vzan.com:80
+dxtx.hntv.tv:443
+221.13.235.116:9901
+grandprix2023.asuscomm.com:8892
+live.nctv.top:80
+221.13.235.58:9901
+smt.veryfast.filegear-sg.me:80
+221.13.235.229:9901
