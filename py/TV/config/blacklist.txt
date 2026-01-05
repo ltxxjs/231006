@@ -549,3 +549,7 @@ smt.veryfast.filegear-sg.me:80
 live.wjyanghu.com:80
 hzcm-live.media.hugd.com:443
 m3u8channel.ganzitv.com:443
+119.129.172.104:9901
+119.129.172.112:9901
+221.193.168.116:9901
+125.42.150.89:9901
