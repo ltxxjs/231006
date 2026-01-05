@@ -548,3 +548,4 @@ smt.veryfast.filegear-sg.me:80
 222.179.155.21:1935
 live.wjyanghu.com:80
 hzcm-live.media.hugd.com:443
+m3u8channel.ganzitv.com:443
