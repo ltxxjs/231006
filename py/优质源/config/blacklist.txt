@@ -3533,3 +3533,8 @@ smt.veryfast.filegear-sg.me
 live.nctv.top
 fmbox.cc
 58.39.190.143
+123.145.35.149
+live.metshop.top
+58.48.104.165
+175.8.180.226
+123.145.28.95
