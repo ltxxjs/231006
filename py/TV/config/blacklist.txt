@@ -629,3 +629,4 @@ qmmqvzoz.live.sxmty.com:443
 219.146.95.58:59902
 ggpagerl.live.sxmty.com:80
 live1.jzjsnm.cn:80
+125.42.150.60:9901
