@@ -3584,3 +3584,4 @@ iptv.catvod.com
 live.ottiptv.cc
 218.3.138.25
 101.66.198.35
+t.freetv.fun
