@@ -645,3 +645,4 @@ hlsal-ldvt.qing.mgtv.com:80
 125.42.148.89:9901
 keke.kandiantv.cn:80
 36.40.237.57:9999
+vapi.91kds.cc:80
