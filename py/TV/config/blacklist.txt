@@ -646,3 +646,4 @@ hlsal-ldvt.qing.mgtv.com:80
 keke.kandiantv.cn:80
 36.40.237.57:9999
 vapi.91kds.cc:80
+uzoiczhh.live.sxmty.com:80
