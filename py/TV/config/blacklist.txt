@@ -660,3 +660,4 @@ uzoiczhh.live.sxmty.com:80
 125.42.148.105:9901
 1.197.249.172:9901
 russian-livews.cgtn.com:80
+125.42.150.72:9901
