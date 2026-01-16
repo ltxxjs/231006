@@ -659,3 +659,4 @@ uzoiczhh.live.sxmty.com:80
 3739115337.cloudvdn.com:80
 125.42.148.105:9901
 1.197.249.172:9901
+russian-livews.cgtn.com:80
