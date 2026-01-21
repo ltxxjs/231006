@@ -1,7 +1,7 @@
 上海频道,#genre#
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 欢笑剧场,http://38.75.136.137:98/gslb/dsdqpub/hxjchd.m3u8?auth=testpub
-上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=70148ec56afe0f160c4d01897aa20f23be46f636f0ea8cb362fd0b5c95d305897770d14de7cb55162925004829637576cb9d119c5652c445136869f8dbe6516e50adca0e7e00095b0310039f26d83968e9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+上海第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
