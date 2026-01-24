@@ -698,3 +698,6 @@ piccpndks.v.kcdnvip.com:443
 125.42.150.239:9901
 36.40.237.230:9999
 221.13.235.217:9901
+115.48.160.69:9901
+dspdhls.appcoo.com:8888
+tvfile.jyrmt.cn:80
