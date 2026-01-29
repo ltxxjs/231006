@@ -725,3 +725,5 @@ pull-flv-f11.douyincdn.com:80
 ldocctvwbcdtxy.liveplay.myqcloud.com:443
 221.13.235.66:9901
 113.218.204.144:9002
+cdn2.163189.xyz:80
+cdn2.132.us.kg:80
