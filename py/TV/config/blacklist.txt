@@ -746,3 +746,6 @@ pull-f3.douyincdn.com:80
 175.155.106.72:89
 112.27.235.94:8000
 hlsbkmgsplive.miguvideo.com:80
+test1.live.sdetv.com.cn:443
+test1.live.sdetv.com.cn:80
+101.74.28.103:9901
