@@ -759,3 +759,5 @@ hlscdn.liangtv.cn:80
 pull-hls-f1.douyincdn.com:80
 live.kanwz.net:80
 cdn8.163189.xyz:443
+36.40.237.193:9999
+tv.gxtv.cn:443
