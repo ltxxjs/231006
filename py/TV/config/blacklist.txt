@@ -761,3 +761,4 @@ live.kanwz.net:80
 cdn8.163189.xyz:443
 36.40.237.193:9999
 tv.gxtv.cn:443
+yixing-tv-ori-hls.jstv.com:80
