@@ -764,3 +764,5 @@ tv.gxtv.cn:443
 yixing-tv-ori-hls.jstv.com:80
 221.13.235.238:9901
 221.13.235.207:9901
+0472.org:443
+live.iill.top:443
