@@ -53,3 +53,5 @@ yylunbo.ottiptv.cc:443
 goodiptv.club:443
 124.116.183.146:9901
 43.156.8.127:5050
+tvpull.smartwq.cn:443
+183.223.157.33:9901
