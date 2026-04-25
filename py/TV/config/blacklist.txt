@@ -39,3 +39,7 @@ live.ottiptv.cc:443
 125.43.244.73:9901
 zjrtv.vip:80
 www.ahtv.cn:443
+222.179.42.129:8181
+222.214.208.34:59901
+175.0.64.97:8888
+huaiyin-tv-replay.cm.jstv.com:443
