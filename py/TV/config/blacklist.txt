@@ -49,3 +49,5 @@ hkstv.tv:443
 153.0.171.163:9901
 l2fpdktp.live.sxmty.com:443
 gcalic.v.myalicdn.com:443
+yylunbo.ottiptv.cc:443
+goodiptv.club:443
