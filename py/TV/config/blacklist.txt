@@ -46,3 +46,7 @@ goodiptv.club:443
 l.cztvcloud.com:443
 125.43.244.73:9901
 www.ahtv.cn:443
+t.freetv.fun:443
+183.237.95.108:9901
+14.152.102.71:9901
+stream.thmz.com:80
