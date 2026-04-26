@@ -42,3 +42,7 @@ live.iill.top:443
 49.65.86.7:58888
 mgtv.ottiptv.cc:443
 124.116.183.146:9901
+goodiptv.club:443
+l.cztvcloud.com:443
+125.43.244.73:9901
+www.ahtv.cn:443
