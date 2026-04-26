@@ -28,3 +28,7 @@ stream.hrbtv.net
 222.214.208.34
 gcalic.v.myalicdn.com
 43.156.8.127
+120.238.94.82
+fei01.kmdns.net
+183.223.157.33
+112.27.235.94
