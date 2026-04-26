@@ -22,3 +22,4 @@ fei01.kmdns.net:8807
 live.sfrmt.com:85
 live1.habctv.com:80
 148.113.160.49:14176
+live.tvfix.org:443
