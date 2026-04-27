@@ -23,3 +23,6 @@ live.sfrmt.com:85
 live1.habctv.com:80
 148.113.160.49:14176
 live.tvfix.org:443
+hls.cntv.lxdns.com:443
+112.123.243.37:50085
+123.130.84.106:8154
