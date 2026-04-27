@@ -38,3 +38,10 @@ live.metshop.top:80
 play.scrstv.com.cn:443
 114.231.115.107:8848
 218.104.239.114:9901
+hkstv.tv:443
+175.0.64.97:8888
+goodiptv.club:443
+119.39.9.8:9901
+zb-live.ynurl.com:443
+5ddce30eb4b55.streamlock.net:443
+stream.thmz.com:443
