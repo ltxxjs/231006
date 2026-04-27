@@ -52,3 +52,6 @@ tmpstream.hyrtv.cn:80
 lianshui-tv-hls.cm.jstv.com:443
 tencentplay.gztv.com:443
 stream.thmz.com:80
+l.cztvcloud.com:443
+www.ahtv.cn:443
+222.169.85.8:9901
