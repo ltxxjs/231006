@@ -32,3 +32,7 @@ live.metshop.top:443
 cssbyd.imwork.net:8082
 www.goodiptv.club:443
 live.metshop.top:80
+112.46.105.20:8009
+123.129.70.178:9901
+153.0.171.163:9901
+play.scrstv.com.cn:443
