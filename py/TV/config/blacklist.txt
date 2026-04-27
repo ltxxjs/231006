@@ -48,3 +48,7 @@ stream.thmz.com:443
 live.ottiptv.cc:443
 hzzzz530.com:4022
 182.135.66.163:18888
+tmpstream.hyrtv.cn:80
+lianshui-tv-hls.cm.jstv.com:443
+tencentplay.gztv.com:443
+stream.thmz.com:80
