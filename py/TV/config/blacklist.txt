@@ -50,3 +50,6 @@ lianshui-tv-hls.cm.jstv.com:443
 hkstv.tv:443
 124.116.183.146:9901
 222.95.12.2:4022
+tvpull.smartwq.cn:443
+lianshui-tv-hls.cm.jstv.com:80
+live.spccmc.com:90
