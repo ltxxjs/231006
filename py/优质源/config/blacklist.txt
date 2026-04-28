@@ -36,3 +36,5 @@ fei01.kmdns.net
 ali-xwl.cztv.com
 tvcdn.stream3.hndt.com
 112.123.243.37
+l.cztvcloud.com
+218.104.239.114
