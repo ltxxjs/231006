@@ -53,3 +53,5 @@ hkstv.tv:443
 tvpull.smartwq.cn:443
 lianshui-tv-hls.cm.jstv.com:80
 live.spccmc.com:90
+tvfile.jyrmt.cn:80
+5ddce30eb4b55.streamlock.net:443
