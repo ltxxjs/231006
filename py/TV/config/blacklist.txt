@@ -31,3 +31,17 @@ stream.thmz.com:443
 153.0.171.163:9901
 tencentplay.gztv.com:80
 61.184.46.85:9901
+live.metshop.top:443
+101.66.199.174:9901
+www.ahtv.cn:443
+m3u8.channel.dzsm.com:443
+zb-live.ynurl.com:443
+101.66.199.55:9901
+222.169.85.8:9901
+www.goodiptv.club:443
+goodiptv.club:443
+www.goodiptv.club:80
+l.cztvcloud.com:443
+183.237.95.108:9901
+183.223.157.33:9901
+live.metshop.top:80
