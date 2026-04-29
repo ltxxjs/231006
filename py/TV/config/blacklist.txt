@@ -60,3 +60,8 @@ vip1.xinketongxun.fun:8082
 221.7.175.154:8445
 ls.qingting.fm:80
 ls.qingting.fm:443
+222.179.42.129:8181
+wstvcpudali.v.myalicdn.com:443
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+175.0.64.97:8888
+112.226.228.106:22222
