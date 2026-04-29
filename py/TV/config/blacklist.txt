@@ -57,3 +57,6 @@ tvfile.jyrmt.cn:80
 5ddce30eb4b55.streamlock.net:443
 vip1.xinketongxun.fun:8082
 125.42.151.61:9901
+221.7.175.154:8445
+ls.qingting.fm:80
+ls.qingting.fm:443
