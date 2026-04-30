@@ -31,3 +31,9 @@ tencentplay.gztv.com:443
 hlsal-ldvt.qing.mgtv.com:80
 101.66.199.174:9901
 l.cztvcloud.com:443
+49.65.86.7:58888
+36.24.119.220:4022
+183.47.2.156:16883
+183.237.95.108:9901
+zb-live.ynurl.com:443
+www.goodiptv.club:443
