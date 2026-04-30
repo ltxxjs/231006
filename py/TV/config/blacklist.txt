@@ -53,3 +53,6 @@ p2.bdstatic.com:443
 l.cztvcloud.com:80
 play.yunxya.com:443
 stream.jmtv.com.cn:443
+61.216.67.119:1935
+43.156.8.127:5050
+l2fpdktp.live.sxmty.com:443
