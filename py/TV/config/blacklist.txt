@@ -45,3 +45,11 @@ live.metshop.top:443
 www.goodiptv.club:80
 goodiptv.club:443
 lianshui-tv-hls.cm.jstv.com:80
+pull-hls-f11.douyincdn.com:80
+101.66.198.51:9901
+5ddce30eb4b55.streamlock.net:443
+183.64.174.171:40123
+p2.bdstatic.com:443
+l.cztvcloud.com:80
+play.yunxya.com:443
+stream.jmtv.com.cn:443
