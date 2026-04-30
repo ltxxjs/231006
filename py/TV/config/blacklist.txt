@@ -19,3 +19,9 @@ lxfile.lxxcb.cn:80
 dtrmlive.qhdtrm.cn:80
 3gvod.zjgonline.com.cn:1935
 tv.drs.ganzitv.com:8100
+123.130.84.106:8154
+genglei.8866.org:9901
+153.0.171.163:9901
+stream.thmz.com:80
+112.123.243.37:50085
+222.169.85.8:9901
