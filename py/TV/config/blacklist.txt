@@ -37,3 +37,11 @@ l.cztvcloud.com:443
 183.237.95.108:9901
 zb-live.ynurl.com:443
 www.goodiptv.club:443
+lbyzztfe.live.sxmty.com:80
+live.metshop.top:80
+liveout.btzx.com.cn:80
+hkstv.tv:443
+live.metshop.top:443
+www.goodiptv.club:80
+goodiptv.club:443
+lianshui-tv-hls.cm.jstv.com:80
