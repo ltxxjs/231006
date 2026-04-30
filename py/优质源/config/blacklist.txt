@@ -21,3 +21,5 @@ play.kankanlive.com
 genglei.8866.org
 112.123.243.37
 183.223.157.33
+5ddce30eb4b55.streamlock.net
+pull-hls-f11.douyincdn.com
