@@ -23,3 +23,6 @@ genglei.8866.org
 183.223.157.33
 5ddce30eb4b55.streamlock.net
 pull-hls-f11.douyincdn.com
+120.10.167.40
+ali-xwl.cztv.com
+l.cztvcloud.com
