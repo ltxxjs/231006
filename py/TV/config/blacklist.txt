@@ -40,3 +40,6 @@ www.goodiptv.club:80
 183.237.95.108:9901
 60.222.246.220:19433
 play.scrstv.com.cn:443
+175.0.64.97:8888
+222.179.42.129:8181
+lianshui-tv-hls.cm.jstv.com:443
