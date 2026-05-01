@@ -35,3 +35,5 @@ live.metshop.top:80
 183.223.157.33:9901
 live.ottiptv.cc:443
 www.goodiptv.club:80
+120.10.167.40:1234
+218.104.239.114:9901
