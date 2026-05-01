@@ -43,3 +43,6 @@ play.scrstv.com.cn:443
 175.0.64.97:8888
 222.179.42.129:8181
 lianshui-tv-hls.cm.jstv.com:443
+l.cztvcloud.com:443
+218.84.12.186:8002
+124.116.183.146:9901
