@@ -51,3 +51,6 @@ lianshui-tv-hls.cm.jstv.com:80
 tencentplay.gztv.com:443
 l2fpdktp.live.sxmty.com:443
 218.13.170.98:9901
+zjtv-wshls.homecdn.com:80
+cssbyd.imwork.net:8082
+cm-wshls.homecdn.com:80
