@@ -22,3 +22,7 @@ live.spccmc.com:90
 3gvod.zjgonline.com.cn:1935
 idclive.hljtv.com:4430
 219.150.217.47:6610
+123.130.84.106:8154
+111.76.17.75:5678
+tencentplay.gztv.com:443
+222.179.42.129:8181
