@@ -51,3 +51,5 @@ hkstv.tv:443
 live.264788.xyz:443
 p2.vzan.com:443
 wstvcpudali.v.myalicdn.com:443
+cm-wshls.homecdn.com:80
+tmpstream.hyrtv.cn:80
