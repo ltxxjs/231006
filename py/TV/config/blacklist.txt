@@ -38,3 +38,4 @@ hls.nntv.cn:80
 live.wjyanghu.com:443
 live.wjyanghu.com:80
 218.13.170.98:9901
+play-qukan.cztv.com:443
