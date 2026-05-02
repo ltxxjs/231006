@@ -32,3 +32,5 @@ tencentplay.gztv.com:443
 radio.pull.hebtv.com:443
 49.65.86.7:58888
 153.0.171.163:85
+hls.nntv.cn:80
+183.223.157.33:9901
