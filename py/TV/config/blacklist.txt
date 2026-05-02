@@ -34,3 +34,7 @@ radio.pull.hebtv.com:443
 153.0.171.163:85
 hls.nntv.cn:80
 183.223.157.33:9901
+222.214.208.34:59901
+live.wjyanghu.com:443
+live.wjyanghu.com:80
+218.13.170.98:9901
