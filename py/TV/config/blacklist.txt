@@ -39,3 +39,7 @@ live.wjyanghu.com:443
 live.wjyanghu.com:80
 218.13.170.98:9901
 play-qukan.cztv.com:443
+shuyang-tv-hls.cm.jstv.com:443
+43.156.8.127:5050
+175.0.64.97:8888
+gd202.tv1288.xyz:443
