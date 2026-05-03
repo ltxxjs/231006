@@ -44,3 +44,6 @@ lianshui-tv-hls.cm.jstv.com:80
 113.65.124.131:9527
 live.metshop.top:80
 live.metshop.top:443
+182.150.23.74:808
+hkstv.tv:443
+stream.thmz.com:80
