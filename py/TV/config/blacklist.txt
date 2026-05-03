@@ -22,3 +22,10 @@ tvfile.jjrm.org.cn:80
 183.237.95.108:9901
 123.130.84.106:8154
 goodiptv.club:443
+shuyang-tv-hls.cm.jstv.com:443
+119.39.9.8:9901
+l.cztvcloud.com:443
+cssbyd.imwork.net:8082
+123.129.70.178:9901
+112.123.243.37:50085
+116.233.67.80:8899
