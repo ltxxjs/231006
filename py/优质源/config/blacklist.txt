@@ -26,3 +26,4 @@ pull-hls-f11.douyincdn.com
 120.10.167.40
 ali-xwl.cztv.com
 l.cztvcloud.com
+live.264788.xyz
