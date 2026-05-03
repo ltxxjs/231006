@@ -38,3 +38,9 @@ www.goodiptv.club:443
 183.47.2.156:16883
 tpc.x3322.net:9901
 218.104.239.114:9901
+tencentplay.gztv.com:80
+lianshui-tv-hls.cm.jstv.com:80
+222.179.42.129:8181
+113.65.124.131:9527
+live.metshop.top:80
+live.metshop.top:443
