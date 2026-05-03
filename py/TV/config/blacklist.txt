@@ -47,3 +47,7 @@ live.metshop.top:443
 182.150.23.74:808
 hkstv.tv:443
 stream.thmz.com:80
+gctxyc.liveplay.myqcloud.com:443
+153.0.171.163:9901
+111.167.32.120:5002
+222.179.155.21:1935
