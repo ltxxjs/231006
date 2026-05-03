@@ -29,3 +29,8 @@ cssbyd.imwork.net:8082
 123.129.70.178:9901
 112.123.243.37:50085
 116.233.67.80:8899
+zb-live.ynurl.com:443
+ali-xwl.cztv.com:80
+43.156.8.127:5050
+www.goodiptv.club:80
+www.goodiptv.club:443
