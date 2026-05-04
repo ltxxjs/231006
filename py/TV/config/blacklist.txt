@@ -39,3 +39,6 @@ stream.thmz.com:80
 113.25.252.226:9901
 lb.streaming.sk:80
 www.goodiptv.club:443
+175.0.64.97:8888
+hkstv.tv:443
+live.metshop.top:443
