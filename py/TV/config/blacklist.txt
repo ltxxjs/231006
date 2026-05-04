@@ -38,3 +38,4 @@ stream.thmz.com:80
 113.65.124.131:9527
 113.25.252.226:9901
 lb.streaming.sk:80
+www.goodiptv.club:443
