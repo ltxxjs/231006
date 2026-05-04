@@ -43,3 +43,5 @@ www.goodiptv.club:443
 hkstv.tv:443
 live.metshop.top:443
 tencentplay.gztv.com:80
+183.129.255.66:8480
+tencentplay.gztv.com:443
