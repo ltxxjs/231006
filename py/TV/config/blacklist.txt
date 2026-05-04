@@ -31,3 +31,5 @@ qcfile.qcrmt.com:80
 218.104.239.114:9901
 123.129.70.178:9901
 live.metshop.top:80
+101.66.194.251:9901
+stream.thmz.com:80
