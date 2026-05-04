@@ -42,3 +42,4 @@ www.goodiptv.club:443
 175.0.64.97:8888
 hkstv.tv:443
 live.metshop.top:443
+tencentplay.gztv.com:80
