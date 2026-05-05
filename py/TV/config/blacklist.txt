@@ -55,3 +55,4 @@ stream1.freetv.fun:443
 wstvcpudali.v.myalicdn.com:443
 lianshui-tv-hls.cm.jstv.com:80
 183.47.2.156:16883
+stream.thmz.com:443
