@@ -58,3 +58,4 @@ lianshui-tv-hls.cm.jstv.com:80
 stream.thmz.com:443
 ali-xwl.cztv.com:80
 218.13.170.98:9901
+live.ottiptv.cc:443
