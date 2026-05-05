@@ -16,3 +16,6 @@ live.sfrmt.com:85
 124.116.183.146:9901
 iptv.4666888.xyz:80
 lxfile.lxxcb.cn:80
+123.130.84.106:8154
+l.cztvcloud.com:443
+r.jdshipin.com:80
