@@ -45,3 +45,5 @@ live.metshop.top:443
 tencentplay.gztv.com:80
 183.129.255.66:8480
 tencentplay.gztv.com:443
+shuyang-tv-hls.cm.jstv.com:443
+live12.xiazhix1.top:443
