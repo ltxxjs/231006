@@ -47,3 +47,5 @@ tencentplay.gztv.com:80
 tencentplay.gztv.com:443
 shuyang-tv-hls.cm.jstv.com:443
 live12.xiazhix1.top:443
+218.81.49.34:10010
+epg.pw:443
