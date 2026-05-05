@@ -53,3 +53,5 @@ l.cztvcloud.com:443
 615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn:80
 stream1.freetv.fun:443
 wstvcpudali.v.myalicdn.com:443
+lianshui-tv-hls.cm.jstv.com:80
+183.47.2.156:16883
