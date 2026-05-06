@@ -45,3 +45,6 @@ live.metshop.top:80
 live.metshop.top:443
 zb-live.ynurl.com:443
 183.129.255.66:8480
+huaiyin-tv-replay.cm.jstv.com:443
+218.81.49.34:10010
+218.104.239.114:9901
