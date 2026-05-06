@@ -48,3 +48,5 @@ zb-live.ynurl.com:443
 huaiyin-tv-replay.cm.jstv.com:443
 218.81.49.34:10010
 218.104.239.114:9901
+shuyang-tv-hls.cm.jstv.com:443
+219.155.100.251:1234
