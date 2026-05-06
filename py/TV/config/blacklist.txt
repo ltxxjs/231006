@@ -40,3 +40,8 @@ l.cztvcloud.com:80
 120.238.94.82:9901
 111.53.96.67:8081
 122.224.58.42:85
+live.metshop.top:80
+3739115337.cloudvdn.com:80
+live.metshop.top:443
+zb-live.ynurl.com:443
+183.129.255.66:8480
