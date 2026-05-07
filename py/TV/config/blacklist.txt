@@ -51,3 +51,4 @@ zb-live.ynurl.com:443
 stream.thmz.com:443
 tmpstream.hyrtv.cn:80
 218.13.170.98:9901
+dxtx.hntv.tv:443
