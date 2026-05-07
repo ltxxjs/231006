@@ -18,3 +18,10 @@ dtrmlive.qhdtrm.cn:80
 idclive.hljtv.com:4430
 l.cztvcloud.com:443
 genglei.8866.org:9901
+tpc.x3322.net:9901
+www.goodiptv.club:443
+153.0.171.163:9901
+huaiyin-tv-replay.cm.jstv.com:443
+218.104.239.114:9901
+111.170.156.74:3344
+119.39.9.8:9901
