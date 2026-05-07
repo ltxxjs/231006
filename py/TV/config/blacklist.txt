@@ -44,3 +44,9 @@ live.metshop.top:80
 113.65.124.131:9527
 lianshui-tv-hls.cm.jstv.com:443
 live.metshop.top:443
+live.spccmc.com:90
+61.221.215.25:8800
+zb-live.ynurl.com:443
+222.128.26.62:4001
+stream.thmz.com:443
+tmpstream.hyrtv.cn:80
