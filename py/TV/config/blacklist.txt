@@ -25,3 +25,11 @@ huaiyin-tv-replay.cm.jstv.com:443
 218.104.239.114:9901
 111.170.156.74:3344
 119.39.9.8:9901
+goodiptv.club:443
+r.jdshipin.com:80
+tencentplay.gztv.com:443
+183.220.20.17:4321
+123.129.70.178:9901
+5ddce30eb4b55.streamlock.net:443
+channel.wcrmt.cn:80
+www.goodiptv.club:80
