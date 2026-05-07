@@ -39,3 +39,8 @@ www.goodiptv.club:80
 124.116.183.146:9901
 175.0.64.97:8888
 kakaxi.indevs.in:80
+vip1.xinketongxun.fun:8082
+live.metshop.top:80
+113.65.124.131:9527
+lianshui-tv-hls.cm.jstv.com:443
+live.metshop.top:443
