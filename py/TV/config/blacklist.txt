@@ -56,3 +56,4 @@ dxtx.hntv.tv:443
 file.loulannews.cn:80
 pull-hls-f11.douyincdn.com:80
 218.94.90.74:57585
+222.179.42.129:8181
