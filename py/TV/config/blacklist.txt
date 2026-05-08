@@ -16,3 +16,4 @@ tv.drs.ganzitv.com:8100
 tpc.x3322.net:9901
 liveout.gstv.com.cn:443
 116.233.67.80:8899
+r.jdshipin.com:80
