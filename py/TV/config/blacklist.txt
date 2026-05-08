@@ -57,3 +57,7 @@ file.loulannews.cn:80
 pull-hls-f11.douyincdn.com:80
 218.94.90.74:57585
 222.179.42.129:8181
+120.198.95.220:9901
+live.jinchuanrmt.com:90
+lianshui-tv-hls.cm.jstv.com:80
+112.132.10.54:9901
