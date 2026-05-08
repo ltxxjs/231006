@@ -61,3 +61,7 @@ pull-hls-f11.douyincdn.com:80
 live.jinchuanrmt.com:90
 lianshui-tv-hls.cm.jstv.com:80
 112.132.10.54:9901
+116.233.67.80:8899
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+182.150.23.74:808
+shuyang-tv-hls.cm.jstv.com:443
