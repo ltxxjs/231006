@@ -31,3 +31,4 @@ lbds.us.ci
 epg.pw
 stream.freetv.fun
 t.freetv.fun
+pull-hls-f11.douyincdn.com
