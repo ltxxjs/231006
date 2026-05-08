@@ -52,3 +52,7 @@ stream.thmz.com:443
 tmpstream.hyrtv.cn:80
 218.13.170.98:9901
 dxtx.hntv.tv:443
+183.222.15.202:4321
+file.loulannews.cn:80
+pull-hls-f11.douyincdn.com:80
+218.94.90.74:57585
