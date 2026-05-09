@@ -36,3 +36,8 @@ tvfile.jjrm.org.cn:80
 live.metshop.top:443
 3gvod.zjgonline.com.cn:1935
 dtrmlive.qhdtrm.cn:80
+113.65.124.131:9527
+120.211.62.180:8000
+www.goodiptv.club:80
+l.cztvcloud.com:443
+goodiptv.club:443
