@@ -41,3 +41,8 @@ dtrmlive.qhdtrm.cn:80
 www.goodiptv.club:80
 l.cztvcloud.com:443
 goodiptv.club:443
+183.129.255.66:8480
+112.46.105.20:8009
+zb-live.ynurl.com:443
+120.10.167.40:1234
+221.220.130.93:9999
