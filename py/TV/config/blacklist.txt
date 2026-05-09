@@ -63,3 +63,4 @@ stream.thmz.com:80
 tmpstream.hyrtv.cn:80
 shuyang-tv-hls.cm.jstv.com:443
 58.37.29.210:9001
+182.150.23.74:808
