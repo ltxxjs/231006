@@ -32,3 +32,9 @@ epg.pw
 stream.freetv.fun
 t.freetv.fun
 pull-hls-f11.douyincdn.com
+63.141.230.178
+120.10.167.40
+221.13.235.120
+stream1.freetv.fun
+47.108.228.131
+120.211.62.180
