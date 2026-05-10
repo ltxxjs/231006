@@ -58,3 +58,4 @@ live12.xiazhix1.top:443
 111.170.156.74:3344
 tmpstream.hyrtv.cn:80
 113.25.252.226:9901
+shuyang-tv-hls.cm.jstv.com:443
