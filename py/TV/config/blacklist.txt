@@ -29,3 +29,11 @@ goodiptv.club:443
 l.cztvcloud.com:443
 116.209.53.150:8899
 live.metshop.top:443
+stream.thmz.com:80
+114.243.168.34:8888
+stream.thmz.com:443
+tvcdn.stream3.hndt.com:80
+175.0.64.97:8888
+113.65.124.131:9527
+t.freetv.fun:443
+1.94.31.214:80
