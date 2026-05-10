@@ -38,3 +38,5 @@ pull-hls-f11.douyincdn.com
 stream1.freetv.fun
 47.108.228.131
 120.211.62.180
+39.152.103.17
+101.66.198.87
