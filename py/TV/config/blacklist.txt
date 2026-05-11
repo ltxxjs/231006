@@ -49,3 +49,5 @@ live.metshop.top:443
 5ddce30eb4b55.streamlock.net:443
 tvpull.smartwq.cn:443
 124.65.2.127:20000
+stream.freetv.fun:443
+218.13.170.98:9901
