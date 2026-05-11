@@ -17,3 +17,6 @@ play.kankanlive.com
 idclive.hljtv.com
 112.132.10.54
 gxlive.snrtv.com
+111.221.137.234
+r.jdshipin.com
+47.108.228.131
