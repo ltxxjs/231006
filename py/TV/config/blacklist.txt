@@ -35,3 +35,7 @@ tpc.x3322.net:9901
 112.27.235.94:8000
 112.123.243.37:50085
 119.39.9.8:9901
+hls.nntv.cn:80
+goodiptv.club:443
+live.metshop.top:80
+t.freetv.fun:443
