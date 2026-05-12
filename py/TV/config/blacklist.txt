@@ -87,3 +87,5 @@ alimov2.a.kwimgs.com:443
 122.152.202.33:80
 stream11.jlntv.cn:80
 live12.xiazhix1.top:443
+122.100.242.52:12179
+175.0.64.97:8888
