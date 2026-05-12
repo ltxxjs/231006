@@ -93,3 +93,5 @@ live12.xiazhix1.top:443
 vip1.xinketongxun.fun:8082
 lianshui-tv-hls.cm.jstv.com:443
 uzoiczhh.live.sxmty.com:80
+222.95.12.2:4022
+live.ottiptv.cc:443
