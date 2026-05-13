@@ -101,3 +101,8 @@ lianshui-tv-hls.cm.jstv.com:80
 119.131.25.38:9003
 218.104.239.114:9901
 shuyang-tv-hls.cm.jstv.com:443
+zbbf2.ahbztv.com:80
+111.221.137.234:44330
+111.53.96.67:8081
+112.132.10.54:9901
+kakaxi.indevs.in:80
