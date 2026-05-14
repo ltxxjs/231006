@@ -108,3 +108,5 @@ zbbf2.ahbztv.com:80
 kakaxi.indevs.in:80
 218.94.90.74:57585
 222.179.42.129:8181
+202.105.239.77:8188
+stream.thmz.com:80
