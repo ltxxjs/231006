@@ -24,3 +24,10 @@ www.goodiptv.club:443
 goodiptv.club:443
 112.123.243.37:50085
 www.goodiptv.club:80
+111.221.137.234:44330
+222.169.85.8:9901
+live.metshop.top:443
+111.43.126.240:9003
+183.129.255.66:8480
+live.metshop.top:80
+tpc.x3322.net:9901
