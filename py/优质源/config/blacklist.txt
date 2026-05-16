@@ -35,3 +35,5 @@ pull-hls-f11.douyincdn.com
 119.39.9.8
 120.211.62.180
 srs.iyb983.cn
+l.cztvcloud.com
+live.264788.xyz
