@@ -44,3 +44,5 @@ lianshui-tv-hls.cm.jstv.com:443
 lianshui-tv-hls.cm.jstv.com:80
 183.237.95.108:9901
 218.84.12.186:8002
+l.cztvcloud.com:443
+112.132.10.54:9901
