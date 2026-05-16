@@ -31,3 +31,6 @@ live.metshop.top:443
 183.129.255.66:8480
 live.metshop.top:80
 tpc.x3322.net:9901
+175.155.106.72:89
+stream.thmz.com:80
+222.179.42.129:8181
