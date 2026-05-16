@@ -46,3 +46,6 @@ lianshui-tv-hls.cm.jstv.com:80
 218.84.12.186:8002
 l.cztvcloud.com:443
 112.132.10.54:9901
+jsmov2.a.yximgs.com:80
+event.pull.hebtv.com:443
+218.29.147.237:9901
