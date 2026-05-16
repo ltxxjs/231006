@@ -40,3 +40,7 @@ shuyang-tv-hls.cm.jstv.com:443
 59.35.185.47:8188
 183.222.15.202:4321
 183.220.107.138:4022
+lianshui-tv-hls.cm.jstv.com:443
+lianshui-tv-hls.cm.jstv.com:80
+183.237.95.108:9901
+218.84.12.186:8002
