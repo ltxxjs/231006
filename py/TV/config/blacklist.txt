@@ -50,3 +50,4 @@ lianshui-tv-hls.cm.jstv.com:443
 114.243.168.34:8888
 gmxw.7766.org:808
 r.jdshipin.com:80
+125.42.150.192:9901
