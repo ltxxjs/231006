@@ -47,3 +47,6 @@ liveout.xntv.tv:443
 stream.thmz.com:80
 lianshui-tv-hls.cm.jstv.com:443
 218.13.170.98:9901
+114.243.168.34:8888
+gmxw.7766.org:808
+r.jdshipin.com:80
