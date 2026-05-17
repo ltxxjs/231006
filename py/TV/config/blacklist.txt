@@ -14,3 +14,8 @@ live1.habctv.com:80
 qcfile.qcrmt.com:80
 idclive.hljtv.com:4430
 124.88.144.73:1935
+nor3live.win:80
+153.0.171.163:9901
+104.250.145.76:80
+116.233.67.80:8899
+tpc.x3322.net:9901
