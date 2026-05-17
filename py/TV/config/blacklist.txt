@@ -38,3 +38,9 @@ live.ottiptv.cc:443
 175.0.64.97:8888
 111.221.137.234:44330
 hao6688.3322.org:30066
+lianshui-tv-hls.cm.jstv.com:80
+43.156.8.127:5050
+112.132.10.54:9901
+www.wxhcgbds.com:8081
+liveout.btzx.com.cn:443
+liveout.xntv.tv:443
