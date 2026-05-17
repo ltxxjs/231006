@@ -44,3 +44,6 @@ lianshui-tv-hls.cm.jstv.com:80
 www.wxhcgbds.com:8081
 liveout.btzx.com.cn:443
 liveout.xntv.tv:443
+stream.thmz.com:80
+lianshui-tv-hls.cm.jstv.com:443
+218.13.170.98:9901
