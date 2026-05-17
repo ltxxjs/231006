@@ -27,3 +27,8 @@ l2fpdktp.live.sxmty.com:443
 l.cztvcloud.com:443
 tvpull.smartwq.cn:443
 123.130.84.106:8154
+zjrtv.vip:80
+218.104.239.114:9901
+112.123.243.37:50085
+satellitepull.cnr.cn:443
+183.129.255.66:8480
