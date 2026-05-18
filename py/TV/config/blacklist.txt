@@ -61,3 +61,5 @@ my9.ltd:443
 www.goodiptv.club:80
 hkstv.tv:443
 182.135.66.163:1888
+3gvod.zjgonline.com.cn:1935
+huaiyin-tv-replay.cm.jstv.com:443
