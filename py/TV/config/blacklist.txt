@@ -63,3 +63,7 @@ hkstv.tv:443
 182.135.66.163:1888
 3gvod.zjgonline.com.cn:1935
 huaiyin-tv-replay.cm.jstv.com:443
+shuyang-tv-hls.cm.jstv.com:443
+47.108.228.131:12193
+live.264788.xyz:443
+111.122.65.198:1234
