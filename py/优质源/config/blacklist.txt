@@ -24,3 +24,5 @@ r.jdshipin.com
 153.0.171.163
 112.132.10.54
 play-a2.quklive.com
+47.108.228.131
+haimen-tv-hls.cm.jstv.com
