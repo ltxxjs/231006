@@ -68,3 +68,4 @@ shuyang-tv-hls.cm.jstv.com:443
 live.264788.xyz:443
 111.122.65.198:1234
 live.xysrmt.cn:80
+120.211.62.180:8000
