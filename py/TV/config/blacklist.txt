@@ -91,3 +91,4 @@ o11.163189.xyz:80
 m3u8.channel.dzsm.com:443
 goodiptv.club:443
 php.jdshipin.com:2096
+play.yunxya.com:443
