@@ -85,3 +85,6 @@ stream.thmz.com:443
 111.53.96.67:8081
 hls.cntv.lxdns.com:443
 221.220.130.93:9999
+vip1.xinketongxun.fun:8082
+live.metshop.top:80
+o11.163189.xyz:80
