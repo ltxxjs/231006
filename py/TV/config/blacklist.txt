@@ -95,3 +95,4 @@ play.yunxya.com:443
 dspdhls.appcoo.com:8888
 stream.sun0769.com:443
 222.214.208.34:59901
+119.233.255.62:1234
