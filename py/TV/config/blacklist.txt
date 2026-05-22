@@ -96,3 +96,4 @@ dspdhls.appcoo.com:8888
 stream.sun0769.com:443
 222.214.208.34:59901
 119.233.255.62:1234
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
