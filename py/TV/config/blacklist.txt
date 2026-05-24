@@ -118,3 +118,5 @@ lxajh.top:80
 jwplay.hebyun.com.cn:443
 jwcdnqx.hebyun.com.cn:443
 207.56.13.146:81
+59.110.175.70:10000
+153.0.171.163:85
