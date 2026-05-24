@@ -115,3 +115,6 @@ live.zohi.tv:80
 lxajh.top:80
 67.220.71.199:2347
 111.122.65.136:1234
+jwplay.hebyun.com.cn:443
+jwcdnqx.hebyun.com.cn:443
+207.56.13.146:81
