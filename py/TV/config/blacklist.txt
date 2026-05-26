@@ -52,3 +52,6 @@ www.negative.top:50000
 live.metshop.top:80
 202.105.239.77:8188
 shuyang-tv-hls.cm.jstv.com:443
+l.cztvcloud.com:443
+182.150.23.74:808
+m3u8.channel.dzsm.com:443
