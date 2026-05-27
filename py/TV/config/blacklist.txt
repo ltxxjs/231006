@@ -68,3 +68,5 @@ stream.hrbtv.net:80
 113.241.133.180:85
 14.153.176.89:1234
 101.66.199.101:9901
+tvpull.smartwq.cn:443
+tvpull.hmgbtv.com:443
