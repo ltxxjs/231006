@@ -78,3 +78,4 @@ hwapi.yntv.net:443
 101.6.130.52:1234
 shcm-stream-cf1.stream.264788.xyz:443
 live.264788.xyz:443
+222.130.32.44:7788
