@@ -79,3 +79,4 @@ hwapi.yntv.net:443
 shcm-stream-cf1.stream.264788.xyz:443
 live.264788.xyz:443
 222.130.32.44:7788
+zmgd.zyrnet.com:8888
