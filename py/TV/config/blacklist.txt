@@ -110,3 +110,4 @@ live-auth.51kandianshi.com:443
 gctxyc.liveplay.myqcloud.com:443
 stream5.jlntv.cn:80
 jwcdnqx.hebyun.com.cn:443
+play.yunxya.com:443
