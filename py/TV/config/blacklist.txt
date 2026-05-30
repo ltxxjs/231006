@@ -138,3 +138,5 @@ stream.thmz.com:80
 175.155.106.72:89
 zjtv-wshls.homecdn.com:80
 cm-wshls.homecdn.com:80
+182.150.115.21:8030
+221.13.235.54:9901
