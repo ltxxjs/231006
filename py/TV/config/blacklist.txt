@@ -135,3 +135,6 @@ v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com:443
 live.zzyxxw.com:2443
 liveout.xntv.tv:443
 stream.thmz.com:80
+175.155.106.72:89
+zjtv-wshls.homecdn.com:80
+cm-wshls.homecdn.com:80
