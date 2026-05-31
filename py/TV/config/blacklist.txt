@@ -43,3 +43,7 @@ stream3.jlntv.cn:80
 183.129.255.66:8480
 cm-wshls.homecdn.com:80
 tmpstream.hyrtv.cn:80
+175.0.64.97:8888
+www.wxhcgbds.com:8081
+113.141.220.55:9901
+27.12.12.31:1234
