@@ -37,3 +37,8 @@ l.cztvcloud.com:443
 153.0.171.163:9901
 mytv.cdn.loc.cc:80
 stream.thmz.com:443
+111.43.126.240:9003
+l2fpdktp.live.sxmty.com:443
+stream3.jlntv.cn:80
+183.129.255.66:8480
+cm-wshls.homecdn.com:80
