@@ -33,3 +33,7 @@ r.jdshipin.com:80
 59.110.175.70:10000
 124.116.183.146:9901
 l.cztvcloud.com:443
+119.39.9.8:9901
+153.0.171.163:9901
+mytv.cdn.loc.cc:80
+stream.thmz.com:443
