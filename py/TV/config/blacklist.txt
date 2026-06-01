@@ -63,3 +63,7 @@ php.jdshipin.com:2096
 173.208.212.130:8181
 69.30.245.50:80
 107.150.60.122:80
+stream.thmz.com:80
+59.35.185.47:8188
+lbyzztfe.live.sxmty.com:80
+fuxin.yunjifei.top:999
