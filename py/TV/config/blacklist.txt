@@ -67,3 +67,5 @@ stream.thmz.com:80
 59.35.185.47:8188
 lbyzztfe.live.sxmty.com:80
 fuxin.yunjifei.top:999
+182.114.49.85:9901
+zjtv-wshls.homecdn.com:80
