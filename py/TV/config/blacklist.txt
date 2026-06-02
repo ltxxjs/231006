@@ -93,3 +93,6 @@ live.xysrmt.cn:80
 file.ysxtv.cn:443
 183.220.107.138:4022
 stream.sun0769.com:443
+test1.live.sdetv.com.cn:80
+118.193.115.2:9901
+gslbmgsplive.miguvideo.com:80
