@@ -105,3 +105,4 @@ live.264788.xyz:443
 shuyang-tv-hls.cm.jstv.com:443
 183.220.20.17:4321
 shcm-stream-cf1.stream.264788.xyz:443
+lianshui-tv-hls.cm.jstv.com:80
