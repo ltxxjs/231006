@@ -97,3 +97,11 @@ test1.live.sdetv.com.cn:80
 118.193.115.2:9901
 gslbmgsplive.miguvideo.com:80
 rihou.cc:555
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+1.24.39.180:9003
+hls.cntv.lxdns.com:443
+182.150.23.74:808
+live.264788.xyz:443
+shuyang-tv-hls.cm.jstv.com:443
+183.220.20.17:4321
+shcm-stream-cf1.stream.264788.xyz:443
