@@ -121,3 +121,4 @@ l.cztvcloud.com:80
 221.219.104.6:1193
 utv1.hqtvzb.com:9999
 221.7.175.154:8445
+play.jinnantv.top:80
