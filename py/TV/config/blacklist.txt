@@ -130,3 +130,6 @@ live.ahsz.tv:80
 live.zzyxxw.com:2443
 espanol-liveali.cgtn.com:80
 120.202.94.181:9446
+dxtx.hntv.tv:443
+58.56.162.102:4466
+222.95.12.2:4022
