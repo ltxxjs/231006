@@ -127,3 +127,5 @@ live.ahsz.tv:80
 101.66.199.12:9901
 222.130.32.131:7788
 116.52.173.217:1234
+live.zzyxxw.com:2443
+espanol-liveali.cgtn.com:80
