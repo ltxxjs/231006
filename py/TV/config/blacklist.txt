@@ -60,3 +60,4 @@ tmpstream.hyrtv.cn:80
 14.153.176.157:1234
 rihou.cc:555
 222.130.32.131:7788
+zmgd.zyrnet.com:8888
