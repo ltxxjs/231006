@@ -56,3 +56,7 @@ l2fpdktp.live.sxmty.com:443
 111.221.137.234:44330
 kakaxi.indevs.in:80
 119.39.9.8:9901
+tmpstream.hyrtv.cn:80
+14.153.176.157:1234
+rihou.cc:555
+222.130.32.131:7788
