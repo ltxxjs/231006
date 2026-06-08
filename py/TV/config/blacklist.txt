@@ -73,3 +73,6 @@ www.goodiptv.club:443
 www.goodiptv.club:80
 222.223.41.27:8888
 124.77.202.8:49155
+live.metshop.top:80
+live.264788.xyz:443
+shuyang-tv-hls.cm.jstv.com:443
