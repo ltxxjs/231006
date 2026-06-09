@@ -83,3 +83,6 @@ shcm-stream-cf1.stream.264788.xyz:443
 hwapi.yntv.net:443
 615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn:80
 satellitepull.cnr.cn:80
+r.jdshipin.com:80
+183.237.95.108:9901
+182.61.15.85:80
