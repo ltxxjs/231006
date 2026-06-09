@@ -78,3 +78,8 @@ live.264788.xyz:443
 shuyang-tv-hls.cm.jstv.com:443
 101.6.130.52:1234
 www.negative.top:50000
+gd202.tv1288.xyz:443
+shcm-stream-cf1.stream.264788.xyz:443
+hwapi.yntv.net:443
+615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn:80
+satellitepull.cnr.cn:80
