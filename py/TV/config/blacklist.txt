@@ -89,3 +89,4 @@ r.jdshipin.com:80
 125.43.244.34:9901
 zjrtv.vip:80
 101.66.195.125:9901
+live.jinchuanrmt.com:90
