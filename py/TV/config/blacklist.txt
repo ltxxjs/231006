@@ -103,3 +103,4 @@ gcwbndali.v.myalicdn.com:443
 27.12.12.250:1234
 stream3.jlntv.cn:80
 182.150.23.74:808
+epg.pw:443
