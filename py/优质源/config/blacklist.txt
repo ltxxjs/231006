@@ -27,3 +27,5 @@ lxajh.top
 play-a2.quklive.com
 l.cztvcloud.com
 104.250.145.76
+116.52.173.217
+218.206.193.218
