@@ -107,3 +107,5 @@ epg.pw:443
 218.15.183.23:9901
 lianshui-tv-hls.cm.jstv.com:443
 lianshui-tv-hls.cm.jstv.com:80
+222.179.155.21:1935
+0472.org:443
