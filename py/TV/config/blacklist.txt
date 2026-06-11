@@ -104,3 +104,6 @@ gcwbndali.v.myalicdn.com:443
 stream3.jlntv.cn:80
 182.150.23.74:808
 epg.pw:443
+218.15.183.23:9901
+lianshui-tv-hls.cm.jstv.com:443
+lianshui-tv-hls.cm.jstv.com:80
