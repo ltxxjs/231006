@@ -121,3 +121,4 @@ cm-wshls.homecdn.com:80
 live.zzyxxw.com:85
 183.223.157.33:9901
 qcfile.qcrmt.com:80
+m3u8.channel.dzsm.com:443
