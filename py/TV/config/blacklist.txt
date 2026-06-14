@@ -125,3 +125,4 @@ m3u8.channel.dzsm.com:443
 47.100.209.208:8100
 p2hs.vzan.com:443
 59.39.89.130:60901
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
