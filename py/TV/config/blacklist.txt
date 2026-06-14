@@ -123,3 +123,5 @@ live.zzyxxw.com:85
 qcfile.qcrmt.com:80
 m3u8.channel.dzsm.com:443
 47.100.209.208:8100
+p2hs.vzan.com:443
+59.39.89.130:60901
