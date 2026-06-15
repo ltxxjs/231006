@@ -46,3 +46,5 @@ pull-hls-f1.douyinliving.com
 116.52.173.106
 101.6.130.52
 d1t.alwaysdata.net
+222.223.41.27
+113.141.220.55
