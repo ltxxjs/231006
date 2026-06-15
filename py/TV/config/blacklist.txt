@@ -133,3 +133,11 @@ jwcdnqx.hebyun.com.cn:443
 dspdhls.appcoo.com:8888
 ali-m-l.cztv.com:443
 218.84.12.186:8002
+182.114.48.172:9901
+122.224.58.42:85
+223.75.149.129:9906
+radio.pull.hebtv.com:443
+bp-resource-dfl.bestv.cn:80
+fuxin.yunjifei.top:999
+125.43.249.150:9901
+125.43.244.40:9901
