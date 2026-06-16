@@ -146,3 +146,6 @@ gslbmgspvod.miguvideo.com:80
 antvlive.ab5c6921.cdnviet.com:80
 mytv.cdn.loc.cc:80
 gcalic.v.myalicdn.com:443
+61.136.172.236:9901
+play.scrstv.com.cn:443
+liveout.btzx.com.cn:443
