@@ -141,3 +141,5 @@ bp-resource-dfl.bestv.cn:80
 fuxin.yunjifei.top:999
 125.43.249.150:9901
 125.43.244.40:9901
+gslbflvmgsplive.miguvideo.com:80
+gslbmgspvod.miguvideo.com:80
