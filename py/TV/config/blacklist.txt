@@ -143,3 +143,6 @@ fuxin.yunjifei.top:999
 125.43.244.40:9901
 gslbflvmgsplive.miguvideo.com:80
 gslbmgspvod.miguvideo.com:80
+antvlive.ab5c6921.cdnviet.com:80
+mytv.cdn.loc.cc:80
+gcalic.v.myalicdn.com:443
