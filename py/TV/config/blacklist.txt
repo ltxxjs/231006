@@ -149,3 +149,4 @@ gcalic.v.myalicdn.com:443
 61.136.172.236:9901
 play.scrstv.com.cn:443
 liveout.btzx.com.cn:443
+tylive.kan0512.com:443
