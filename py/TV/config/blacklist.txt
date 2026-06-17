@@ -150,3 +150,5 @@ gcalic.v.myalicdn.com:443
 play.scrstv.com.cn:443
 liveout.btzx.com.cn:443
 tylive.kan0512.com:443
+111.231.6.102:1234
+svip.high24-playback.com:443
