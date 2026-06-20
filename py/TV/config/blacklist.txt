@@ -161,3 +161,6 @@ stream.sun0769.com:443
 183.222.15.202:4321
 p2.vzan.com:443
 wfenf.x3322.net:7788
+p2.bdstatic.com:443
+bp-resource-dfl.bestv.cn:443
+182.135.66.163:18888
