@@ -164,3 +164,5 @@ wfenf.x3322.net:7788
 p2.bdstatic.com:443
 bp-resource-dfl.bestv.cn:443
 182.135.66.163:18888
+gctxyc.liveplay.myqcloud.com:443
+stream.jmtv.com.cn:80
