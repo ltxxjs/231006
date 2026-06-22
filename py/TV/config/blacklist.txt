@@ -181,3 +181,5 @@ play.yunxya.com:443
 webcast.hkstv.tv:80
 hkstv.tv:443
 116.128.243.121:9905
+live.wxinxi.com:443
+125.42.150.56:9901
