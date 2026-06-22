@@ -47,3 +47,6 @@ iptv.4666888.xyz
 118.193.115.2
 l.cztvcloud.com
 home.scanflove.com
+bp-resource-dfl.bestv.cn
+ali-xwl.cztv.com
+shcm-stream-cf1.stream.264788.xyz
