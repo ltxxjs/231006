@@ -172,3 +172,5 @@ stream.jmtv.com.cn:80
 125.42.151.149:9901
 video.epaper.pybtv.cn:8080
 home.scanflove.com:7788
+101.66.194.49:9901
+101.66.198.87:9901
