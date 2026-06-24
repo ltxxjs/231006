@@ -43,3 +43,4 @@ webcast.hkstv.tv
 118.193.115.2
 hkstv.tv
 116.236.204.18
+goodiptv.club
