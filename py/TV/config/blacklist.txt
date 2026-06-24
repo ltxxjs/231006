@@ -190,3 +190,4 @@ hslive.hsnewsnet.com:80
 ls.qingting.fm:80
 222.130.32.214:7788
 207.56.13.146:81
+live.ahsz.tv:80
