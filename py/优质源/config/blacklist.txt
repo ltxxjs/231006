@@ -52,3 +52,5 @@ tvcdn.stream3.hndt.com
 jwcdnqx.hebyun.com.cn
 120.202.94.181
 dxtx.hntv.tv
+222.130.32.214
+flvhspull2mgsplive.miguvideo.com
