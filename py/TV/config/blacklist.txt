@@ -193,3 +193,4 @@ ls.qingting.fm:80
 live.ahsz.tv:80
 jsmov2.a.yximgs.com:80
 61.162.52.6:8088
+36.32.174.67:60080
