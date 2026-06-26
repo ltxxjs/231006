@@ -200,3 +200,5 @@ l.cztvcloud.com:80
 182.135.66.163:1888
 27.12.12.207:1234
 gctxyc.liveplay.myqcloud.com:80
+183.220.107.138:4022
+flvzypull2mgsplive.miguvideo.com:80
