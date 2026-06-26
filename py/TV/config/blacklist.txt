@@ -198,3 +198,5 @@ jsmov2.a.yximgs.com:80
 223.247.25.230:1234
 l.cztvcloud.com:80
 182.135.66.163:1888
+27.12.12.207:1234
+gctxyc.liveplay.myqcloud.com:80
