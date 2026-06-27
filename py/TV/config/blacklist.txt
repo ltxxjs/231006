@@ -205,3 +205,4 @@ flvzypull2mgsplive.miguvideo.com:80
 live.metshop.top:443
 8.153.110.51:3020
 59.175.226.142:280
+utv1.hqtvzb.com:9999
