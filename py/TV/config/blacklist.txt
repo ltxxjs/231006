@@ -47,3 +47,4 @@ stream.thmz.com:443
 m3u8.channel.dzsm.com:443
 123.129.70.178:9901
 183.129.255.66:8480
+epg.pw:443
