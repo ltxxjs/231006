@@ -24,3 +24,7 @@ lxfile.lxxcb.cn:80
 gslbmgsplive.miguvideo.com:80
 lxajh.top:80
 116.52.173.172:1234
+116.233.67.80:8899
+l.cztvcloud.com:443
+223.75.149.129:9906
+222.214.208.34:59901
