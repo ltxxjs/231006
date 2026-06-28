@@ -44,3 +44,5 @@ live.264788.xyz:443
 ls.qingting.fm:443
 stream.thmz.com:443
 27.12.12.207:1234
+m3u8.channel.dzsm.com:443
+123.129.70.178:9901
