@@ -60,3 +60,4 @@ www.negative.top:50000
 222.179.42.129:8181
 vip.ffzy-play7.com:443
 vip.ffzy-play1.com:443
+cm-wshls.homecdn.com:80
