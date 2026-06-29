@@ -61,3 +61,7 @@ www.negative.top:50000
 vip.ffzy-play7.com:443
 vip.ffzy-play1.com:443
 cm-wshls.homecdn.com:80
+222.134.245.16:9901
+o11.163189.xyz:80
+118.193.115.2:9901
+o11.163189.xyz:443
