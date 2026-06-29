@@ -54,3 +54,9 @@ play.jinnantv.top:80
 my9.ltd:443
 live.metshop.top:80
 1.24.39.180:9003
+59.39.89.130:60901
+www.negative.top:50000
+111.8.224.6:9999
+222.179.42.129:8181
+vip.ffzy-play7.com:443
+vip.ffzy-play1.com:443
