@@ -93,3 +93,5 @@ r.jdshipin.com:80
 srs.iyb983.cn:443
 182.150.115.21:8030
 p2.vzan.com:443
+live.ottiptv.cc:443
+www.wxhcgbds.com:8081
