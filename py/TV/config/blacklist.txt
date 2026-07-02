@@ -95,3 +95,6 @@ srs.iyb983.cn:443
 p2.vzan.com:443
 live.ottiptv.cc:443
 www.wxhcgbds.com:8081
+hkstv.tv:443
+www.goodiptv.club:80
+goodiptv.club:443
