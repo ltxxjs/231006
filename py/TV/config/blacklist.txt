@@ -109,3 +109,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 47.100.209.208:8100
 gmxw.7766.org:808
 183.220.107.138:4022
+pili-live-hls-sjxgz2024.sobeylive.com:443
+m3u8channel.yunxya.com:443
