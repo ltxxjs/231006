@@ -99,3 +99,5 @@ hkstv.tv:443
 www.goodiptv.club:80
 goodiptv.club:443
 dxtx.hntv.tv:443
+p2.bdstatic.com:443
+218.84.12.186:8001
