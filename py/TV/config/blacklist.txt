@@ -116,3 +116,5 @@ dassby.qqff.top:99
 113.141.220.55:9901
 flv-play.clouda.com:443
 gslbflvmgsplive.miguvideo.com:80
+live.jinchuanrmt.com:90
+qcfile.qcrmt.com:80
