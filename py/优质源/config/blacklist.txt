@@ -49,3 +49,5 @@ ali-xwl.cztv.com
 173.208.212.130
 218.13.170.98
 flv-play.clouda.com
+183.223.157.33
+bp-resource-dfl.bestv.cn
