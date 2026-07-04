@@ -48,3 +48,4 @@ ali-xwl.cztv.com
 113.141.220.55
 173.208.212.130
 218.13.170.98
+flv-play.clouda.com
