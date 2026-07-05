@@ -19,3 +19,13 @@ idclive.hljtv.com:4430
 live1.habctv.com:80
 r.jdshipin.com:80
 124.88.144.73:1935
+36.104.221.222:7788
+182.61.15.163:80
+gslbmgsplive.miguvideo.com:80
+v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com:443
+cm-wshls.homecdn.com:80
+222.214.208.34:59901
+111.8.224.6:9999
+110.244.139.249:7788
+101.6.130.52:1234
+222.169.85.8:9901
