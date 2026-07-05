@@ -51,3 +51,5 @@ ali-xwl.cztv.com
 flv-play.clouda.com
 183.223.157.33
 bp-resource-dfl.bestv.cn
+stream.thmz.com
+223.75.149.129
