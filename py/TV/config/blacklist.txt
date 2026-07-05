@@ -54,3 +54,5 @@ live.ottiptv.cc:443
 111.231.6.102:1234
 play.jinnantv.top:80
 stream.thmz.com:80
+8.153.110.51:3020
+live.spccmc.com:90
