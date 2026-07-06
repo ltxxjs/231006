@@ -77,3 +77,4 @@ qmmqvzoz.live.sxmty.com:443
 123.163.114.168:9901
 111.221.137.234:44330
 gmxw.7766.org:808
+zmgd.zyrnet.com:8888
