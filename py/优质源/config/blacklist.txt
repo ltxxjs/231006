@@ -31,3 +31,4 @@ mgsp-hs2.live.miguvideo.com
 bp-resource-dfl.bestv.cn
 live.264788.xyz
 dxtx.hntv.tv
+119.39.9.8
