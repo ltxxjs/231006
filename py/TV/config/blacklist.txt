@@ -93,3 +93,5 @@ stream8.jlntv.cn:80
 live.264788.xyz:443
 58.37.29.210:9001
 satellitepull.cnr.cn:443
+119.39.9.8:9901
+p2.bdstatic.com:443
