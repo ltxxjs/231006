@@ -110,3 +110,5 @@ stream.thmz.com:443
 rihou.cc:555
 101.66.199.247:9901
 push.cdn1.hls123.de:8080
+gd202.tv1288.xyz:443
+antvlive.ab5c6921.cdnviet.com:80
