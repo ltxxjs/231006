@@ -115,3 +115,4 @@ antvlive.ab5c6921.cdnviet.com:80
 125.42.150.233:9901
 125.42.150.240:9901
 207.56.13.146:81
+bp-resource-dfl.bestv.cn:80
