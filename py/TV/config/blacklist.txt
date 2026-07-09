@@ -116,3 +116,6 @@ antvlive.ab5c6921.cdnviet.com:80
 125.42.150.240:9901
 207.56.13.146:81
 bp-resource-dfl.bestv.cn:80
+hslive.hsnewsnet.com:80
+218.84.12.186:8002
+123.53.119.235:8089
