@@ -121,3 +121,7 @@ hslive.hsnewsnet.com:80
 123.53.119.235:8089
 47.104.178.59:3566
 125.42.151.116:9901
+jwplay.hebyun.com.cn:443
+stream.jmtv.com.cn:443
+tpc.x3322.net:9901
+123.163.114.168:85
