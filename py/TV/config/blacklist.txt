@@ -140,3 +140,4 @@ gctxyc.liveplay.myqcloud.com:443
 gslbmgspvod.miguvideo.com:80
 hls.cntv.lxdns.com:443
 27.12.12.183:1234
+www.goodiptv.club:443
