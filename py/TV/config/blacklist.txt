@@ -135,3 +135,8 @@ liveout.btzx.com.cn:443
 101.66.194.82:9901
 satellitepull.cnr.cn:80
 223.105.252.59:80
+223.247.25.207:1234
+gctxyc.liveplay.myqcloud.com:443
+gslbmgspvod.miguvideo.com:80
+hls.cntv.lxdns.com:443
+27.12.12.183:1234
