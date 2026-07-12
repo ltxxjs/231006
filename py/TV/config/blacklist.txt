@@ -36,3 +36,5 @@ epg.pw:443
 dxtx.hntv.tv:443
 ali-m-l.cztv.com:443
 stream.thmz.com:443
+223.247.25.207:1234
+175.0.64.97:8888
