@@ -27,3 +27,6 @@ hslive.hsnewsnet.com:80
 hzcm-live.media.hugd.com:80
 l.cztvcloud.com:443
 112.123.243.37:50085
+183.64.174.171:40123
+111.221.137.234:44330
+play.jinnantv.top:80
