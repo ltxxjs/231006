@@ -33,3 +33,6 @@ hslive.hsnewsnet.com:80
 27.12.12.183:1234
 115.48.161.108:9901
 218.13.170.98:9901
+stream.thmz.com:80
+183.129.255.66:8480
+home.scanflove.com:7788
