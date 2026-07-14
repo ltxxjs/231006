@@ -53,3 +53,6 @@ hkstv.tv:443
 live.metshop.top:443
 p2.bdstatic.com:443
 113.25.252.226:9901
+1yp7hc5p.live.sxmty.com:443
+webcast.hkstv.tv:80
+222.179.42.129:8181
