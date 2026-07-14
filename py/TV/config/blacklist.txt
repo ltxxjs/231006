@@ -60,3 +60,4 @@ webcast.hkstv.tv:80
 43.156.8.127:5050
 dxtx.hntv.tv:443
 live.xysrmt.cn:80
+hzcm-live.media.hugd.com:80
