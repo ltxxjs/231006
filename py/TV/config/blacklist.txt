@@ -25,3 +25,6 @@ live.yantaitv.cn:80
 nor3live.win:80
 tvfile.jjrm.org.cn:80
 tpc.x3322.net:9901
+live.metshop.top:443
+l.cztvcloud.com:443
+183.129.255.66:8480
