@@ -39,3 +39,8 @@ gslbmgsplive.miguvideo.com:80
 222.223.41.27:8888
 59.35.185.47:8188
 play.scrstv.com.cn:443
+bp-resource-dfl.bestv.cn:80
+222.134.245.16:9901
+123.130.84.106:8154
+shcm-stream-cf1.stream.264788.xyz:443
+60.10.139.113:8801
