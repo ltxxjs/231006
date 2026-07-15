@@ -47,3 +47,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 live.ottiptv.cc:443
 118.193.115.2:9901
 43.156.8.127:5050
+183.129.255.66:8480
+stream.thmz.com:443
