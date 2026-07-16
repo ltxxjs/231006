@@ -38,3 +38,7 @@ l.cztvcloud.com:443
 gslbmgsplive.miguvideo.com:80
 119.88.243.98:17231
 182.61.15.163:80
+182.135.66.163:18888
+jsmov2.a.yximgs.com:80
+uzoiczhh.live.sxmty.com:80
+play.jinnantv.top:80
