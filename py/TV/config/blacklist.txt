@@ -52,3 +52,4 @@ hkstv.tv:443
 live.metshop.top:80
 webcast.hkstv.tv:80
 182.150.23.74:808
+file.ysxtv.cn:443
