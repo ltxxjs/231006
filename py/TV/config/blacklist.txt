@@ -42,3 +42,8 @@ gslbmgsplive.miguvideo.com:80
 jsmov2.a.yximgs.com:80
 uzoiczhh.live.sxmty.com:80
 play.jinnantv.top:80
+112.123.243.37:50085
+live.264788.xyz:443
+222.134.245.16:9901
+218.13.170.98:9901
+222.214.208.34:59901
