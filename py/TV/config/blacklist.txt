@@ -37,3 +37,7 @@ epg.pw:443
 gmxw.7766.org:808
 stream.thmz.com:80
 183.129.255.66:8480
+vip1.xinketongxun.fun:8082
+118.193.115.2:9901
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
