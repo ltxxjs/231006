@@ -56,3 +56,6 @@ live.metshop.top:443
 182.150.23.74:808
 stream9.jlntv.cn:80
 play.scrstv.com.cn:443
+8.153.110.51:3020
+119.88.243.98:17231
+l.cztvcloud.com:80
