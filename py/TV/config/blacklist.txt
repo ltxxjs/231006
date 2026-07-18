@@ -36,3 +36,9 @@ bp-resource-dfl.bestv.cn:443
 hslive.hsnewsnet.com:80
 116.52.173.5:1234
 223.247.25.221:1234
+222.179.42.129:8181
+play.jinnantv.top:80
+101.66.194.150:9901
+222.134.245.16:9901
+live.jinchuanrmt.com:90
+101.66.194.177:9901
