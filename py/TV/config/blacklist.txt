@@ -89,3 +89,7 @@ satellitepull.cnr.cn:80
 hlsal-ldvt.qing.mgtv.com:80
 live.ottiptv.cc:443
 bp-resource-dfl.bestv.cn:443
+live.spccmc.com:90
+27.12.12.189:1234
+m3u8channel.yunxya.com:443
+bp-resource-dfl.bestv.cn:80
