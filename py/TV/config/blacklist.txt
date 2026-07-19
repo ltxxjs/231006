@@ -79,3 +79,13 @@ hkstv.tv:443
 222.179.42.129:8181
 125.42.148.232:9901
 43.156.8.127:5050
+183.237.95.108:9901
+183.220.20.17:4321
+183.11.239.36:808
+cd-live-stream.news.cctvplus.com:80
+m3u8.channel.dzsm.com:443
+111.221.137.234:44330
+satellitepull.cnr.cn:80
+hlsal-ldvt.qing.mgtv.com:80
+live.ottiptv.cc:443
+bp-resource-dfl.bestv.cn:443
