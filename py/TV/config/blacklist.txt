@@ -63,3 +63,7 @@ gctxyc.liveplay.myqcloud.com:80
 stream10.jlntv.cn:80
 175.0.64.97:8888
 jwcdnqx.hebyun.com.cn:443
+183.129.255.66:8480
+live.gdtv.ah.cn:443
+zbbf2.ahbztv.com:80
+l.cztvcloud.com:443
