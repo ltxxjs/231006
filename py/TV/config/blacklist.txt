@@ -93,3 +93,4 @@ live.spccmc.com:90
 27.12.12.189:1234
 m3u8channel.yunxya.com:443
 bp-resource-dfl.bestv.cn:80
+live.zzyxxw.com:2443
