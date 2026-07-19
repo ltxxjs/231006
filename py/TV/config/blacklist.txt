@@ -67,3 +67,7 @@ jwcdnqx.hebyun.com.cn:443
 live.gdtv.ah.cn:443
 zbbf2.ahbztv.com:80
 l.cztvcloud.com:443
+epg.pw:443
+218.206.193.218:8888
+218.13.170.98:9901
+stream.thmz.com:443
