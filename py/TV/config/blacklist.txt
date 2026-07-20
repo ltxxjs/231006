@@ -42,3 +42,8 @@ ldocctvwbcdbd.a.bdydns.com:443
 bp-resource-dfl.bestv.cn:80
 183.11.239.36:808
 stream.thmz.com:80
+183.236.43.98:4013
+218.206.193.218:8888
+qmmqvzoz.live.sxmty.com:443
+101.66.194.150:9901
+ls.qingting.fm:80
