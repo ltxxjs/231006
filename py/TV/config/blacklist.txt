@@ -38,3 +38,7 @@ gslbmgsplive.miguvideo.com:80
 ldocctvwbcdbd.a.bdydns.com:443
 222.214.208.34:59901
 218.13.170.98:9901
+111.221.137.234:44330
+bp-resource-dfl.bestv.cn:80
+183.11.239.36:808
+stream.thmz.com:80
