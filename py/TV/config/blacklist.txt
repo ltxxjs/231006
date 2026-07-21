@@ -71,3 +71,8 @@ l2fpdktp.live.sxmty.com:443
 stream.sun0769.com:443
 183.47.2.156:16883
 my9.ltd:443
+mgsp-zy2.live.miguvideo.com:8088
+1.24.39.180:9003
+111.8.224.6:9999
+183.220.107.138:4022
+jsv-live-play.sfccn.com:443
