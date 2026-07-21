@@ -59,3 +59,6 @@ live.qthnews.org.cn:1935
 222.95.12.2:4022
 60.222.246.220:19433
 p2hs.vzan.com:443
+222.128.55.152:9080
+stream.thmz.com:443
+zjrtv.vip:80
