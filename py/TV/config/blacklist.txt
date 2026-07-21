@@ -76,3 +76,5 @@ mgsp-zy2.live.miguvideo.com:8088
 111.8.224.6:9999
 183.220.107.138:4022
 jsv-live-play.sfccn.com:443
+live.ottiptv.cc:443
+gmxw.7766.org:808
