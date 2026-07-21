@@ -33,3 +33,6 @@ d1t.alwaysdata.net
 flvhspull2mgsplive.miguvideo.com
 epg.pw
 218.206.193.218
+118.193.115.2
+jsv-live-play.sfccn.com
+1.24.39.180
