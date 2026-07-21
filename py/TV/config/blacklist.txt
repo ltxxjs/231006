@@ -62,3 +62,12 @@ p2hs.vzan.com:443
 222.128.55.152:9080
 stream.thmz.com:443
 zjrtv.vip:80
+182.150.23.74:808
+stream.jmtv.com.cn:443
+www.negative.top:50000
+218.84.12.186:8001
+l2fpdktp.live.sxmty.com:443
+1yp7hc5p.live.sxmty.com:443
+stream.sun0769.com:443
+183.47.2.156:16883
+my9.ltd:443
