@@ -59,3 +59,9 @@ m3u8.channel.dzsm.com:443
 120.202.94.181:9446
 webcast.hkstv.tv:80
 ali-m-l.cztv.com:443
+tntgjhjb.live.sxmty.com:443
+49.87.154.246:85
+live.xysrmt.cn:80
+l2fpdktp.live.sxmty.com:443
+222.179.42.129:8181
+ali-vl.cztv.com:80
