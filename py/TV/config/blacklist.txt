@@ -53,3 +53,4 @@ hzcm-live.media.hugd.com:80
 cm-wshls.homecdn.com:80
 1yp7hc5p.live.sxmty.com:443
 play.scrstv.com.cn:443
+stream.thmz.com:443
