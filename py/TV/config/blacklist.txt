@@ -44,3 +44,15 @@ epg.pw:443
 devlivepull.migucloud.com:80
 1yp7hc5p.live.sxmty.com:443
 123.130.84.106:8154
+bp-resource-dfl.bestv.cn:443
+live.ottiptv.cc:443
+cm-wshls.homecdn.com:80
+125.43.247.15:9901
+101.66.194.150:9901
+www.negative.top:50000
+183.64.174.171:40123
+ali-vl.cztv.com:80
+119.39.9.8:9901
+222.179.42.129:8181
+111.8.224.6:9999
+bp-resource-dfl.bestv.cn:80
