@@ -62,3 +62,7 @@ bp-resource-dfl.bestv.cn:80
 gmxw.7766.org:808
 182.150.23.74:808
 stream.thmz.com:443
+jsmov2.a.yximgs.com:80
+182.61.15.84:80
+116.147.108.34:7788
+125.42.151.53:9901
