@@ -52,3 +52,6 @@ lbyzztfe.live.sxmty.com:80
 182.150.23.74:808
 116.233.67.80:8899
 stream.thmz.com:443
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+epg.pw:443
