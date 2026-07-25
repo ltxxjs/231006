@@ -34,3 +34,8 @@ gslbflvmgsplive.miguvideo.com:80
 116.52.173.134:1234
 l.cztvcloud.com:443
 182.127.153.79:1234
+121.230.179.192:8802
+ali-vl.cztv.com:80
+119.39.9.8:9901
+shcm-stream-cf1.stream.264788.xyz:443
+116.233.67.80:8899
