@@ -12,3 +12,9 @@ ali-vl.cztv.com:80
 live1.habctv.com:80
 live.yantaitv.cn:80
 tvfile.jjrm.org.cn:80
+104.250.145.76:80
+116.233.67.80:8899
+iptv.4666888.xyz:80
+nor3live.win:80
+tpc.x3322.net:9901
+l.cztvcloud.com:443
