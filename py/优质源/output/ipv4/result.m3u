@@ -1,377 +1,331 @@
 #EXTM3U x-tvg-url="https://gh.catmak.name/https://raw.githubusercontent.com/Guovin/iptv-api/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV2.png" group-title="央视频道",🌐 CCTV2 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260725113251&Channel_ID=0116_2600034600-99000-201600010085513&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=124.167.235.127&SecurityKey=20260725113251&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3ae3e3324ef3685af71520a3d79a7ac6&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=e902288155efbb35cb016e8a8e5c5a88&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260726052652&Channel_ID=0116_2600034600-99000-201600010032930&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=220.196.48.137&SecurityKey=20260726052652&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1373341fbe8d1a1f52dd420b1000a250&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV2.png" group-title="央视频道",🌐 CCTV2 | 502.0KB/s
 http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=4bc9d1e75fd1f07a010e7b1b172dec39&wsTime=6a5dd919&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-202607201615205ACC9353BF3D6E6078BB-Tv3cmJ
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV5.png" group-title="央视频道",🌐 CCTV5 | 2390.4KB/s
-http://txycdn6.video.qq.com/1369718502.m3u8?time=1784959315&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJoLkiNd0HKkDRp4iMwDOk6tqDkkZD8rArPj0i1d3a0vEAUMivrdD0DKLAwUeu9Khk8BcC5oxUxIjOFEbgFKqI7ASQOIki--o-1X8R1zSGDedS6WsrYc5DpNJNCVsWvhk-0OtdHrkPyMW1bZWQ7OCY3NeTqFuydYrdshBhvGPPGEZveiCppJIzaEEIUqgtZiWpvnsRsN_84_TEAgccwr4J6wFwmnFmyF74dFr-Zs44Nm8RgHci1JOxYHQWfdSM8eoBa5l0J3-CgSpKiEQuNNmZM7koYVNj47kDUIBEj4wcdLywb11TENImyMovG_f0tI9OaX-a_yGFkDnFsvTcv-Im35NaWB0ONI5DVayH2qUi4qnuyMYFniZ9KiQUhh6GH718qxPHe6vHyhFfbrIj0nEdzNwYYkNOmFaxfSftji63qLJyab4l8djz5oFfebCpYqdIonhoV3YyVN3d8WssPoOaZVEvN_VCzDnoV9_tSY85RBbCaqGK_k9RoZ12jsyK1Klzj1NQDfTGUDj4HqhhLV56IoI2haTaTNuqXsW2fNJN1W1lAy&drmtype=0
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV6.png" group-title="央视频道",🌐 CCTV6 | 3078.7KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=db8c073587d08e2de18d697ad087a7b3&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260725114457&Channel_ID=0116_2600034600-99000-201600010048419&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=171.121.253.138&SecurityKey=20260725114457&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eead13aefbbd3b58a8b33de778f13265&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV6.png" group-title="央视频道",🌐 CCTV6 | 396.5KB/s
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV3.png" group-title="央视频道",🌐 CCTV3 | 7311.5KB/s
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=7ac57975a1dc9fe7db677f25891e4f52&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260726053838&Channel_ID=0116_2600034600-99000-201600010040908&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=36.137.9.232&SecurityKey=20260726053838&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d3111951c19604118f3ab300ee667f7b&sv=10004&ct=android
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV5.png" group-title="央视频道",🌐 CCTV5 | 7311.5KB/s
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=e902288155efbb35cb016e8a8e5c5a88&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260726053339&Channel_ID=0116_2600034600-99000-201600010040704&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=116.128.189.125&SecurityKey=20260726053339&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=02291af6ee9018659a678dab8b576e34&sv=10004&ct=android
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV6.png" group-title="央视频道",🌐 CCTV6 | 7311.5KB/s
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=e902288155efbb35cb016e8a8e5c5a88&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260726053308&Channel_ID=0116_2600034600-99000-201600010064852&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=116.128.189.128&SecurityKey=20260726053308&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5fd51bb0a585886306322c7299bb8eba&sv=10004&ct=android
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV6.png" group-title="央视频道",🌐 CCTV6 | 400.4KB/s
 http://104.152.209.49:8181/720p/cctv6.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV6.png" group-title="央视频道",🌐 CCTV6 | 381.8KB/s
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV6.png" group-title="央视频道",🌐 CCTV6 | 382.8KB/s
 http://207.56.13.146:81/cdnlive/cctv6.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV7.png" group-title="央视频道",🌐 CCTV7 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/index.m3u8?msisdn=eeb940dd10836070760730cae9609015&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260725114122&Channel_ID=0116_2600034600-99000-201600010019348&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=124.167.235.9&SecurityKey=20260725114122&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c4d6c1a22a0969ab68e493ebfe4bfc55&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV8.png" group-title="央视频道",🌐 CCTV8 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=db8c073587d08e2de18d697ad087a7b3&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260725114339&Channel_ID=0116_2600034600-99000-201600010036307&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=124.165.120.56&SecurityKey=20260725114339&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=af80c48377afbcb03af5e11c1a77b6eb&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV9.png" group-title="央视频道",🌐 CCTV9 | 4345.6KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=761035be62793f2f39f0ec397c2d5715&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260725113908&Channel_ID=0116_2600034600-99000-201600010065055&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=124.163.202.88&SecurityKey=20260725113908&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cd64a658810a935488b3a952d270c39b&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV10.png" group-title="央视频道",🌐 CCTV10 | 5427.7KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260725113647&Channel_ID=0116_2600034600-99000-201600010071758&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=116.179.48.222&SecurityKey=20260725113647&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cb81938faadba4d4f5cc02bcdd14fc8e&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV11.png" group-title="央视频道",🌐 CCTV11 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260725113617&Channel_ID=0116_2600034600-99000-201600010049422&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=116.179.48.222&SecurityKey=20260725113617&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a4b417dbaf5226de5a29556df448e480&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV12.png" group-title="央视频道",🌐 CCTV12 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260725113543&Channel_ID=0116_2600034600-99000-201600010019122&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=116.179.48.159&SecurityKey=20260725113543&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1e067f7fea95f212ffc726e9ab4d92ba&sv=10004&ct=android
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV13.png" group-title="央视频道",🌐 CCTV13 | 8821.3KB/s
-http://txycdn4.video.qq.com/1369932002.m3u8?time=1784942005&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIOoPi5PgpMmWQTAqgqG8jdSGhHGrWimhp3Thwujmqtl8EOPCXhpTyBvyg3fA5KE0iOQBcLGIubocnB0lXunaSlR75SWJOWMbnmemDmDpiarKvO-V7dZ4xjjlMpGjuEUvI0bl9n8IEUI1jBAso47ZzKEiZohfXdksgSyzaaZPuRPnYFOdaAr9jaz1k1TqhC6IEQry6mvv6XGdM2rsp95zXGp97ZCTwIC9Hxx1UvvHXRvsMnRnlVpnS1dpcT-BMrzahADW50ytM6Ih6QAVnzX_iCvECey8PhjxQkORdjcdXW_5EYk1ITAp-iTl_nt9cDIpNC1fr6szmS-YnwhgEH3BntafR_XY-p1-1555XuUKkvs1FRlwi02aZeywbR_oYe4wZadAb1Rl6ZSJXq2m-0QkpKXUviPuBttg1ji7c57Q5zxQwgugZEFpzOOJf27oli_yW6KZvDzLzMgiFNw49dJAqOYts_0GwpqA-6rWQxXRTJhQA2UaQ2t137tIYhBkkbrTzjYufZVN0lxSOxbZopiaW1SdNJZ-JkI_pAoNxb2kc7peY9DM&drmtype=0
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV14.png" group-title="央视频道",🌐 CCTV14 | 7038.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260725113511&Channel_ID=0116_2600034600-99000-201600010069369&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=116.179.48.209&SecurityKey=20260725113511&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5ac51df445d129161d4574e686134fc7&sv=10004&ct=android
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV13.png" group-title="央视频道",🌐 CCTV13 | 7311.5KB/s
+http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=e902288155efbb35cb016e8a8e5c5a88&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260726052756&Channel_ID=0116_2600034600-99000-201600010051337&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=220.196.48.137&SecurityKey=20260726052756&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=75f2f0fcd448017b517b8595af9b5d75&sv=10004&ct=android
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV15.png" group-title="央视频道",🌐 CCTV15 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260725113434&Channel_ID=0116_2600034600-99000-201600010050435&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=116.179.48.209&SecurityKey=20260725113434&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=771735004c81a2a67f78957568a36983&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=a821271309631668077c06624d792133&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260726051734&Channel_ID=0116_2600034600-99000-201600010078082&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=220.196.48.108&SecurityKey=20260726051734&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8cc00866cc840aa256251bbdc9ac6429&sv=10004&ct=android
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV17.png" group-title="央视频道",🌐 CCTV17 | 8823.2KB/s
+http://txycdn7.video.qq.com/1370437902.m3u8?time=1784958788&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIKsfdrqtnRIeJHUEOUWZSvYDxJTwwPWmzYAPLWv9NqpdEPUsEyGI0MY0nkxoi9ts89sBcPGqfD-JQcbUqyVIWeVKvY10GDuOVNyNjNxgTkcQcO68Te4Gfjb90hjuyXSANrzdVV761hksEztwZVCnyh_G6gXm0-GGPP0GYoABclo2uVy4u7stSfFjIE5ZtVCAsKHSP2J5gusdeeP77aVZ3OiD425Xw8GBkUekNnOl2X17BJS1azTaUAyr5PeR1d8bttjG2ux-uasAzUMj-XCQSooQZ91eKbvjguemQLZG7g1Uurj0EugRSs4nQlHD8kfgm-JAkgrYATsZ7i6lfOHhqaJgG-UC1t6Wu5W9RG5yiv2kNHP68m9BVJjDHFfmkhZHs8z9gddFOhRuG8_zOuTAYlb9vm0VISVKgYReINNofOXqdWC_386ltNihu1M3PNm2BQ4OPECNdqJ-Jm1_mUWjsdY25mbc9dIsWLx_-bfE-WJ8fBkZ8RowLWyA-h8qFAJj0_85GOQM4Bg7JkxqWjVnrQ0wZzlggqzMggJCTD4Ci2ySGONj&drmtype=0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/CCTV17.png" group-title="央视频道",🌐 CCTV17 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=b01c4a473717e17b22d27c5e34e7888e&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260725113322&Channel_ID=0116_2600034600-99000-201600010075201&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=124.167.235.127&SecurityKey=20260725113322&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d752d5810e6070b33ede2f9aa95f78bd&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=e902288155efbb35cb016e8a8e5c5a88&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260726052722&Channel_ID=0116_2600034600-99000-201600010040933&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=220.196.48.137&SecurityKey=20260726052722&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d89ff404de920d69b997adabfd991dcf&sv=10004&ct=android
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浙江卫视.png" group-title="卫视频道",🌐 浙江卫视 | 473.6KB/s
 http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浙江卫视.png" group-title="卫视频道",🌐 浙江卫视 | 344.7KB/s
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/东方卫视.png" group-title="卫视频道",🌐 东方卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260725111548&Channel_ID=0116_2600034600-99000-201600010045660&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=171.121.253.139&SecurityKey=20260725111548&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=15b9ae1b40bbbba63d5c480c1c3d4fff&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=12a3e393bca133872498cb2df5082968&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260726052222&Channel_ID=0116_2600034600-99000-201600010082398&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=220.196.48.167&SecurityKey=20260726052222&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=65b68d6adf816b4ed93115d65463ac07&sv=10004&ct=android
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/北京卫视.png" group-title="卫视频道",🌐 北京卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260725111517&Channel_ID=0116_2600034600-99000-201600010079520&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=171.121.253.216&SecurityKey=20260725111517&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3af40f21fa752ff5d34c368af0c1747&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/index.m3u8?msisdn=89550489b6edd211577ce8a17873d83b&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260726052044&Channel_ID=0116_2600034600-99000-201600010009939&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=220.196.48.219&SecurityKey=20260726052044&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=308aed1abd4bd61e10b0e2d931e545fd&sv=10004&ct=android
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/江苏卫视.png" group-title="卫视频道",🌐 江苏卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260725111446&Channel_ID=0116_2600034600-99000-201600010096192&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=171.121.253.216&SecurityKey=20260725111446&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=82fd17ff7230c35795f8f835d12d8d95&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=89550489b6edd211577ce8a17873d83b&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260726052010&Channel_ID=0116_2600034600-99000-201600010074809&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=220.196.48.219&SecurityKey=20260726052010&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f34fff0c3a3031b1d9660c4d1b1dcde1&sv=10004&ct=android
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/广东卫视.png" group-title="卫视频道",🌐 广东卫视 | 7311.5KB/s
+http://hlsztemgsplive.miguvideo.com:8080/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=555426819c4e788655054bf519a4d8cb&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260726031947&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=117.140.168.31&SecurityKey=20260726031947&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=145532621&jmhm=555426819c4e788655054bf519a4d8cb&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=3fdd537aa4526e98423244c6e6249b2e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=716b42a3bcd1a2c0b3986113e39e2554
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/黑龙江卫视.png" group-title="卫视频道",🌐 黑龙江卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260725111258&Channel_ID=0116_2600034600-99000-201600010032528&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=124.165.120.158&SecurityKey=20260725111258&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fbc7852dee4de2bc059b3128f31ab9b5&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=89550489b6edd211577ce8a17873d83b&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260726051828&Channel_ID=0116_2600034600-99000-201600010008674&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=220.196.48.108&SecurityKey=20260726051828&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d931112106597c480eeff4085c63e1de&sv=10004&ct=android
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/湖北卫视.png" group-title="卫视频道",🌐 湖北卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260725111415&Channel_ID=0116_2600034600-99000-201600010068771&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=124.165.120.158&SecurityKey=20260725111415&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54d76f4b4203124e9b272749f8afdcea&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=89550489b6edd211577ce8a17873d83b&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260726051937&Channel_ID=0116_2600034600-99000-201600010013716&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=220.196.48.108&SecurityKey=20260726051937&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3badbcc23dbf9d7078680cbcd9b3387a&sv=10004&ct=android
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/江西卫视.png" group-title="卫视频道",🌐 江西卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260725111335&Channel_ID=0116_2600034600-99000-201600010001486&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=124.165.120.158&SecurityKey=20260725111335&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9f3fb782c4469bed30d7807aba047eac&sv=10004&ct=android
+http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=89550489b6edd211577ce8a17873d83b&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260726051902&Channel_ID=0116_2600034600-99000-201600010017020&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=220.196.48.108&SecurityKey=20260726051902&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e7a2f88dca33a53826f32e9c717abd12&sv=10004&ct=android
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/辽宁卫视.png" group-title="卫视频道",🌐 辽宁卫视 | 7311.5KB/s
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=f5c4faeb598d3464eadb2041b0634a13&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260725111227&Channel_ID=0116_2600034600-99000-201600010064580&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=124.165.120.158&SecurityKey=20260725111227&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=54d7b99375eb002a546455f6a709ae60&sv=10004&ct=android
-#EXTINF:-1 tvg-name="电影_周星驰" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_周星驰.png" group-title="☘️轮播台",🔒 电影_周星驰 | 324.1KB/s
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=89550489b6edd211577ce8a17873d83b&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260726051758&Channel_ID=0116_2600034600-99000-201600010033610&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=220.196.48.108&SecurityKey=20260726051758&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a675974d53555979a21159bbcdc3dba2&sv=10004&ct=android
+#EXTINF:-1 tvg-name="电影_周星驰" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_周星驰.png" group-title="☘️轮播台",🔒 电影_周星驰 | 349.1KB/s
 https://lbds.us.ci/11336587
-#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_成龙.png" group-title="☘️轮播台",🔒 电影_成龙 | 766.9KB/s
+#EXTINF:-1 tvg-name="电影_成龙" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_成龙.png" group-title="☘️轮播台",🔒 电影_成龙 | 350.6KB/s
 https://lbds.us.ci/11342386
-#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_王晶.png" group-title="☘️轮播台",🔒 电影_王晶 | 996.6KB/s
+#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_王晶.png" group-title="☘️轮播台",🔒 电影_王晶 | 809.0KB/s
 https://lbds.us.ci/11602058
-#EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_沈腾.png" group-title="☘️轮播台",🔒 电影_沈腾 | 1092.7KB/s
+#EXTINF:-1 tvg-name="电影_沈腾" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_沈腾.png" group-title="☘️轮播台",🔒 电影_沈腾 | 1219.4KB/s
 https://lbds.us.ci/11601968
-#EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_黄渤.png" group-title="☘️轮播台",🔒 电影_黄渤 | 321.7KB/s
+#EXTINF:-1 tvg-name="电影_黄渤" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_黄渤.png" group-title="☘️轮播台",🔒 电影_黄渤 | 388.0KB/s
 https://lbds.us.ci/11352876
-#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_强森.png" group-title="☘️轮播台",🔒 电影_强森 | 358.2KB/s
+#EXTINF:-1 tvg-name="电影_强森" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_强森.png" group-title="☘️轮播台",🔒 电影_强森 | 404.9KB/s
 https://lbds.us.ci/21059581
-#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_漫威.png" group-title="☘️轮播台",🔒 电影_漫威 | 778.2KB/s
+#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_漫威.png" group-title="☘️轮播台",🔒 电影_漫威 | 575.4KB/s
 https://lbds.us.ci/11602034
-#EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_怪兽.png" group-title="☘️轮播台",🔒 电影_怪兽 | 330.1KB/s
+#EXTINF:-1 tvg-name="电影_怪兽" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_怪兽.png" group-title="☘️轮播台",🔒 电影_怪兽 | 394.6KB/s
 https://lbds.us.ci/21059577
-#EXTINF:-1 tvg-name="电影_枪战" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_枪战.png" group-title="☘️轮播台",🔒 电影_枪战 | 379.3KB/s
+#EXTINF:-1 tvg-name="电影_武侠" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_武侠.png" group-title="☘️轮播台",🔒 电影_武侠 | 307.8KB/s
+https://lbds.us.ci/11342427
+#EXTINF:-1 tvg-name="电影_枪战" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_枪战.png" group-title="☘️轮播台",🔒 电影_枪战 | 314.1KB/s
 https://lbds.us.ci/21059579
-#EXTINF:-1 tvg-name="电影_赛车" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_赛车.png" group-title="☘️轮播台",🔒 电影_赛车 | 379.1KB/s
-https://lbds.us.ci/11279247
-#EXTINF:-1 tvg-name="电影_推荐" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_推荐.png" group-title="☘️轮播台",🔒 电影_推荐 | 510.5KB/s
+#EXTINF:-1 tvg-name="电影_推荐" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_推荐.png" group-title="☘️轮播台",🔒 电影_推荐 | 354.2KB/s
 https://lbds.us.ci/11602041
-#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_贺岁.png" group-title="☘️轮播台",🔒 电影_贺岁 | 597.3KB/s
+#EXTINF:-1 tvg-name="电影_热血" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_热血.png" group-title="☘️轮播台",🔒 电影_热血 | 449.9KB/s
+https://lbds.us.ci/11352934
+#EXTINF:-1 tvg-name="电影_盗墓" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_盗墓.png" group-title="☘️轮播台",🔒 电影_盗墓 | 1109.4KB/s
+https://lbds.us.ci/21059552
+#EXTINF:-1 tvg-name="电影_贺岁" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_贺岁.png" group-title="☘️轮播台",🔒 电影_贺岁 | 354.8KB/s
 https://lbds.us.ci/11601971
-#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_谍战.png" group-title="☘️轮播台",🔒 电影_谍战 | 313.5KB/s
+#EXTINF:-1 tvg-name="电影_谍战" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_谍战.png" group-title="☘️轮播台",🔒 电影_谍战 | 339.8KB/s
 https://lbds.us.ci/21059585
-#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_喜剧.png" group-title="☘️轮播台",🔒 电影_喜剧 | 379.2KB/s
-https://lbds.us.ci/11352877
-#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_港片.png" group-title="☘️轮播台",🔒 电影_港片 | 694.0KB/s
-https://lbds.us.ci/11602043
-#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_国产.png" group-title="☘️轮播台",🔒 电影_国产 | 1024.4KB/s
+#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_国产.png" group-title="☘️轮播台",🔒 电影_国产 | 1194.2KB/s
 https://lbds.us.ci/11352973
-#EXTINF:-1 tvg-name="电影_李连杰" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_李连杰.png" group-title="☘️轮播台",🔒 电影_李连杰 | 369.7KB/s
-https://lbds.us.ci/11342390
-#EXTINF:-1 tvg-name="电影_梁家辉" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_梁家辉.png" group-title="☘️轮播台",🔒 电影_梁家辉 | 368.4KB/s
-https://lbds.us.ci/11342429
-#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_许冠英.png" group-title="☘️轮播台",🔒 电影_许冠英 | 327.2KB/s
+#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_许冠英.png" group-title="☘️轮播台",🔒 电影_许冠英 | 325.1KB/s
 https://lbds.us.ci/11601972
-#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_斯坦森.png" group-title="☘️轮播台",🔒 电影_斯坦森 | 687.1KB/s
+#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_斯坦森.png" group-title="☘️轮播台",🔒 电影_斯坦森 | 352.3KB/s
 https://lbds.us.ci/21059588
-#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_八点档.png" group-title="☘️轮播台",🔒 电影_八点档 | 638.6KB/s
+#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_八点档.png" group-title="☘️轮播台",🔒 电影_八点档 | 357.9KB/s
 https://lbds.us.ci/880261
-#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_贺岁片.png" group-title="☘️轮播台",🔒 电影_贺岁片 | 707.4KB/s
+#EXTINF:-1 tvg-name="电影_贺岁片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_贺岁片.png" group-title="☘️轮播台",🔒 电影_贺岁片 | 353.2KB/s
 https://lbds.us.ci/11601986
-#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_功夫片.png" group-title="☘️轮播台",🔒 电影_功夫片 | 323.0KB/s
+#EXTINF:-1 tvg-name="电影_功夫片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_功夫片.png" group-title="☘️轮播台",🔒 电影_功夫片 | 315.4KB/s
 https://lbds.us.ci/11352941
-#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_丧尸片.png" group-title="☘️轮播台",🔒 电影_丧尸片 | 369.3KB/s
+#EXTINF:-1 tvg-name="电影_黑帮片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_黑帮片.png" group-title="☘️轮播台",🔒 电影_黑帮片 | 408.0KB/s
+https://lbds.us.ci/11336719
+#EXTINF:-1 tvg-name="电影_丧尸片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_丧尸片.png" group-title="☘️轮播台",🔒 电影_丧尸片 | 336.2KB/s
 https://lbds.us.ci/21059578
-#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_灾难片.png" group-title="☘️轮播台",🔒 电影_灾难片 | 322.1KB/s
+#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_灾难片.png" group-title="☘️轮播台",🔒 电影_灾难片 | 375.1KB/s
 https://lbds.us.ci/11602075
-#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_犯罪片.png" group-title="☘️轮播台",🔒 电影_犯罪片 | 398.0KB/s
+#EXTINF:-1 tvg-name="电影_犯罪片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_犯罪片.png" group-title="☘️轮播台",🔒 电影_犯罪片 | 406.4KB/s
 https://lbds.us.ci/11352974
-#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_古装片.png" group-title="☘️轮播台",🔒 电影_古装片 | 403.2KB/s
+#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_古装片.png" group-title="☘️轮播台",🔒 电影_古装片 | 401.2KB/s
 https://lbds.us.ci/11336590
-#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_高分动作.png" group-title="☘️轮播台",🔒 电影_高分动作 | 604.9KB/s
+#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_高分动作.png" group-title="☘️轮播台",🔒 电影_高分动作 | 757.4KB/s
 https://lbds.us.ci/11352884
-#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_动作电影.png" group-title="☘️轮播台",🔒 电影_动作电影 | 333.2KB/s
+#EXTINF:-1 tvg-name="电影_动作电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_动作电影.png" group-title="☘️轮播台",🔒 电影_动作电影 | 398.2KB/s
 https://lbds.us.ci/11602077
-#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_搞笑喜剧.png" group-title="☘️轮播台",🔒 电影_搞笑喜剧 | 342.2KB/s
+#EXTINF:-1 tvg-name="电影_搞笑喜剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_搞笑喜剧.png" group-title="☘️轮播台",🔒 电影_搞笑喜剧 | 982.2KB/s
 https://lbds.us.ci/11342423
-#EXTINF:-1 tvg-name="电影_喜剧专场" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_喜剧专场.png" group-title="☘️轮播台",🔒 电影_喜剧专场 | 360.6KB/s
-https://lbds.us.ci/11602044
-#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_欢笑影院.png" group-title="☘️轮播台",🔒 电影_欢笑影院 | 880.3KB/s
+#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_欢笑影院.png" group-title="☘️轮播台",🔒 电影_欢笑影院 | 360.6KB/s
 https://lbds.us.ci/11352894
-#EXTINF:-1 tvg-name="电影_不挤影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_不挤影院.png" group-title="☘️轮播台",🔒 电影_不挤影院 | 348.3KB/s
-https://lbds.us.ci/11352897
-#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_国产悬疑.png" group-title="☘️轮播台",🔒 电影_国产悬疑 | 794.1KB/s
+#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_国产悬疑.png" group-title="☘️轮播台",🔒 电影_国产悬疑 | 786.8KB/s
 https://lbds.us.ci/11342395
-#EXTINF:-1 tvg-name="电影_古墓系列" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_古墓系列.png" group-title="☘️轮播台",🔒 电影_古墓系列 | 343.7KB/s
-https://lbds.us.ci/11352913
-#EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_女神系列.png" group-title="☘️轮播台",🔒 电影_女神系列 | 391.9KB/s
-https://lbds.us.ci/11336571
-#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_经典港片.png" group-title="☘️轮播台",🔒 电影_经典港片 | 941.5KB/s
-https://lbds.us.ci/11352965
-#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_镖行天下.png" group-title="☘️轮播台",🔒 电影_镖行天下 | 311.0KB/s
+#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_快意江湖.png" group-title="☘️轮播台",🔒 电影_快意江湖 | 675.7KB/s
+https://lbds.us.ci/11342435
+#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_镖行天下.png" group-title="☘️轮播台",🔒 电影_镖行天下 | 432.4KB/s
 https://lbds.us.ci/11352969
-#EXTINF:-1 tvg-name="电影_喜乐影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影_喜乐影院.png" group-title="☘️轮播台",🔒 电影_喜乐影院 | 340.0KB/s
-https://lbds.us.ci/21059580
-#EXTINF:-1 tvg-name="狄仁杰电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/狄仁杰电影.png" group-title="☘️轮播台",🔒 狄仁杰电影 | 327.5KB/s
+#EXTINF:-1 tvg-name="狄仁杰电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/狄仁杰电影.png" group-title="☘️轮播台",🔒 狄仁杰电影 | 503.6KB/s
 https://lbds.us.ci/30080229
-#EXTINF:-1 tvg-name="电影蜘蛛侠" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影蜘蛛侠.png" group-title="☘️轮播台",🔒 电影蜘蛛侠 | 324.7KB/s
+#EXTINF:-1 tvg-name="电影蜘蛛侠" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/电影蜘蛛侠.png" group-title="☘️轮播台",🔒 电影蜘蛛侠 | 300.0KB/s
 https://lbds.us.ci/21059599
-#EXTINF:-1 tvg-name="解说_电影狂人" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_电影狂人.png" group-title="☘️轮播台",🔒 解说_电影狂人 | 1070.7KB/s
+#EXTINF:-1 tvg-name="解说_电影狂人" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_电影狂人.png" group-title="☘️轮播台",🔒 解说_电影狂人 | 1185.9KB/s
 https://lbds.us.ci/18715610
-#EXTINF:-1 tvg-name="解说_小川侃电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_小川侃电影.png" group-title="☘️轮播台",🔒 解说_小川侃电影 | 339.2KB/s
+#EXTINF:-1 tvg-name="解说_斌哥漫说" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_斌哥漫说.png" group-title="☘️轮播台",🔒 解说_斌哥漫说 | 344.4KB/s
+https://lbds.us.ci/18632116
+#EXTINF:-1 tvg-name="解说_小川侃电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_小川侃电影.png" group-title="☘️轮播台",🔒 解说_小川侃电影 | 634.3KB/s
 https://lbds.us.ci/15870999
-#EXTINF:-1 tvg-name="解说_阿良说剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_阿良说剧.png" group-title="☘️轮播台",🔒 解说_阿良说剧 | 806.6KB/s
+#EXTINF:-1 tvg-name="解说_阿良说剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_阿良说剧.png" group-title="☘️轮播台",🔒 解说_阿良说剧 | 504.6KB/s
 https://lbds.us.ci/20488841
-#EXTINF:-1 tvg-name="解说_鱼丸电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_鱼丸电影.png" group-title="☘️轮播台",🔒 解说_鱼丸电影 | 878.1KB/s
+#EXTINF:-1 tvg-name="解说_鱼丸电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_鱼丸电影.png" group-title="☘️轮播台",🔒 解说_鱼丸电影 | 1163.9KB/s
 https://lbds.us.ci/16615910
-#EXTINF:-1 tvg-name="解说_阿斗说电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_阿斗说电影.png" group-title="☘️轮播台",🔒 解说_阿斗说电影 | 326.0KB/s
-https://lbds.us.ci/13303478
-#EXTINF:-1 tvg-name="解说_扁豆看电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_扁豆看电影.png" group-title="☘️轮播台",🔒 解说_扁豆看电影 | 646.2KB/s
+#EXTINF:-1 tvg-name="解说_扁豆看电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_扁豆看电影.png" group-title="☘️轮播台",🔒 解说_扁豆看电影 | 727.4KB/s
 https://lbds.us.ci/16028551
-#EXTINF:-1 tvg-name="解说_大象放映室" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_大象放映室.png" group-title="☘️轮播台",🔒 解说_大象放映室 | 1086.0KB/s
+#EXTINF:-1 tvg-name="解说_大象放映室" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_大象放映室.png" group-title="☘️轮播台",🔒 解说_大象放映室 | 480.1KB/s
 https://lbds.us.ci/21277391
-#EXTINF:-1 tvg-name="解说_科幻梦工场" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_科幻梦工场.png" group-title="☘️轮播台",🔒 解说_科幻梦工场 | 923.1KB/s
+#EXTINF:-1 tvg-name="解说_科幻梦工场" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_科幻梦工场.png" group-title="☘️轮播台",🔒 解说_科幻梦工场 | 695.7KB/s
 https://lbds.us.ci/15152155
-#EXTINF:-1 tvg-name="解说_亮哥讲电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_亮哥讲电影.png" group-title="☘️轮播台",🔒 解说_亮哥讲电影 | 1063.1KB/s
+#EXTINF:-1 tvg-name="解说_亮哥讲电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_亮哥讲电影.png" group-title="☘️轮播台",🔒 解说_亮哥讲电影 | 1207.6KB/s
 https://lbds.us.ci/16144175
-#EXTINF:-1 tvg-name="解说_越哥说电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_越哥说电影.png" group-title="☘️轮播台",🔒 解说_越哥说电影 | 329.6KB/s
+#EXTINF:-1 tvg-name="解说_越哥说电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_越哥说电影.png" group-title="☘️轮播台",🔒 解说_越哥说电影 | 353.2KB/s
 https://lbds.us.ci/15894162
-#EXTINF:-1 tvg-name="解说_涵哥评电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_涵哥评电影.png" group-title="☘️轮播台",🔒 解说_涵哥评电影 | 761.5KB/s
+#EXTINF:-1 tvg-name="解说_涵哥评电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/解说_涵哥评电影.png" group-title="☘️轮播台",🔒 解说_涵哥评电影 | 699.3KB/s
 https://lbds.us.ci/16865726
-#EXTINF:-1 tvg-name="剧集_老三国" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_老三国.png" group-title="☘️轮播台",🔒 剧集_老三国 | 584.2KB/s
+#EXTINF:-1 tvg-name="剧集_老三国" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_老三国.png" group-title="☘️轮播台",🔒 剧集_老三国 | 505.7KB/s
 https://lbds.us.ci/11602081
-#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_新三国.png" group-title="☘️轮播台",🔒 剧集_新三国 | 344.3KB/s
+#EXTINF:-1 tvg-name="剧集_新三国" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_新三国.png" group-title="☘️轮播台",🔒 剧集_新三国 | 354.8KB/s
 https://lbds.us.ci/11352944
-#EXTINF:-1 tvg-name="剧集_新水浒" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_新水浒.png" group-title="☘️轮播台",🔒 剧集_新水浒 | 310.3KB/s
+#EXTINF:-1 tvg-name="剧集_新水浒" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_新水浒.png" group-title="☘️轮播台",🔒 剧集_新水浒 | 321.2KB/s
 https://lbds.us.ci/11342384
-#EXTINF:-1 tvg-name="剧集_纪晓岚" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_纪晓岚.png" group-title="☘️轮播台",🔒 剧集_纪晓岚 | 800.1KB/s
+#EXTINF:-1 tvg-name="剧集_纪晓岚" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_纪晓岚.png" group-title="☘️轮播台",🔒 剧集_纪晓岚 | 729.7KB/s
 https://lbds.us.ci/11342396
-#EXTINF:-1 tvg-name="剧集_庆余年" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_庆余年.png" group-title="☘️轮播台",🔒 剧集_庆余年 | 950.1KB/s
+#EXTINF:-1 tvg-name="剧集_庆余年" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_庆余年.png" group-title="☘️轮播台",🔒 剧集_庆余年 | 624.7KB/s
 https://lbds.us.ci/11352960
-#EXTINF:-1 tvg-name="剧集_爱情公寓" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_爱情公寓.png" group-title="☘️轮播台",🔒 剧集_爱情公寓 | 331.5KB/s
+#EXTINF:-1 tvg-name="剧集_爱情公寓" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_爱情公寓.png" group-title="☘️轮播台",🔒 剧集_爱情公寓 | 846.2KB/s
 https://lbds.us.ci/11336726
-#EXTINF:-1 tvg-name="剧集_地下交通站" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_地下交通站.png" group-title="☘️轮播台",🔒 剧集_地下交通站 | 495.9KB/s
+#EXTINF:-1 tvg-name="剧集_地下交通站" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_地下交通站.png" group-title="☘️轮播台",🔒 剧集_地下交通站 | 325.7KB/s
 https://lbds.us.ci/11342433
-#EXTINF:-1 tvg-name="剧集_邻里一家亲" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/剧集_邻里一家亲.png" group-title="☘️轮播台",🔒 剧集_邻里一家亲 | 665.1KB/s
-https://lbds.us.ci/11342426
-#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/搞笑_陈翔六点半.png" group-title="☘️轮播台",🔒 搞笑_陈翔六点半 | 721.3KB/s
+#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/搞笑_陈翔六点半.png" group-title="☘️轮播台",🔒 搞笑_陈翔六点半 | 488.8KB/s
 https://lbds.us.ci/11274154
-#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/大宋提刑官.png" group-title="☘️轮播台",🔒 大宋提刑官 | 335.4KB/s
+#EXTINF:-1 tvg-name="无心法师" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/无心法师.png" group-title="☘️轮播台",🔒 无心法师 | 322.1KB/s
+https://lbds.us.ci/30080233
+#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/大宋提刑官.png" group-title="☘️轮播台",🔒 大宋提刑官 | 356.8KB/s
 https://lbds.us.ci/26355856
-#EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/笑看风云.png" group-title="☘️轮播台",🔒 笑看风云 | 703.9KB/s
+#EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/笑看风云.png" group-title="☘️轮播台",🔒 笑看风云 | 724.0KB/s
 https://lbds.us.ci/29465858
-#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/陀枪师姐.png" group-title="☘️轮播台",🔒 陀枪师姐 | 721.3KB/s
+#EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/陀枪师姐.png" group-title="☘️轮播台",🔒 陀枪师姐 | 651.5KB/s
 https://lbds.us.ci/29465857
-#EXTINF:-1 tvg-name="法政先锋" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/法政先锋.png" group-title="☘️轮播台",🔒 法政先锋 | 401.7KB/s
-https://lbds.us.ci/23863804
-#EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/刑事侦缉档案.png" group-title="☘️轮播台",🔒 刑事侦缉档案 | 577.0KB/s
+#EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/刑事侦缉档案.png" group-title="☘️轮播台",🔒 刑事侦缉档案 | 412.0KB/s
 https://lbds.us.ci/29465856
-#EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/妙手仁心.png" group-title="☘️轮播台",🔒 妙手仁心 | 394.6KB/s
+#EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/妙手仁心.png" group-title="☘️轮播台",🔒 妙手仁心 | 460.0KB/s
 https://lbds.us.ci/29465853
-#EXTINF:-1 tvg-name="野蛮奶奶" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/野蛮奶奶.png" group-title="☘️轮播台",🔒 野蛮奶奶 | 812.8KB/s
+#EXTINF:-1 tvg-name="野蛮奶奶" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/野蛮奶奶.png" group-title="☘️轮播台",🔒 野蛮奶奶 | 925.6KB/s
 https://lbds.us.ci/23863796
-#EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/扫黄先锋.png" group-title="☘️轮播台",🔒 扫黄先锋 | 386.1KB/s
+#EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/扫黄先锋.png" group-title="☘️轮播台",🔒 扫黄先锋 | 493.9KB/s
 https://lbds.us.ci/29465855
-#EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/洗冤录.png" group-title="☘️轮播台",🔒 洗冤录 | 877.0KB/s
+#EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/洗冤录.png" group-title="☘️轮播台",🔒 洗冤录 | 604.3KB/s
 https://lbds.us.ci/29465851
-#EXTINF:-1 tvg-name="九阴真经" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/九阴真经.png" group-title="☘️轮播台",🔒 九阴真经 | 709.4KB/s
+#EXTINF:-1 tvg-name="九阴真经" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/九阴真经.png" group-title="☘️轮播台",🔒 九阴真经 | 627.6KB/s
 https://lbds.us.ci/23824164
-#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/封神榜.png" group-title="☘️轮播台",🔒 封神榜 | 1094.1KB/s
+#EXTINF:-1 tvg-name="封神榜" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/封神榜.png" group-title="☘️轮播台",🔒 封神榜 | 996.5KB/s
 https://lbds.us.ci/29465849
-#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/楚汉骄雄.png" group-title="☘️轮播台",🔒 楚汉骄雄 | 536.2KB/s
+#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/楚汉骄雄.png" group-title="☘️轮播台",🔒 楚汉骄雄 | 864.8KB/s
 https://lbds.us.ci/29465854
-#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/金枝欲孽.png" group-title="☘️轮播台",🔒 金枝欲孽 | 604.2KB/s
+#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/金枝欲孽.png" group-title="☘️轮播台",🔒 金枝欲孽 | 654.8KB/s
 https://lbds.us.ci/29465847
-#EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/大唐双龙传.png" group-title="☘️轮播台",🔒 大唐双龙传 | 512.1KB/s
+#EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/大唐双龙传.png" group-title="☘️轮播台",🔒 大唐双龙传 | 348.4KB/s
 https://lbds.us.ci/29465850
-#EXTINF:-1 tvg-name="大时代" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/大时代.png" group-title="☘️轮播台",🔒 大时代 | 409.7KB/s
+#EXTINF:-1 tvg-name="大时代" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/大时代.png" group-title="☘️轮播台",🔒 大时代 | 307.2KB/s
 https://lbds.us.ci/23865161
 #EXTINF:-1 tvg-name="哆啦A梦" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/哆啦A梦.png" group-title="☘️轮播台",🔒 哆啦A梦 | 474.2KB/s
 https://lbds.us.ci/11601963
-#EXTINF:-1 tvg-name="猫和老鼠" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/猫和老鼠.png" group-title="☘️轮播台",🔒 猫和老鼠 | 304.0KB/s
-https://lbds.us.ci/11352879
-#EXTINF:-1 tvg-name="精灵宝可梦" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/精灵宝可梦.png" group-title="☘️轮播台",🔒 精灵宝可梦 | 324.1KB/s
+#EXTINF:-1 tvg-name="精灵宝可梦" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/精灵宝可梦.png" group-title="☘️轮播台",🔒 精灵宝可梦 | 325.1KB/s
 https://lbds.us.ci/23749096
-#EXTINF:-1 tvg-name="万合出品" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/万合出品.png" group-title="☘️轮播台",🔒 万合出品 | 543.8KB/s
+#EXTINF:-1 tvg-name="万合出品" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/万合出品.png" group-title="☘️轮播台",🔒 万合出品 | 563.5KB/s
 https://goodiptv.club/douyu/9220456
-#EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/粤语电影.png" group-title="☘️轮播台",🔒 粤语电影 | 539.0KB/s
-https://goodiptv.club/douyu/1226741
-#EXTINF:-1 tvg-name="神乐影视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/神乐影视.png" group-title="☘️轮播台",🔒 神乐影视 | 491.0KB/s
-https://goodiptv.club/douyu/85894
-#EXTINF:-1 tvg-name="冰冰影剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/冰冰影剧.png" group-title="☘️轮播台",🔒 冰冰影剧 | 584.0KB/s
-https://goodiptv.club/douyu/74374
-#EXTINF:-1 tvg-name="刀刀影院" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/刀刀影院.png" group-title="☘️轮播台",🔒 刀刀影院 | 310.3KB/s
-https://goodiptv.club/douyu/747764
-#EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/贝爷贰厅.png" group-title="☘️轮播台",🔒 贝爷贰厅 | 3033.0KB/s
+#EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/贝爷贰厅.png" group-title="☘️轮播台",🔒 贝爷贰厅 | 1392.6KB/s
 https://goodiptv.club/douyu/4332
-#EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/可乐影视.png" group-title="☘️轮播台",🔒 可乐影视 | 518.5KB/s
+#EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/可乐影视.png" group-title="☘️轮播台",🔒 可乐影视 | 728.7KB/s
 https://goodiptv.club/douyu/20415
-#EXTINF:-1 tvg-name="网神影厅" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/网神影厅.png" group-title="☘️轮播台",🔒 网神影厅 | 465.0KB/s
-https://goodiptv.club/douyu/508118
-#EXTINF:-1 tvg-name="热门港剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/热门港剧.png" group-title="☘️轮播台",🔒 热门港剧 | 441.1KB/s
-https://goodiptv.club/douyu/5522351
-#EXTINF:-1 tvg-name="经典小品" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/经典小品.png" group-title="☘️轮播台",🔒 经典小品 | 543.5KB/s
-https://goodiptv.club/douyu/9067836
-#EXTINF:-1 tvg-name="宋小宝经典小品" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/宋小宝经典小品.png" group-title="☘️轮播台",🔒 宋小宝经典小品 | 550.6KB/s
-https://goodiptv.club/douyu/9817729
-#EXTINF:-1 tvg-name="赵本山经典小品" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/赵本山经典小品.png" group-title="☘️轮播台",🔒 赵本山经典小品 | 440.7KB/s
-https://goodiptv.club/douyu/9817716
-#EXTINF:-1 tvg-name="精彩短剧" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/精彩短剧.png" group-title="☘️轮播台",🔒 精彩短剧 | 531.5KB/s
-https://goodiptv.club/douyu/11824307
-#EXTINF:-1 tvg-name="斗鱼音乐MV频道" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/斗鱼音乐MV频道.png" group-title="☘️轮播台",🔒 斗鱼音乐MV频道 | 542.7KB/s
-https://goodiptv.club/douyu/3870925
 #EXTINF:-1 tvg-name="光山综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/光山综合.png" group-title="☘️河南省",🌐 光山综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
-#EXTINF:-1 tvg-name="兰考新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/兰考新闻.png" group-title="☘️河南省",🌐 兰考新闻 | 1960.9KB/s
+#EXTINF:-1 tvg-name="兰考新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/兰考新闻.png" group-title="☘️河南省",🌐 兰考新闻 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
-#EXTINF:-1 tvg-name="伊川综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/伊川综合.png" group-title="☘️河南省",🌐 伊川综合 | 1960.0KB/s
+#EXTINF:-1 tvg-name="伊川综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/伊川综合.png" group-title="☘️河南省",🌐 伊川综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
-#EXTINF:-1 tvg-name="长垣综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/长垣综合.png" group-title="☘️河南省",🌐 长垣综合 | 1960.0KB/s
+#EXTINF:-1 tvg-name="长垣综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/长垣综合.png" group-title="☘️河南省",🌐 长垣综合 | 1962.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
-#EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/宝丰综合.png" group-title="☘️河南省",🌐 宝丰综合 | 1960.0KB/s
+#EXTINF:-1 tvg-name="宝丰综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/宝丰综合.png" group-title="☘️河南省",🌐 宝丰综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 #EXTINF:-1 tvg-name="新乡县电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新乡县电视台.png" group-title="☘️河南省",🌐 新乡县电视台 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 #EXTINF:-1 tvg-name="新县综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新县综合.png" group-title="☘️河南省",🌐 新县综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
-#EXTINF:-1 tvg-name="淇县电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/淇县电视台.png" group-title="☘️河南省",🌐 淇县电视台 | 1960.9KB/s
+#EXTINF:-1 tvg-name="淇县电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/淇县电视台.png" group-title="☘️河南省",🌐 淇县电视台 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
-#EXTINF:-1 tvg-name="汤阴综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/汤阴综合.png" group-title="☘️河南省",🌐 汤阴综合 | 1961.9KB/s
+#EXTINF:-1 tvg-name="汤阴综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/汤阴综合.png" group-title="☘️河南省",🌐 汤阴综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
-#EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/桐柏新闻综合.png" group-title="☘️河南省",🌐 桐柏新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="桐柏新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/桐柏新闻综合.png" group-title="☘️河南省",🌐 桐柏新闻综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
-#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/渑池新闻综合.png" group-title="☘️河南省",🌐 渑池新闻综合 | 1961.9KB/s
+#EXTINF:-1 tvg-name="渑池新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/渑池新闻综合.png" group-title="☘️河南省",🌐 渑池新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
-#EXTINF:-1 tvg-name="潢川综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/潢川综合.png" group-title="☘️河南省",🌐 潢川综合 | 1960.0KB/s
+#EXTINF:-1 tvg-name="潢川综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/潢川综合.png" group-title="☘️河南省",🌐 潢川综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
-#EXTINF:-1 tvg-name="禹州综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/禹州综合.png" group-title="☘️河南省",🌐 禹州综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="禹州综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/禹州综合.png" group-title="☘️河南省",🌐 禹州综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
-#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/郏县综合.png" group-title="☘️河南省",🌐 郏县综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="郏县综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/郏县综合.png" group-title="☘️河南省",🌐 郏县综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
-#EXTINF:-1 tvg-name="鄢陵综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/鄢陵综合.png" group-title="☘️河南省",🌐 鄢陵综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="鄢陵综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/鄢陵综合.png" group-title="☘️河南省",🌐 鄢陵综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
-#EXTINF:-1 tvg-name="浚县电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浚县电视台.png" group-title="☘️河南省",🌐 浚县电视台 | 1960.9KB/s
+#EXTINF:-1 tvg-name="浚县电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浚县电视台.png" group-title="☘️河南省",🌐 浚县电视台 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10621-1.m3u8
-#EXTINF:-1 tvg-name="项城新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/项城新闻.png" group-title="☘️河南省",🌐 项城新闻 | 1960.9KB/s
+#EXTINF:-1 tvg-name="项城新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/项城新闻.png" group-title="☘️河南省",🌐 项城新闻 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-#EXTINF:-1 tvg-name="汝阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/汝阳新闻综合.png" group-title="☘️河南省",🌐 汝阳新闻综合 | 1960.0KB/s
+#EXTINF:-1 tvg-name="汝阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/汝阳新闻综合.png" group-title="☘️河南省",🌐 汝阳新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
-#EXTINF:-1 tvg-name="上蔡1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上蔡1.png" group-title="☘️河南省",🌐 上蔡1 | 1961.9KB/s
+#EXTINF:-1 tvg-name="上蔡1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上蔡1.png" group-title="☘️河南省",🌐 上蔡1 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
-#EXTINF:-1 tvg-name="温县融媒" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/温县融媒.png" group-title="☘️河南省",🌐 温县融媒 | 1960.9KB/s
+#EXTINF:-1 tvg-name="温县融媒" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/温县融媒.png" group-title="☘️河南省",🌐 温县融媒 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
-#EXTINF:-1 tvg-name="建安新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/建安新闻.png" group-title="☘️河南省",🌐 建安新闻 | 1960.9KB/s
+#EXTINF:-1 tvg-name="建安新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/建安新闻.png" group-title="☘️河南省",🌐 建安新闻 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-name="封丘新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/封丘新闻综合.png" group-title="☘️河南省",🌐 封丘新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="封丘新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/封丘新闻综合.png" group-title="☘️河南省",🌐 封丘新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
-#EXTINF:-1 tvg-name="林州电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/林州电视台.png" group-title="☘️河南省",🌐 林州电视台 | 1960.9KB/s
+#EXTINF:-1 tvg-name="林州电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/林州电视台.png" group-title="☘️河南省",🌐 林州电视台 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
-#EXTINF:-1 tvg-name="社旗电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/社旗电视台.png" group-title="☘️河南省",🌐 社旗电视台 | 1960.9KB/s
+#EXTINF:-1 tvg-name="社旗电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/社旗电视台.png" group-title="☘️河南省",🌐 社旗电视台 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
-#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/镇平新闻综合.png" group-title="☘️河南省",🌐 镇平新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="镇平新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/镇平新闻综合.png" group-title="☘️河南省",🌐 镇平新闻综合 | 1960.0KB/s
 http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
-#EXTINF:-1 tvg-name="孟州1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/孟州1.png" group-title="☘️河南省",🌐 孟州1 | 1961.9KB/s
+#EXTINF:-1 tvg-name="孟州1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/孟州1.png" group-title="☘️河南省",🌐 孟州1 | 1960.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-name="舞阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/舞阳新闻综合.png" group-title="☘️河南省",🌐 舞阳新闻综合 | 1960.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
-#EXTINF:-1 tvg-name="武陟新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/武陟新闻综合.png" group-title="☘️河南省",🌐 武陟新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="武陟新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/武陟新闻综合.png" group-title="☘️河南省",🌐 武陟新闻综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
-#EXTINF:-1 tvg-name="新郑1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新郑1.png" group-title="☘️河南省",🌐 新郑1 | 1960.0KB/s
+#EXTINF:-1 tvg-name="新郑1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新郑1.png" group-title="☘️河南省",🌐 新郑1 | 1960.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 tvg-name="辉县新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/辉县新闻综合.png" group-title="☘️河南省",🌐 辉县新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="辉县新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/辉县新闻综合.png" group-title="☘️河南省",🌐 辉县新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
-#EXTINF:-1 tvg-name="杞县新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/杞县新闻综合.png" group-title="☘️河南省",🌐 杞县新闻综合 | 1961.9KB/s
+#EXTINF:-1 tvg-name="杞县新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/杞县新闻综合.png" group-title="☘️河南省",🌐 杞县新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
 #EXTINF:-1 tvg-name="林颖综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/林颖综合.png" group-title="☘️河南省",🌐 林颖综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 #EXTINF:-1 tvg-name="邓州新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邓州新闻.png" group-title="☘️河南省",🌐 邓州新闻 | 1960.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
-#EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/荥阳综合.png" group-title="☘️河南省",🌐 荥阳综合 | 1961.9KB/s
+#EXTINF:-1 tvg-name="荥阳综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/荥阳综合.png" group-title="☘️河南省",🌐 荥阳综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
-#EXTINF:-1 tvg-name="灵宝新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/灵宝新闻综合.png" group-title="☘️河南省",🌐 灵宝新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="灵宝新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/灵宝新闻综合.png" group-title="☘️河南省",🌐 灵宝新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 #EXTINF:-1 tvg-name="滑县TV1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/滑县TV1.png" group-title="☘️河南省",🌐 滑县TV1 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
 #EXTINF:-1 tvg-name="滑县TV2" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/滑县TV2.png" group-title="☘️河南省",🌐 滑县TV2 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10526-2.m3u8
-#EXTINF:-1 tvg-name="新密新闻频道" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新密新闻频道.png" group-title="☘️河南省",🌐 新密新闻频道 | 1960.9KB/s
+#EXTINF:-1 tvg-name="新密新闻频道" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新密新闻频道.png" group-title="☘️河南省",🌐 新密新闻频道 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/济源电视一套.png" group-title="☘️河南省",🌐 济源电视一套 | 1960.0KB/s
+#EXTINF:-1 tvg-name="济源电视一套" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/济源电视一套.png" group-title="☘️河南省",🌐 济源电视一套 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-name="淮滨综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/淮滨综合.png" group-title="☘️河南省",🌐 淮滨综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
-#EXTINF:-1 tvg-name="清丰电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/清丰电视台.png" group-title="☘️河南省",🌐 清丰电视台 | 1960.9KB/s
+#EXTINF:-1 tvg-name="清丰电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/清丰电视台.png" group-title="☘️河南省",🌐 清丰电视台 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10922-1.m3u8
-#EXTINF:-1 tvg-name="通许综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/通许综合.png" group-title="☘️河南省",🌐 通许综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="通许综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/通许综合.png" group-title="☘️河南省",🌐 通许综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
-#EXTINF:-1 tvg-name="沈丘新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/沈丘新闻综合.png" group-title="☘️河南省",🌐 沈丘新闻综合 | 1960.0KB/s
+#EXTINF:-1 tvg-name="沈丘新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/沈丘新闻综合.png" group-title="☘️河南省",🌐 沈丘新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
-#EXTINF:-1 tvg-name="夏邑综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/夏邑综合.png" group-title="☘️河南省",🌐 夏邑综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="夏邑综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/夏邑综合.png" group-title="☘️河南省",🌐 夏邑综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11426-1.m3u8
 #EXTINF:-1 tvg-name="平兴新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/平兴新闻综合.png" group-title="☘️河南省",🌐 平兴新闻综合 | 1960.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
-#EXTINF:-1 tvg-name="沁阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/沁阳新闻综合.png" group-title="☘️河南省",🌐 沁阳新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="沁阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/沁阳新闻综合.png" group-title="☘️河南省",🌐 沁阳新闻综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
 #EXTINF:-1 tvg-name="永城综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/永城综合.png" group-title="☘️河南省",🌐 永城综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 #EXTINF:-1 tvg-name="罗山电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/罗山电视台.png" group-title="☘️河南省",🌐 罗山电视台 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
-#EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新安新闻综合.png" group-title="☘️河南省",🌐 新安新闻综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="新安新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/新安新闻综合.png" group-title="☘️河南省",🌐 新安新闻综合 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
-#EXTINF:-1 tvg-name="舞钢综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/舞钢综合.png" group-title="☘️河南省",🌐 舞钢综合 | 1960.9KB/s
+#EXTINF:-1 tvg-name="舞钢综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/舞钢综合.png" group-title="☘️河南省",🌐 舞钢综合 | 1960.0KB/s
 http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
-#EXTINF:-1 tvg-name="上街电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上街电视台.png" group-title="☘️河南省",🌐 上街电视台 | 1961.9KB/s
+#EXTINF:-1 tvg-name="上街电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/上街电视台.png" group-title="☘️河南省",🌐 上街电视台 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
-#EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/开封新闻综合.png" group-title="☘️河南省",🌐 开封新闻综合 | 1961.9KB/s
+#EXTINF:-1 tvg-name="开封新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/开封新闻综合.png" group-title="☘️河南省",🌐 开封新闻综合 | 1963.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 #EXTINF:-1 tvg-name="开封文化旅游" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/开封文化旅游.png" group-title="☘️河南省",🌐 开封文化旅游 | 1960.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
-#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/内黄综合.png" group-title="☘️河南省",🌐 内黄综合 | 1961.9KB/s
+#EXTINF:-1 tvg-name="内黄综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/内黄综合.png" group-title="☘️河南省",🌐 内黄综合 | 1960.0KB/s
 http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
-#EXTINF:-1 tvg-name="偃师新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/偃师新闻.png" group-title="☘️河南省",🌐 偃师新闻 | 1960.0KB/s
+#EXTINF:-1 tvg-name="偃师新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/偃师新闻.png" group-title="☘️河南省",🌐 偃师新闻 | 1961.9KB/s
 http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
-#EXTINF:-1 tvg-name="邯郸公共" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邯郸公共.png" group-title="☘️河北省",🔒 邯郸公共 | 500.0KB/s
+#EXTINF:-1 tvg-name="邯郸公共" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邯郸公共.png" group-title="☘️河北省",🔒 邯郸公共 | 501.0KB/s
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邯郸新闻.png" group-title="☘️河北省",🔒 邯郸新闻 | 505.9KB/s
+#EXTINF:-1 tvg-name="邯郸新闻" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邯郸新闻.png" group-title="☘️河北省",🔒 邯郸新闻 | 512.7KB/s
 https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="邯郸科教" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邯郸科教.png" group-title="☘️河北省",🔒 邯郸科教 | 507.8KB/s
+#EXTINF:-1 tvg-name="邯郸科教" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/邯郸科教.png" group-title="☘️河北省",🔒 邯郸科教 | 506.8KB/s
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="兴隆综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/兴隆综合.png" group-title="☘️河北省",🔒 兴隆综合 | 501.0KB/s
+#EXTINF:-1 tvg-name="兴隆综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/兴隆综合.png" group-title="☘️河北省",🔒 兴隆综合 | 500.0KB/s
 https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="迁西综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/迁西综合.png" group-title="☘️河北省",🔒 迁西综合 | 503.9KB/s
 https://jwcdnqx.hebyun.com.cn/live/qxzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="青县综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/青县综合.png" group-title="☘️河北省",🌐 青县综合 | 522.5KB/s
 http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="衡阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/衡阳新闻综合.png" group-title="☘️湖南省",🔒 衡阳新闻综合 | 370.1KB/s
+#EXTINF:-1 tvg-name="衡阳新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/衡阳新闻综合.png" group-title="☘️湖南省",🔒 衡阳新闻综合 | 454.1KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 #EXTINF:-1 tvg-name="龙山综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/龙山综合.png" group-title="☘️湖南省",🔒 龙山综合 | 537.1KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/146_f067fe.m3u8
 #EXTINF:-1 tvg-name="靖州综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/靖州综合.png" group-title="☘️湖南省",🔒 靖州综合 | 514.6KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
-#EXTINF:-1 tvg-name="平江综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/平江综合.png" group-title="☘️湖南省",🔒 平江综合 | 537.1KB/s
+#EXTINF:-1 tvg-name="平江综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/平江综合.png" group-title="☘️湖南省",🔒 平江综合 | 495.1KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/168_ce2a0c.m3u8
 #EXTINF:-1 tvg-name="安化综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/安化综合.png" group-title="☘️湖南省",🔒 安化综合 | 548.8KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/204_16cb0f.m3u8
-#EXTINF:-1 tvg-name="城步电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/城步电视台.png" group-title="☘️湖南省",🔒 城步电视台 | 537.1KB/s
+#EXTINF:-1 tvg-name="城步电视台" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/城步电视台.png" group-title="☘️湖南省",🔒 城步电视台 | 525.4KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/169_b4d7a4.m3u8
 #EXTINF:-1 tvg-name="嘉禾新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/嘉禾新闻综合.png" group-title="☘️湖南省",🔒 嘉禾新闻综合 | 579.1KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/184_e3af1a.m3u8
-#EXTINF:-1 tvg-name="吉首综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/吉首综合.png" group-title="☘️湖南省",🔒 吉首综合 | 537.1KB/s
+#EXTINF:-1 tvg-name="吉首综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/吉首综合.png" group-title="☘️湖南省",🔒 吉首综合 | 525.4KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/143_70175b.m3u8
 #EXTINF:-1 tvg-name="古丈1" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/古丈1.png" group-title="☘️湖南省",🔒 古丈1 | 462.9KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/144_4efb38.m3u8
@@ -391,14 +345,6 @@ http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
 http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 #EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/南京文旅纪录.png" group-title="☘️江苏省",🌐 南京文旅纪录 | 559.6KB/s
 http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/无锡娱乐.png" group-title="☘️江苏省",🌐 无锡娱乐 | 7551.8KB/s
-http://stream.thmz.com/wxtv2/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/无锡新闻综合.png" group-title="☘️江苏省",🌐 无锡新闻综合 | 7551.8KB/s
-http://stream.thmz.com/wxtv1/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/无锡生活.png" group-title="☘️江苏省",🌐 无锡生活 | 7551.8KB/s
-http://stream.thmz.com/wxtv4/sd/live.m3u8
-#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/无锡经济.png" group-title="☘️江苏省",🌐 无锡经济 | 7551.8KB/s
-http://stream.thmz.com/wxtv5/sd/live.m3u8
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浙江卫视4K.png" group-title="☘️浙江省",🌐 浙江卫视4K | 462.9KB/s
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/浙江钱江都市.png" group-title="☘️浙江省",🌐 浙江钱江都市 | 474.6KB/s
@@ -455,35 +401,29 @@ http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 http://stream.hrbtv.net/yspd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨影视" tvg-logo="https://codeberg.org/ou-yang/TV/raw/branch/main/LOGO/哈尔滨影视.png" group-title="☘️地方影视",🔒 哈尔滨影视 | 355.5KB/s
 https://stream.hrbtv.net/yspd/sd/live.m3u8
-#EXTINF:-1 tvg-name="3030相声小品" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/3030相声小品.png" group-title="其他",🔒 3030相声小品 | 525.1KB/s
-https://goodiptv.club/douyu/9286868
 #EXTINF:-1 tvg-name="Khushboo Bangla" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Khushboo Bangla.png" group-title="其他",🔒 Khushboo Bangla | 361.3KB/s
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="其他",🌐 Red Bull TV | 5136.7KB/s
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-name="华语影视✔原" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华语影视✔原.png" group-title="其他",🔒 华语影视✔原 | 553.5KB/s
-https://goodiptv.club/douyu/3928
-#EXTINF:-1 tvg-name="奇光主播" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/奇光主播.png" group-title="其他",🔒 奇光主播 | 538.5KB/s
-https://goodiptv.club/douyu/8009547
-#EXTINF:-1 tvg-name="小毅主播q" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/小毅主播q.png" group-title="其他",🔒 小毅主播q | 527.1KB/s
-https://goodiptv.club/douyu/6906628
-#EXTINF:-1 tvg-name="开心锤锤" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/开心锤锤.png" group-title="其他",🔒 开心锤锤 | 513.5KB/s
-https://goodiptv.club/douyu/9018297
-#EXTINF:-1 tvg-name="新化电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新化电视台.png" group-title="其他",🔒 新化电视台 | 486.3KB/s
+#EXTINF:-1 tvg-name="新化电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/新化电视台.png" group-title="其他",🔒 新化电视台 | 525.4KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/170_49c556.m3u8
-#EXTINF:-1 tvg-name="星爷房✔原" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/星爷房✔原.png" group-title="其他",🔒 星爷房✔原 | 376.3KB/s
+#EXTINF:-1 tvg-name="日本女子摔角" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/日本女子摔角.png" group-title="其他",🔒 日本女子摔角 | 770.3KB/s
+https://goodiptv.club/douyu/425809
+#EXTINF:-1 tvg-name="星爷房✔原" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/星爷房✔原.png" group-title="其他",🔒 星爷房✔原 | 547.2KB/s
 https://goodiptv.club/douyu/122402
+#EXTINF:-1 tvg-name="更新日期: 2026-7-26 06:00:36" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/更新日期: 2026-7-26 06:00:36.png" group-title="其他",🌐 更新日期: 2026-7-26 06:00:36 | 7311.5KB/s
+http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=f96353fd92021ce6223a6a95cdfdad92&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260726054659&Channel_ID=0116_2600034600-99000-201600010009098&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=36.139.195.172&SecurityKey=20260726054659&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d153c8478fdc1e2f19b769563f798a98&sv=10004&ct=android
 #EXTINF:-1 tvg-name="桂东融媒" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/桂东融媒.png" group-title="其他",🔒 桂东融媒 | 378.9KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/174_6ab9f8.m3u8
 #EXTINF:-1 tvg-name="桂阳新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/桂阳新闻综合.png" group-title="其他",🔒 桂阳新闻综合 | 445.3KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/7_7c833e.m3u8
-#EXTINF:-1 tvg-name="永兴电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/永兴电视台.png" group-title="其他",🔒 永兴电视台 | 485.4KB/s
+#EXTINF:-1 tvg-name="永兴电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/永兴电视台.png" group-title="其他",🔒 永兴电视台 | 474.6KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/40_1d0ed0.m3u8
 #EXTINF:-1 tvg-name="沅江电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/沅江电视台.png" group-title="其他",🔒 沅江电视台 | 453.1KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/163_2c7011.m3u8
 #EXTINF:-1 tvg-name="津市综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/津市综合.png" group-title="其他",🔒 津市综合 | 553.7KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/187_2abf84.m3u8
-#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_星爷.png" group-title="其他",🔒 电影_星爷 | 471.3KB/s
+#EXTINF:-1 tvg-name="电影_星爷" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_星爷.png" group-title="其他",🔒 电影_星爷 | 907.0KB/s
 https://lbds.us.ci/11342412
 #EXTINF:-1 tvg-name="耒阳电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/耒阳电视台.png" group-title="其他",🔒 耒阳电视台 | 502.9KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
@@ -491,11 +431,9 @@ https://liveplay-srs.voc.com.cn/hls/tv/27_e9e1e5.m3u8
 https://liveplay-srs.voc.com.cn/hls/tv/20_68acda.m3u8
 #EXTINF:-1 tvg-name="衡东电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/衡东电视台.png" group-title="其他",🔒 衡东电视台 | 548.8KB/s
 https://liveplay-srs.voc.com.cn/hls/tv/180_60f888.m3u8
-#EXTINF:-1 tvg-name="赵本删不删" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/赵本删不删.png" group-title="其他",🔒 赵本删不删 | 384.8KB/s
+#EXTINF:-1 tvg-name="赵本删不删" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/赵本删不删.png" group-title="其他",🔒 赵本删不删 | 369.9KB/s
 https://goodiptv.club/douyu/9837104
-#EXTINF:-1 tvg-name="铁甲影院" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/铁甲影院.png" group-title="其他",🔒 铁甲影院 | 518.4KB/s
-https://goodiptv.club/douyu/1274132
 #EXTINF:-1 tvg-name="陪你一起看剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/陪你一起看剧.png" group-title="其他",🔒 陪你一起看剧 | 1392.6KB/s
 https://goodiptv.club/douyu/11922242
-#EXTINF:-1 tvg-name="黄龙" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄龙.png" group-title="其他",🔒 黄龙 | 325.2KB/s
+#EXTINF:-1 tvg-name="黄龙" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄龙.png" group-title="其他",🔒 黄龙 | 313.5KB/s
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
