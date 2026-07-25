@@ -50,3 +50,10 @@ play.scrstv.com.cn:443
 vip1.xinketongxun.fun:8082
 m3u8channel.ganzitv.com:443
 satellitepull.cnr.cn:80
+hzcm-live.media.hugd.com:80
+182.135.66.163:18888
+124.116.183.146:9901
+182.135.66.163:1888
+118.193.115.2:9901
+218.13.170.98:9901
+hslive.hsnewsnet.com:80
