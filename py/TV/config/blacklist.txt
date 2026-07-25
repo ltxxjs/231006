@@ -43,3 +43,8 @@ epg.pw:443
 lbyzztfe.live.sxmty.com:80
 183.11.239.36:808
 play.scrstv.com.cn:443
+182.150.23.74:808
+123.130.84.106:8154
+59.35.185.47:8188
+222.134.245.16:9901
+vip1.xinketongxun.fun:8082
