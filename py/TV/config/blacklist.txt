@@ -43,3 +43,14 @@ live.xysrmt.cn:80
 bp-resource-dfl.bestv.cn:443
 183.223.157.33:9901
 my9.ltd:443
+111.221.137.234:44330
+ls.qingting.fm:80
+222.179.42.129:8181
+221.193.168.22:9901
+hzcm-live.media.hugd.com:80
+59.35.185.47:8188
+gmxw.7766.org:808
+epg.pw:443
+lbyzztfe.live.sxmty.com:80
+121.19.134.22:808
+183.11.239.36:808
