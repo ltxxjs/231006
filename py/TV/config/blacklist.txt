@@ -54,3 +54,6 @@ epg.pw:443
 lbyzztfe.live.sxmty.com:80
 121.19.134.22:808
 183.11.239.36:808
+stream8.jlntv.cn:80
+stream.thmz.com:443
+vip1.xinketongxun.fun:8082
