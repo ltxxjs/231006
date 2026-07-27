@@ -52,3 +52,5 @@ bp-resource-dfl.bestv.cn:80
 1yp7hc5p.live.sxmty.com:443
 14.153.176.108:1234
 183.223.157.33:9901
+uzoiczhh.live.sxmty.com:80
+cm-wshls.homecdn.com:80
