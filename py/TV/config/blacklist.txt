@@ -19,3 +19,7 @@ tpc.x3322.net:9901
 lxfile.lxxcb.cn:80
 218.13.170.98:9901
 tvfile.jjrm.org.cn:80
+l.cztvcloud.com:443
+p2.bdstatic.com:443
+116.233.67.80:8899
+ali-vl.cztv.com:80
