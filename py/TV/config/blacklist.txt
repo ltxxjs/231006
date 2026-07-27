@@ -40,3 +40,14 @@ video.epaper.pybtv.cn:8080
 zjtv-wshls.homecdn.com:80
 tmpstream.hyrtv.cn:80
 tntgjhjb.live.sxmty.com:443
+110.154.192.36:7788
+119.88.243.98:17231
+60.168.105.138:5008
+116.147.108.169:7788
+dassby.qqff.top:99
+bp-resource-dfl.bestv.cn:443
+27.12.12.107:1234
+42.94.210.57:7788
+bp-resource-dfl.bestv.cn:80
+1yp7hc5p.live.sxmty.com:443
+14.153.176.108:1234
