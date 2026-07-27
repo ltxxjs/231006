@@ -23,3 +23,8 @@ l.cztvcloud.com:443
 p2.bdstatic.com:443
 116.233.67.80:8899
 ali-vl.cztv.com:80
+p2.vzan.com:443
+59.35.185.47:8188
+qmmqvzoz.live.sxmty.com:443
+lbyzztfe.live.sxmty.com:80
+jsmov2.a.yximgs.com:80
