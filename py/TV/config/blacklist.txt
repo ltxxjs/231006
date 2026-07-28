@@ -58,3 +58,7 @@ lxajh.top:80
 play.scrstv.com.cn:443
 genglei.8866.org:9901
 222.214.208.34:59901
+mg.cttv.vip:80
+shcm-stream-cf1.stream.264788.xyz:443
+111.4.59.41:60901
+61.178.227.57:9901
