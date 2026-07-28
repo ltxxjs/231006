@@ -24,3 +24,8 @@ lbds.us.ci
 198.204.240.250
 69.30.245.50
 l.cztvcloud.com
+183.129.255.66
+dxtx.hntv.tv
+153.0.171.163
+bp-resource-dfl.bestv.cn
+61.178.227.57
