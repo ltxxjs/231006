@@ -54,3 +54,7 @@ bp-resource-dfl.bestv.cn:80
 183.223.157.33:9901
 uzoiczhh.live.sxmty.com:80
 cm-wshls.homecdn.com:80
+lxajh.top:80
+play.scrstv.com.cn:443
+genglei.8866.org:9901
+222.214.208.34:59901
