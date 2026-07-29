@@ -72,3 +72,5 @@ cm-wshls.homecdn.com:80
 183.64.174.171:40123
 182.150.115.21:8030
 bp-resource-dfl.bestv.cn:80
+125.42.151.53:9901
+qmmqvzoz.live.sxmty.com:443
