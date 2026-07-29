@@ -46,3 +46,12 @@ zbbf2.ahbztv.com:80
 uzoiczhh.live.sxmty.com:80
 183.129.255.66:8480
 124.116.183.146:9901
+dxtx.hntv.tv:443
+183.237.95.108:9901
+111.4.59.41:60901
+hslive.hsnewsnet.com:80
+shcm-stream-cf1.stream.264788.xyz:443
+zjtv-wshls.homecdn.com:80
+111.221.137.234:44330
+stream.thmz.com:80
+183.223.157.33:9901
