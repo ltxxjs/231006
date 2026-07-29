@@ -70,3 +70,5 @@ tmpstream.hyrtv.cn:80
 cm-wshls.homecdn.com:80
 59.35.185.47:8188
 183.64.174.171:40123
+182.150.115.21:8030
+bp-resource-dfl.bestv.cn:80
