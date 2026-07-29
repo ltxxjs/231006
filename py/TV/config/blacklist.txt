@@ -41,3 +41,7 @@ stream.thmz.com:443
 live.ottiptv.cc:443
 123.130.84.106:8154
 116.233.67.80:8899
+zbbf2.ahbztv.com:80
+45.192.97.170:8880
+uzoiczhh.live.sxmty.com:80
+183.129.255.66:8480
