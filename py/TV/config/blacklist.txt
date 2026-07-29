@@ -66,3 +66,7 @@ l.cztvcloud.com:443
 vip1.xinketongxun.fun:8082
 bp-resource-dfl.bestv.cn:443
 tmpstream.hyrtv.cn:80
+183.47.2.156:16883
+cm-wshls.homecdn.com:80
+59.35.185.47:8188
+183.64.174.171:40123
