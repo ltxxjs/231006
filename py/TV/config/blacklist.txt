@@ -33,3 +33,9 @@ ali-vl.cztv.com:80
 123.130.84.106:8154
 218.13.170.98:9901
 uzoiczhh.live.sxmty.com:80
+lxajh.top:80
+116.233.67.80:8899
+gd202.tv1288.xyz:443
+video.epaper.pybtv.cn:8080
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
