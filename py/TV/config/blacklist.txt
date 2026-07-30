@@ -39,3 +39,13 @@ gd202.tv1288.xyz:443
 video.epaper.pybtv.cn:8080
 bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
+116.52.173.95:1234
+l2fpdktp.live.sxmty.com:443
+mg.cttv.vip:80
+116.236.204.18:1234
+shcm-stream-cf1.stream.264788.xyz:443
+222.134.245.16:9901
+223.247.25.227:1234
+182.127.153.16:1234
+119.39.9.8:9901
+stream.thmz.com:443
