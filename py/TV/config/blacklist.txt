@@ -38,3 +38,9 @@ video.epaper.pybtv.cn:8080
 lbyzztfe.live.sxmty.com:80
 tvfile.jjrm.org.cn:80
 116.52.173.95:1234
+l2fpdktp.live.sxmty.com:443
+qmmqvzoz.live.sxmty.com:443
+116.233.67.80:8899
+play.scrstv.com.cn:443
+play.jinnantv.top:80
+111.231.6.102:1234
