@@ -70,3 +70,4 @@ zmgd.zyrnet.com:8888
 hslive.hsnewsnet.com:80
 218.206.193.218:8888
 124.116.183.146:9901
+ali-vl.cztv.com:80
