@@ -55,3 +55,5 @@ gmxw.7766.org:808
 uzoiczhh.live.sxmty.com:80
 111.228.4.117:6789
 zjtv-wshls.homecdn.com:80
+111.221.137.234:44330
+222.179.42.129:8181
