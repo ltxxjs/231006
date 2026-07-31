@@ -66,3 +66,7 @@ hzcm-live.media.hugd.com:80
 l.cztvcloud.com:443
 live.shaoxing.com.cn:80
 183.223.157.33:9901
+zmgd.zyrnet.com:8888
+hslive.hsnewsnet.com:80
+218.206.193.218:8888
+124.116.183.146:9901
