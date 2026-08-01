@@ -29,3 +29,4 @@ bp-resource-dfl.bestv.cn
 118.193.115.2
 124.116.183.146
 stream.thmz.com
+1.24.39.180
