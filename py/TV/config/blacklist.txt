@@ -70,3 +70,5 @@ goodiptv.club:443
 tntgjhjb.live.sxmty.com:443
 139.227.21.22:9901
 hslive.hsnewsnet.com:80
+113.120.243.10:7788
+42.94.210.221:7788
