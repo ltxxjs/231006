@@ -72,3 +72,4 @@ tntgjhjb.live.sxmty.com:443
 hslive.hsnewsnet.com:80
 113.120.243.10:7788
 42.94.210.221:7788
+l.cztvcloud.com:443
