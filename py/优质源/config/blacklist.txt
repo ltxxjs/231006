@@ -24,3 +24,8 @@ d1t.alwaysdata.net
 27.12.12.107
 111.228.4.117
 116.147.108.169
+lbds.us.ci
+bp-resource-dfl.bestv.cn
+118.193.115.2
+124.116.183.146
+stream.thmz.com
