@@ -66,3 +66,7 @@ zjtv-wshls.homecdn.com:80
 123.118.55.165:45237
 101.66.194.121:9901
 223.78.65.165:9901
+goodiptv.club:443
+tntgjhjb.live.sxmty.com:443
+139.227.21.22:9901
+hslive.hsnewsnet.com:80
