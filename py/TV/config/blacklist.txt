@@ -43,3 +43,7 @@ uzoiczhh.live.sxmty.com:80
 gcalic.v.myalicdn.com:443
 gctxyc.liveplay.myqcloud.com:443
 www.negative.top:50000
+ali-vl.cztv.com:80
+m3u8.channel.dzsm.com:443
+182.150.115.21:8030
+182.150.23.74:808
