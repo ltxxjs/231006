@@ -22,3 +22,10 @@ tvfile.jjrm.org.cn:80
 3gvod.zjgonline.com.cn:1935
 live.yantaitv.cn:80
 1yp7hc5p.live.sxmty.com:443
+hzcm-live.media.hugd.com:80
+tpc.x3322.net:9901
+123.163.114.121:9901
+222.214.208.34:59901
+123.130.84.106:8154
+lxajh.top:80
+139.227.21.22:9901
