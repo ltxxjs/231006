@@ -37,3 +37,9 @@ bp-resource-dfl.bestv.cn:80
 101.66.194.121:9901
 uzoiczhh.live.sxmty.com:80
 101.66.194.129:9901
+116.233.67.80:8899
+125.43.249.115:9901
+223.78.65.165:9901
+gcalic.v.myalicdn.com:443
+gctxyc.liveplay.myqcloud.com:443
+www.negative.top:50000
