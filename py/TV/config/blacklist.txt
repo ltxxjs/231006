@@ -70,3 +70,8 @@ bp-resource-dfl.bestv.cn:80
 tmpstream.hyrtv.cn:80
 101.66.194.115:9901
 tntgjhjb.live.sxmty.com:443
+uzoiczhh.live.sxmty.com:80
+123.163.114.121:9901
+play.scrstv.com.cn:443
+183.237.95.108:9901
+115.48.160.81:9901
