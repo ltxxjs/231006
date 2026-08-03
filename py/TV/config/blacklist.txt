@@ -54,3 +54,14 @@ zjtv-wshls.homecdn.com:80
 139.227.21.22:9901
 113.25.252.226:9901
 gctxyc.liveplay.myqcloud.com:443
+125.43.249.115:9901
+bp-resource-dfl.bestv.cn:443
+218.13.170.98:9901
+222.179.42.129:8181
+182.37.41.46:8154
+stream.thmz.com:443
+hzcm-live.media.hugd.com:80
+61.178.227.57:9901
+bp-resource-dfl.bestv.cn:80
+183.11.239.36:808
+223.78.65.165:9901
