@@ -49,3 +49,8 @@ hwapi.yntv.net:443
 qmmqvzoz.live.sxmty.com:443
 zjtv-wshls.homecdn.com:80
 223.83.177.142:1234
+63.141.230.178:82
+59.35.185.47:8188
+139.227.21.22:9901
+113.25.252.226:9901
+gctxyc.liveplay.myqcloud.com:443
