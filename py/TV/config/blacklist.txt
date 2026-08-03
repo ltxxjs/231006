@@ -75,3 +75,5 @@ uzoiczhh.live.sxmty.com:80
 play.scrstv.com.cn:443
 183.237.95.108:9901
 115.48.160.81:9901
+183.129.255.66:8480
+l2fpdktp.live.sxmty.com:443
