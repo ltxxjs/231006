@@ -65,3 +65,8 @@ hzcm-live.media.hugd.com:80
 bp-resource-dfl.bestv.cn:80
 183.11.239.36:808
 223.78.65.165:9901
+101.66.194.210:9901
+123.53.119.200:8089
+tmpstream.hyrtv.cn:80
+101.66.194.115:9901
+tntgjhjb.live.sxmty.com:443
