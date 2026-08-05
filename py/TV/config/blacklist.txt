@@ -90,3 +90,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 204.12.221.218:8181
 27.12.12.100:1234
 125.42.151.53:9901
+satellitepull.cnr.cn:80
+gd202.tv1288.xyz:443
