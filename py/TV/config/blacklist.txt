@@ -94,3 +94,5 @@ satellitepull.cnr.cn:80
 gd202.tv1288.xyz:443
 116.52.173.194:1234
 live.ottiptv.cc:443
+123.118.55.165:45237
+gmxw.7766.org:808
