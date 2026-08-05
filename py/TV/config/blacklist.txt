@@ -92,3 +92,5 @@ shcm-stream-cf1.stream.264788.xyz:443
 125.42.151.53:9901
 satellitepull.cnr.cn:80
 gd202.tv1288.xyz:443
+116.52.173.194:1234
+live.ottiptv.cc:443
