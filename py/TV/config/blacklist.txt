@@ -96,3 +96,4 @@ gd202.tv1288.xyz:443
 live.ottiptv.cc:443
 123.118.55.165:45237
 gmxw.7766.org:808
+play.jinnantv.top:80
