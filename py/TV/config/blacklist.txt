@@ -30,3 +30,11 @@ gcalic.v.myalicdn.com:443
 222.134.245.16:9901
 124.116.183.146:9901
 gctxyc.liveplay.myqcloud.com:443
+zjtv-wshls.homecdn.com:80
+stream.thmz.com:80
+223.83.177.142:1234
+lbyzztfe.live.sxmty.com:80
+live.wjyanghu.com:80
+61.178.227.57:9901
+59.39.89.130:60901
+play.yunxya.com:443
