@@ -38,3 +38,9 @@ live.wjyanghu.com:80
 61.178.227.57:9901
 59.39.89.130:60901
 play.yunxya.com:443
+pull-hls-f1.douyincdn.com:80
+222.169.85.8:9901
+live.ottiptv.cc:443
+shcm-stream-cf1.stream.264788.xyz:443
+goodiptv.club:443
+hzcm-live.media.hugd.com:80
