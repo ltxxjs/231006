@@ -44,3 +44,4 @@ live.ottiptv.cc:443
 shcm-stream-cf1.stream.264788.xyz:443
 goodiptv.club:443
 hzcm-live.media.hugd.com:80
+l.cztvcloud.com:443
