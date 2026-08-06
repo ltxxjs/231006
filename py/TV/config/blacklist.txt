@@ -17,3 +17,8 @@ tpc.x3322.net:9901
 101.66.194.115:9901
 play.scrstv.com.cn:443
 live.yantaitv.cn:80
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+218.13.170.98:9901
+lxajh.top:80
+m3u8.channel.dzsm.com:443
