@@ -26,3 +26,7 @@ liveout.btzx.com.cn:443
 183.11.239.36:808
 qmmqvzoz.live.sxmty.com:443
 cm-wshls.homecdn.com:80
+gcalic.v.myalicdn.com:443
+222.134.245.16:9901
+124.116.183.146:9901
+gctxyc.liveplay.myqcloud.com:443
