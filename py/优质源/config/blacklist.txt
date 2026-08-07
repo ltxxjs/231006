@@ -29,3 +29,4 @@ stream.thmz.com
 139.227.21.22
 goodiptv.club
 bp-resource-dfl.bestv.cn
+119.39.9.8
