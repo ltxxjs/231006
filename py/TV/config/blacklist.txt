@@ -45,3 +45,4 @@ shcm-stream-cf1.stream.264788.xyz:443
 goodiptv.club:443
 hzcm-live.media.hugd.com:80
 l.cztvcloud.com:443
+live.jinchuanrmt.com:90
