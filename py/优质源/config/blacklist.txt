@@ -30,3 +30,7 @@ stream.thmz.com
 goodiptv.club
 bp-resource-dfl.bestv.cn
 119.39.9.8
+27.12.12.100
+epg.pw
+123.118.55.165
+183.129.255.66
