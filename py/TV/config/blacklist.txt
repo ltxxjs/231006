@@ -49,3 +49,5 @@ live.jinchuanrmt.com:90
 106.111.244.12:58099
 stream.thmz.com:443
 stream.sun0769.com:443
+live.zzyxxw.com:2443
+1yp7hc5p.live.sxmty.com:443
