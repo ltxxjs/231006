@@ -28,3 +28,4 @@ lbds.us.ci
 stream.thmz.com
 139.227.21.22
 goodiptv.club
+bp-resource-dfl.bestv.cn
