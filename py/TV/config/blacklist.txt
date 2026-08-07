@@ -18,3 +18,13 @@ lxajh.top:80
 tvfile.jjrm.org.cn:80
 27.12.12.100:1234
 lxfile.lxxcb.cn:80
+tntgjhjb.live.sxmty.com:443
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
+116.233.67.80:8899
+111.8.224.6:9999
+123.118.55.165:45237
+223.78.65.165:9901
+218.84.12.186:8002
+epg.pw:443
+m3u8.channel.dzsm.com:443
