@@ -46,3 +46,6 @@ ali-vl.cztv.com:80
 stream.thmz.com:443
 27.12.12.201:1234
 www.9kds.com:443
+shcm-stream-cf1.stream.264788.xyz:443
+stream.jmtv.com.cn:443
+183.11.239.36:808
