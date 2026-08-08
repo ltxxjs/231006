@@ -17,3 +17,7 @@ lxfile.lxxcb.cn:80
 lxajh.top:80
 live1.habctv.com:80
 video.epaper.pybtv.cn:8080
+125.42.148.9:9901
+satellitepull.cnr.cn:443
+221.13.235.58:9901
+tpc.x3322.net:9901
