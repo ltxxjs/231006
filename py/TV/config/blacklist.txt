@@ -34,3 +34,4 @@ play.scrstv.com.cn:443
 uzoiczhh.live.sxmty.com:80
 l.cztvcloud.com:443
 zjtv-wshls.homecdn.com:80
+182.150.23.74:808
