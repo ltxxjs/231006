@@ -54,3 +54,11 @@ shcm-stream-cf1.stream.264788.xyz:443
 tntgjhjb.live.sxmty.com:443
 qmmqvzoz.live.sxmty.com:443
 live.shaoxing.com.cn:80
+bp-resource-dfl.bestv.cn:443
+p2.bdstatic.com:443
+218.13.170.98:9901
+bp-resource-dfl.bestv.cn:80
+222.134.245.16:9901
+live.metshop.top:80
+uzoiczhh.live.sxmty.com:80
+live.metshop.top:443
