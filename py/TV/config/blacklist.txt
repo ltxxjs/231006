@@ -31,3 +31,11 @@ tpc.x3322.net:9901
 222.169.85.8:9901
 qmmqvzoz.live.sxmty.com:443
 zmgd.zyrnet.com:8888
+111.8.224.6:9999
+live.ahsz.tv:80
+123.118.55.165:45237
+58.19.43.66:1111
+112.123.243.37:50085
+hzcm-live.media.hugd.com:80
+139.227.21.22:9901
+lbyzztfe.live.sxmty.com:80
