@@ -38,3 +38,7 @@ gslbmgsplive.miguvideo.com:80
 115.48.161.87:9901
 42.94.210.221:7788
 116.52.173.194:1234
+ali-vl.cztv.com:80
+123.118.55.165:45237
+lbyzztfe.live.sxmty.com:80
+dxtx.hntv.tv:443
