@@ -42,3 +42,6 @@ ali-vl.cztv.com:80
 123.118.55.165:45237
 lbyzztfe.live.sxmty.com:80
 dxtx.hntv.tv:443
+play.scrstv.com.cn:443
+61.178.227.57:9901
+153.0.171.163:9901
