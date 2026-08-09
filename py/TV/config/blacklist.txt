@@ -45,3 +45,8 @@ dxtx.hntv.tv:443
 play.scrstv.com.cn:443
 61.178.227.57:9901
 153.0.171.163:9901
+139.227.21.22:9901
+hzcm-live.media.hugd.com:80
+m3u8.channel.dzsm.com:443
+112.123.243.37:50085
+223.78.65.165:9901
