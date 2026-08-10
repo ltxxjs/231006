@@ -68,3 +68,7 @@ bp-resource-dfl.bestv.cn:80
 123.118.53.84:45237
 139.203.180.9:90
 116.52.173.100:1234
+tencentplay.gztv.com:443
+122.224.58.42:85
+182.135.66.163:1888
+vip1.xinketongxun.fun:8082
