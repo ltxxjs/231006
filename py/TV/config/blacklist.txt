@@ -61,3 +61,7 @@ my9.ltd:443
 119.39.9.8:9901
 219.147.245.238:25480
 zjtv-wshls.homecdn.com:80
+play.scrstv.com.cn:443
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+36.136.38.87:9901
