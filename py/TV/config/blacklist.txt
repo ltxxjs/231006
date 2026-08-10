@@ -39,3 +39,14 @@ live.ahsz.tv:80
 hzcm-live.media.hugd.com:80
 139.227.21.22:9901
 lbyzztfe.live.sxmty.com:80
+live.yantaitv.cn:80
+110.6.137.4:9901
+uzoiczhh.live.sxmty.com:80
+tvfile.jjrm.org.cn:80
+3gvod.zjgonline.com.cn:1935
+l.cztvcloud.com:443
+183.237.95.108:9901
+124.88.144.73:1935
+116.233.67.80:8899
+l2fpdktp.live.sxmty.com:443
+1yp7hc5p.live.sxmty.com:443
