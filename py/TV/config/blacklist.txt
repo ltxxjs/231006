@@ -72,3 +72,7 @@ cm-wshls.homecdn.com:80
 gcwbndali.v.myalicdn.com:443
 hzcm-live.media.hugd.com:80
 ali-vl.cztv.com:80
+218.13.170.98:9901
+live.gdtv.ah.cn:443
+124.234.172.108:9901
+183.237.95.108:9901
