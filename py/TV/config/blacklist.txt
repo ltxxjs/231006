@@ -69,3 +69,6 @@ lbyzztfe.live.sxmty.com:80
 stream.jmtv.com.cn:443
 my9.ltd:443
 cm-wshls.homecdn.com:80
+gcwbndali.v.myalicdn.com:443
+hzcm-live.media.hugd.com:80
+ali-vl.cztv.com:80
