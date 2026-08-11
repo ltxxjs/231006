@@ -78,3 +78,5 @@ live.gdtv.ah.cn:443
 183.237.95.108:9901
 satellitepull.cnr.cn:80
 112.123.243.37:50085
+27.12.12.5:1234
+zjrtv.vip:80
