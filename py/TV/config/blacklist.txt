@@ -23,3 +23,11 @@ idclive.hljtv.com:4430
 hzcm-live.media.hugd.com:80
 124.88.144.73:1935
 110.6.204.65:9901
+uzoiczhh.live.sxmty.com:80
+tntgjhjb.live.sxmty.com:443
+123.130.84.106:8154
+lbyzztfe.live.sxmty.com:80
+112.234.22.221:9901
+qmmqvzoz.live.sxmty.com:443
+223.112.114.228:50080
+27.39.122.2:9901
