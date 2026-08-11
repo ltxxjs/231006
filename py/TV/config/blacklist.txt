@@ -76,3 +76,5 @@ ali-vl.cztv.com:80
 live.gdtv.ah.cn:443
 124.234.172.108:9901
 183.237.95.108:9901
+satellitepull.cnr.cn:80
+112.123.243.37:50085
