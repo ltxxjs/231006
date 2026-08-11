@@ -64,3 +64,5 @@ l2fpdktp.live.sxmty.com:443
 111.8.224.6:9999
 125.43.240.140:9901
 rihou.cc:555
+lbyzztfe.live.sxmty.com:80
+120.198.86.186:9901
