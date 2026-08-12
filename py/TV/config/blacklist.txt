@@ -32,3 +32,13 @@ hzcm-live.media.hugd.com:80
 27.15.4.131:9901
 tpc.x3322.net:9901
 119.39.9.8:9901
+bp-resource-dfl.bestv.cn:80
+play.scrstv.com.cn:443
+ali-vl.cztv.com:80
+111.8.242.127:9999
+bp-resource-dfl.bestv.cn:443
+110.72.61.221:8181
+111.8.242.142:9999
+111.8.224.6:9999
+183.236.43.98:4013
+111.76.19.115:1234
