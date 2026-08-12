@@ -76,3 +76,5 @@ l2fpdktp.live.sxmty.com:443
 116.233.67.80:8899
 113.26.202.52:1299
 stream.thmz.com:80
+event.pull.hebtv.com:443
+111.9.163.109:55555
