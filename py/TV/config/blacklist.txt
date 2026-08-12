@@ -49,3 +49,7 @@ ali-m-l.cztv.com:443
 111.76.19.115:1234
 123.118.55.165:45237
 124.234.172.108:9901
+bp-resource-dfl.bestv.cn:80
+222.134.245.16:9901
+m3u8.channel.dzsm.com:443
+bp-resource-dfl.bestv.cn:443
