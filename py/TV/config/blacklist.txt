@@ -63,3 +63,6 @@ gslbmgsplive.miguvideo.com:80
 111.228.4.117:6789
 ali-vl.cztv.com:80
 222.130.32.96:7788
+182.135.66.163:18888
+111.8.224.6:9999
+shcm-stream-cf1.stream.264788.xyz:443
