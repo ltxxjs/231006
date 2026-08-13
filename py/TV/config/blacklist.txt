@@ -25,3 +25,12 @@ tv.drs.ganzitv.com:8100
 lbyzztfe.live.sxmty.com:80
 lxajh.top:80
 video.epaper.pybtv.cn:8080
+139.214.181.159:9901
+111.76.19.197:1234
+bp-resource-dfl.bestv.cn:443
+gslbmgsplive.miguvideo.com:80
+183.162.104.72:1234
+111.228.4.117:6789
+27.39.122.2:9901
+111.76.19.115:1234
+113.120.243.10:7788
