@@ -72,3 +72,7 @@ svip.high24-playback.com:443
 vip.ffzy-play.com:443
 live.shaoxing.com.cn:80
 vip.ffzy-online.com:443
+222.169.85.8:9901
+1.192.152.76:9901
+218.13.138.139:59901
+112.123.243.37:50085
