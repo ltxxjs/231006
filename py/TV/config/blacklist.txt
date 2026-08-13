@@ -64,3 +64,11 @@ stream8.jlntv.cn:80
 192.151.150.154:80
 my9.ltd:443
 ls.qingting.fm:443
+vip.ffzy-play1.com:443
+vip.ffzy-play6.com:443
+vip.ffzy-play7.com:443
+219.147.245.238:25480
+svip.high24-playback.com:443
+vip.ffzy-play.com:443
+live.shaoxing.com.cn:80
+vip.ffzy-online.com:443
