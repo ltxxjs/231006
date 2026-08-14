@@ -57,3 +57,5 @@ ali-vl.cztv.com:80
 218.13.138.139:59901
 l.cztvcloud.com:443
 stream10.jlntv.cn:80
+play.scrstv.com.cn:443
+110.72.61.221:8181
