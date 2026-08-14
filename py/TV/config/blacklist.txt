@@ -86,3 +86,6 @@ my9.ltd:443
 cm-wshls.homecdn.com:80
 42.94.210.22:7788
 116.236.204.18:1234
+live.spccmc.com:90
+live.zohi.tv:80
+222.179.42.129:8181
