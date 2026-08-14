@@ -43,3 +43,12 @@ live.jinchuanrmt.com:90
 111.8.242.127:9999
 222.134.245.16:9901
 hzcm-live.media.hugd.com:80
+3gvod.zjgonline.com.cn:1935
+223.83.177.142:1234
+8.135.27.147:1234
+qmmqvzoz.live.sxmty.com:443
+139.227.21.22:9901
+ali-m-l.cztv.com:443
+live.yantaitv.cn:80
+tvfile.jjrm.org.cn:80
+124.88.144.73:1935
