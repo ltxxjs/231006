@@ -28,3 +28,9 @@ idclive.hljtv.com:4430
 116.233.67.80:8899
 182.150.23.74:808
 110.72.61.221:8181
+183.185.66.248:9003
+lbyzztfe.live.sxmty.com:80
+l2fpdktp.live.sxmty.com:443
+123.118.53.84:45237
+123.118.55.165:45237
+1yp7hc5p.live.sxmty.com:443
