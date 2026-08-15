@@ -55,3 +55,7 @@ zjtv-wshls.homecdn.com:80
 47.104.178.59:3566
 101.66.199.102:9901
 hzcm-live.media.hugd.com:80
+l.cztvcloud.com:443
+l.cztvcloud.com:80
+101.66.199.234:9901
+shcm-stream-cf1.stream.264788.xyz:443
