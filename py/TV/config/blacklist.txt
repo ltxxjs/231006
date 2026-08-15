@@ -26,3 +26,13 @@ bp-resource-dfl.bestv.cn:443
 183.162.104.72:1234
 channel.wcrmt.cn:80
 live.yantaitv.cn:80
+ali-vl.cztv.com:80
+139.214.181.174:9901
+zjtv-wshls.homecdn.com:80
+111.8.242.127:9999
+111.8.224.6:9999
+111.8.242.142:9999
+tpc.x3322.net:9901
+hzcm-live.media.hugd.com:80
+223.78.65.165:9901
+124.116.183.146:9901
