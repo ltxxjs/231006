@@ -52,3 +52,6 @@ ali-m-l.cztv.com:443
 zjtv-wshls.homecdn.com:80
 139.214.181.174:9901
 175.0.69.253:9002
+47.104.178.59:3566
+101.66.199.102:9901
+hzcm-live.media.hugd.com:80
