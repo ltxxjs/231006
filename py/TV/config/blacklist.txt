@@ -61,3 +61,7 @@ m3u8.channel.dzsm.com:443
 42.224.115.13:9003
 l2fpdktp.live.sxmty.com:443
 l.cztvcloud.com:443
+gfr.x3322.net:9901
+139.214.181.142:9901
+hkstv.tv:443
+zjrtv.vip:80
