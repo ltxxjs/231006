@@ -65,3 +65,4 @@ gfr.x3322.net:9901
 139.214.181.142:9901
 hkstv.tv:443
 zjrtv.vip:80
+cm-wshls.homecdn.com:80
