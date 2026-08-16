@@ -59,3 +59,5 @@ tntgjhjb.live.sxmty.com:443
 m3u8.channel.dzsm.com:443
 118.193.115.2:9901
 42.224.115.13:9003
+l2fpdktp.live.sxmty.com:443
+l.cztvcloud.com:443
