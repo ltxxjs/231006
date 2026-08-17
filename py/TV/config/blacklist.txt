@@ -52,3 +52,6 @@ lbyzztfe.live.sxmty.com:80
 play.scrstv.com.cn:443
 bp-resource-dfl.bestv.cn:80
 bp-resource-dfl.bestv.cn:443
+cm-wshls.homecdn.com:80
+27.39.122.2:9901
+l.cztvcloud.com:443
