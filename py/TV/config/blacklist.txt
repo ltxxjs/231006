@@ -46,3 +46,9 @@ gslbmgsplive.miguvideo.com:80
 218.13.138.139:59901
 ali-vl.cztv.com:80
 118.193.115.2:9901
+171.38.148.188:9003
+139.214.181.174:9901
+lbyzztfe.live.sxmty.com:80
+play.scrstv.com.cn:443
+bp-resource-dfl.bestv.cn:80
+bp-resource-dfl.bestv.cn:443
