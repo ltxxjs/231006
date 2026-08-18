@@ -34,3 +34,9 @@ lxfile.lxxcb.cn:80
 live1.habctv.com:80
 hzcm-live.media.hugd.com:80
 tvfile.jjrm.org.cn:80
+111.8.224.6:9999
+111.8.242.127:9999
+cm-wshls.homecdn.com:80
+1yp7hc5p.live.sxmty.com:443
+ali-vl.cztv.com:80
+play.scrstv.com.cn:443
