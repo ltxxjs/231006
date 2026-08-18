@@ -40,3 +40,14 @@ cm-wshls.homecdn.com:80
 1yp7hc5p.live.sxmty.com:443
 ali-vl.cztv.com:80
 play.scrstv.com.cn:443
+m3u8.channel.dzsm.com:443
+qmmqvzoz.live.sxmty.com:443
+123.118.53.84:45237
+112.123.243.37:50085
+222.179.42.129:8181
+171.38.148.188:9003
+171.8.86.73:8009
+139.214.181.142:9901
+l.cztvcloud.com:443
+l2fpdktp.live.sxmty.com:443
+dxtx.hntv.tv:443
