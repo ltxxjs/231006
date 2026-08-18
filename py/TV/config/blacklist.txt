@@ -20,3 +20,17 @@ idclive.hljtv.com:4430
 124.116.183.146:9901
 222.169.85.8:9901
 111.8.242.104:8088
+124.88.144.73:1935
+tv.drs.ganzitv.com:8100
+139.214.181.159:9901
+139.214.181.174:9901
+lbyzztfe.live.sxmty.com:80
+channel.wcrmt.cn:80
+live.yantaitv.cn:80
+video.epaper.pybtv.cn:8080
+lxfile.lxxcb.cn:80
+123.118.55.165:45237
+3gvod.zjgonline.com.cn:1935
+live1.habctv.com:80
+hzcm-live.media.hugd.com:80
+tvfile.jjrm.org.cn:80
