@@ -18,3 +18,7 @@ play.scrstv.com.cn:443
 139.214.181.159:9901
 rihou.cc:555
 hzcm-live.media.hugd.com:80
+120.198.95.220:9901
+zjtv-wshls.homecdn.com:80
+123.118.55.165:45237
+27.39.122.2:9901
