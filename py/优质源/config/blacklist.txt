@@ -26,3 +26,4 @@ goodiptv.club
 bztv.tvbus.cc
 171.38.148.188
 epg.pw
+104.152.209.49
