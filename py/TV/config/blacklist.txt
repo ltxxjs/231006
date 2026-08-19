@@ -60,3 +60,5 @@ l.cztvcloud.com:80
 123.118.53.84:45237
 112.27.5.218:9901
 111.8.242.127:9999
+stream.thmz.com:80
+cm-wshls.homecdn.com:80
