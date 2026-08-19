@@ -42,3 +42,11 @@ m3u8.channel.dzsm.com:443
 live.spccmc.com:90
 116.236.204.18:1234
 1yp7hc5p.live.sxmty.com:443
+222.169.85.8:9901
+lbyzztfe.live.sxmty.com:80
+61.178.227.57:9901
+my9.ltd:443
+111.8.242.142:9999
+russian-livews.cgtn.com:80
+l2fpdktp.live.sxmty.com:443
+223.78.65.165:9901
