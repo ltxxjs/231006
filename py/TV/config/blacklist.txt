@@ -50,3 +50,8 @@ my9.ltd:443
 russian-livews.cgtn.com:80
 l2fpdktp.live.sxmty.com:443
 223.78.65.165:9901
+l.cztvcloud.com:443
+qmmqvzoz.live.sxmty.com:443
+111.8.224.6:9999
+l.cztvcloud.com:80
+171.38.148.188:9003
