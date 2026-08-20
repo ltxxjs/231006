@@ -87,3 +87,5 @@ gmxw.7766.org:808
 171.122.199.106:8085
 hkstv.tv:443
 118.254.148.47:4022
+tmpstream.hyrtv.cn:80
+gcwbndali.v.myalicdn.com:443
