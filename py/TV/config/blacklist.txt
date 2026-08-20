@@ -74,3 +74,4 @@ satellitepull.cnr.cn:443
 gcalic.v.myalicdn.com:443
 m3u8channel.yunxya.com:443
 183.237.95.108:9901
+218.13.138.139:59901
