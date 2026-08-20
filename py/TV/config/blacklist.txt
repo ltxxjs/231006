@@ -68,3 +68,4 @@ stream11.jlntv.cn:80
 tpc.x3322.net:9901
 bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
+satellitepull.cnr.cn:443
