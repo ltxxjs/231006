@@ -69,3 +69,6 @@ tpc.x3322.net:9901
 bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
 satellitepull.cnr.cn:443
+118.193.115.2:9901
+221.232.198.40:7777
+gcalic.v.myalicdn.com:443
