@@ -28,3 +28,4 @@ bztv.tvbus.cc
 epg.pw
 104.152.209.49
 bp-resource-dfl.bestv.cn
+61.178.227.57
