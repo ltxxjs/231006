@@ -46,3 +46,8 @@ stream.thmz.com:443
 hzcm-live.media.hugd.com:80
 bp-resource-dfl.bestv.cn:443
 bp-resource-dfl.bestv.cn:80
+119.39.9.8:9901
+182.37.41.46:8154
+111.8.242.127:9999
+118.193.115.2:9901
+183.94.146.79:9901
