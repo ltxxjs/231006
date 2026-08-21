@@ -53,3 +53,7 @@ bp-resource-dfl.bestv.cn:80
 183.94.146.79:9901
 1.192.153.44:9901
 stream.thmz.com:80
+l.cztvcloud.com:443
+183.64.174.171:40123
+gmxw.7766.org:808
+shcm-stream-cf1.stream.264788.xyz:443
