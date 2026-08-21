@@ -44,3 +44,5 @@ my9.ltd:443
 112.27.5.218:9901
 stream.thmz.com:443
 hzcm-live.media.hugd.com:80
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
