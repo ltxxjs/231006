@@ -34,3 +34,5 @@ dxtx.hntv.tv:443
 123.118.53.84:45237
 m3u8.channel.dzsm.com:443
 l2fpdktp.live.sxmty.com:443
+61.178.227.57:9901
+60.187.246.137:9901
