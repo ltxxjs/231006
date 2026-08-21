@@ -25,3 +25,7 @@ tpc.x3322.net:9901
 tvfile.jjrm.org.cn:80
 42.94.210.16:7788
 lxfile.lxxcb.cn:80
+221.205.61.95:9003
+bp-resource-dfl.bestv.cn:443
+bp-resource-dfl.bestv.cn:80
+tntgjhjb.live.sxmty.com:443
