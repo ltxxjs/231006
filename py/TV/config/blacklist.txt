@@ -57,3 +57,6 @@ l.cztvcloud.com:443
 183.64.174.171:40123
 gmxw.7766.org:808
 shcm-stream-cf1.stream.264788.xyz:443
+222.169.85.8:9901
+115.207.182.178:8889
+tmpstream.hyrtv.cn:80
