@@ -25,3 +25,12 @@ play.scrstv.com.cn:443
 gslbmgsplive.miguvideo.com:80
 zjtv-wshls.homecdn.com:80
 tntgjhjb.live.sxmty.com:443
+dxtx.hntv.tv:443
+58.255.200.180:10443
+139.227.21.22:9901
+111.8.242.142:9999
+111.8.224.6:9999
+113.65.7.6:7088
+123.118.53.84:45237
+m3u8.channel.dzsm.com:443
+l2fpdktp.live.sxmty.com:443
