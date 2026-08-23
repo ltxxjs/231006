@@ -84,3 +84,6 @@ jwplay.hebyun.com.cn:80
 gctxyc.liveplay.myqcloud.com:443
 stream5.jlntv.cn:80
 live.ottiptv.cc:443
+hzcm-live.media.hugd.com:80
+60.222.246.220:19433
+ali-vl.cztv.com:80
