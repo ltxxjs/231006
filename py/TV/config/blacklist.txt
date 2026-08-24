@@ -55,3 +55,6 @@ play.scrstv.com.cn:443
 bp-resource-dfl.bestv.cn:80
 cm-wshls.homecdn.com:80
 bp-resource-dfl.bestv.cn:443
+124.165.232.26:8085
+118.193.115.2:9901
+124.165.232.26:8084
