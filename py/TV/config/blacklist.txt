@@ -24,3 +24,7 @@ play.jinnantv.top:80
 lbyzztfe.live.sxmty.com:80
 139.203.180.9:90
 live1.habctv.com:80
+113.65.7.6:7088
+l.cztvcloud.com:443
+tpc.x3322.net:9901
+119.131.25.143:9003
