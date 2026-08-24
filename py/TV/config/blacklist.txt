@@ -49,3 +49,5 @@ zjtv-wshls.homecdn.com:80
 112.27.5.218:9901
 kakaxi.indevs.in:80
 111.59.24.227:8181
+play.scrstv.com.cn:443
+222.169.85.8:9901
