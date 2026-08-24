@@ -42,3 +42,7 @@ gslbmgsplive.miguvideo.com:80
 lbyzztfe.live.sxmty.com:80
 epg.pw:443
 1yp7hc5p.live.sxmty.com:443
+l2fpdktp.live.sxmty.com:443
+221.222.176.205:8889
+112.115.49.181:4915
+zjtv-wshls.homecdn.com:80
