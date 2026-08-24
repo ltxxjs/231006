@@ -59,3 +59,7 @@ bp-resource-dfl.bestv.cn:443
 118.193.115.2:9901
 124.165.232.26:8084
 183.237.95.108:9901
+tmpstream.hyrtv.cn:80
+101.66.198.245:9901
+liveplay-srs.voc.com.cn:443
+live.xysrmt.cn:80
