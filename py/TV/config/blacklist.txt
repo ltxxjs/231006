@@ -39,3 +39,6 @@ gslbmgsplive.miguvideo.com:80
 222.71.55.147:9901
 42.94.210.16:7788
 116.52.173.151:1234
+lbyzztfe.live.sxmty.com:80
+epg.pw:443
+1yp7hc5p.live.sxmty.com:443
