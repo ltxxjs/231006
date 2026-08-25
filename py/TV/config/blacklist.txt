@@ -52,3 +52,12 @@ rihou.cc:555
 qmmqvzoz.live.sxmty.com:443
 124.165.232.26:8084
 liveout.xntv.tv:443
+stream.thmz.com:443
+bp-resource-dfl.bestv.cn:80
+61.178.227.57:9901
+bp-resource-dfl.bestv.cn:443
+l2fpdktp.live.sxmty.com:443
+104.152.209.49:8181
+222.169.85.8:9901
+123.118.55.165:45237
+183.237.95.108:9901
