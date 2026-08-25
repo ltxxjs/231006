@@ -36,3 +36,7 @@ m3u8.channel.dzsm.com:443
 ali-vl.cztv.com:80
 101.66.198.245:9901
 shcm-stream-cf1.stream.264788.xyz:443
+115.207.182.178:8889
+123.118.53.84:45237
+60.222.246.220:19433
+stream.thmz.com:80
