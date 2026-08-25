@@ -24,3 +24,17 @@ rihou.cc:555
 1.28.123.148:9901
 124.165.232.26:8084
 223.78.65.165:9901
+123.146.162.24:8017
+tntgjhjb.live.sxmty.com:443
+222.169.85.8:9901
+61.178.227.57:9901
+zjtv-wshls.homecdn.com:80
+112.123.243.37:50085
+1yp7hc5p.live.sxmty.com:443
+218.13.138.139:59901
+ali-vl.cztv.com:80
+cm-wshls.homecdn.com:80
+111.59.24.227:8181
+play.scrstv.com.cn:443
+112.27.5.218:9901
+www.yao87.com:4022
