@@ -38,3 +38,7 @@ cm-wshls.homecdn.com:80
 play.scrstv.com.cn:443
 112.27.5.218:9901
 www.yao87.com:4022
+shcm-stream-cf1.stream.264788.xyz:443
+gslbmgsplive.miguvideo.com:80
+live.xysrmt.cn:80
+lbyzztfe.live.sxmty.com:80
