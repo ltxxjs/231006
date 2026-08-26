@@ -42,3 +42,6 @@ shcm-stream-cf1.stream.264788.xyz:443
 gslbmgsplive.miguvideo.com:80
 live.xysrmt.cn:80
 lbyzztfe.live.sxmty.com:80
+satellitepull.cnr.cn:443
+satellitepull.cnr.cn:80
+hzcm-live.media.hugd.com:80
