@@ -32,3 +32,7 @@ qmmqvzoz.live.sxmty.com:443
 zjtv-wshls.homecdn.com:80
 113.120.243.10:7788
 gslbmgsplive.miguvideo.com:80
+113.9.214.47:9003
+101.66.195.81:9901
+1yp7hc5p.live.sxmty.com:443
+39.87.249.126:8090
