@@ -50,3 +50,7 @@ play.scrstv.com.cn:443
 112.123.243.37:50085
 l2fpdktp.live.sxmty.com:443
 27.12.12.174:1234
+61.178.227.57:9901
+bp-resource-dfl.bestv.cn:443
+124.165.232.26:8083
+bp-resource-dfl.bestv.cn:80
