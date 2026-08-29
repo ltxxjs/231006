@@ -54,3 +54,6 @@ l2fpdktp.live.sxmty.com:443
 bp-resource-dfl.bestv.cn:443
 124.165.232.26:8083
 bp-resource-dfl.bestv.cn:80
+tntgjhjb.live.sxmty.com:443
+175.0.71.111:8888
+gd202.tv1288.xyz:443
