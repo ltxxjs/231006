@@ -57,3 +57,5 @@ bp-resource-dfl.bestv.cn:80
 tntgjhjb.live.sxmty.com:443
 175.0.71.111:8888
 gd202.tv1288.xyz:443
+hls-qhmh.lanzhousobey.cn:443
+zbbf2.ahbztv.com:80
