@@ -73,3 +73,5 @@ gcalic.v.myalicdn.com:443
 222.136.68.235:9901
 222.140.52.249:1234
 cm-wshls.homecdn.com:80
+218.13.170.98:9901
+my9.ltd:443
