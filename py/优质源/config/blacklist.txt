@@ -10,3 +10,4 @@ lbds.us.ci
 111.59.24.227
 61.178.227.57
 222.136.68.235
+bp-resource-dfl.bestv.cn
