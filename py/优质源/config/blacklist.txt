@@ -9,3 +9,6 @@ d1t.alwaysdata.net
 198.204.228.26
 dxtx.hntv.tv
 107.150.60.122
+bp-resource-dfl.bestv.cn
+122.224.58.42
+112.30.73.119
