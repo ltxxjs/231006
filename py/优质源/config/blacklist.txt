@@ -9,3 +9,6 @@ idclive.hljtv.com
 bztv.tvbus.cc
 dxtx.hntv.tv
 111.59.139.82
+120.238.94.82
+bp-resource-dfl.bestv.cn
+tvcdn.stream3.hndt.com
