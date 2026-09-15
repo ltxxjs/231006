@@ -12,3 +12,5 @@ dxtx.hntv.tv
 120.238.94.82
 bp-resource-dfl.bestv.cn
 tvcdn.stream3.hndt.com
+r.jdshipin.com
+d1t.alwaysdata.net
