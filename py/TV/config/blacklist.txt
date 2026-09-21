@@ -168,3 +168,5 @@ tmpstream.hyrtv.cn:80
 221.7.175.154:8445
 111.231.6.102:1234
 101.66.194.205:9901
+tvfile.jyrmt.cn:80
+liveout.btzx.com.cn:443
