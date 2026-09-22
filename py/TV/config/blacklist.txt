@@ -170,3 +170,4 @@ tmpstream.hyrtv.cn:80
 101.66.194.205:9901
 tvfile.jyrmt.cn:80
 liveout.btzx.com.cn:443
+live.qthnews.org.cn:1935
