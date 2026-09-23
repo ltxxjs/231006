@@ -176,3 +176,4 @@ live.qthnews.org.cn:1935
 121.204.118.36:10000
 219.157.138.96:1234
 m3u8channel.ganzitv.com:443
+r.jdshipin.com:80
