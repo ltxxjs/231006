@@ -9,3 +9,4 @@ lbds.us.ci
 bp-resource-dfl.bestv.cn
 123.163.114.241
 111.59.139.82
+d1t.alwaysdata.net
