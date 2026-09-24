@@ -180,3 +180,4 @@ r.jdshipin.com:80
 file.ysxtv.cn:80
 gcwbndali.v.myalicdn.com:443
 www.guzhenm.com:7001
+gmxw.7766.org:808
