@@ -11,3 +11,5 @@ bp-resource-dfl.bestv.cn
 111.59.139.82
 d1t.alwaysdata.net
 112.27.5.218
+bztv.tvbus.cc
+207.56.13.146
