@@ -182,3 +182,4 @@ gcwbndali.v.myalicdn.com:443
 www.guzhenm.com:7001
 gmxw.7766.org:808
 61.10.2.145:80
+p2.bdstatic.com:443
