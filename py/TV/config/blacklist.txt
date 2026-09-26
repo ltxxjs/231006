@@ -189,3 +189,5 @@ live.wjyanghu.com:80
 101.66.194.125:9901
 207.56.13.146:81
 27.36.92.29:6666
+ali-m-l.cztv.com:443
+ali-m-l.cztv.com:80
