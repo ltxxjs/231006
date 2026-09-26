@@ -191,3 +191,4 @@ live.wjyanghu.com:80
 27.36.92.29:6666
 ali-m-l.cztv.com:443
 ali-m-l.cztv.com:80
+gctxyc.liveplay.myqcloud.com:443
