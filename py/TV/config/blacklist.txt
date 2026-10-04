@@ -211,3 +211,5 @@ smzb.bypbwxx.top:80
 live.wjyanghu.com:443
 play.jinnantv.top:80
 stream.jmtv.com.cn:80
+test1.live.sdetv.com.cn:443
+liveplay-srs.voc.com.cn:443
