@@ -208,3 +208,5 @@ hkstv.tv:443
 live.shaoxing.com.cn:80
 smzb.bypbwxx.top:80
 118.113.40.32:1234
+live.wjyanghu.com:443
+play.jinnantv.top:80
