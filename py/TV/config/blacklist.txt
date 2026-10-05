@@ -213,3 +213,4 @@ play.jinnantv.top:80
 stream.jmtv.com.cn:80
 test1.live.sdetv.com.cn:443
 liveplay-srs.voc.com.cn:443
+118.113.40.45:1234
