@@ -4,3 +4,4 @@ lbds.us.ci
 genglei.8866.org
 221.7.175.154
 219.139.228.248
+bp-resource-dfl.bestv.cn
