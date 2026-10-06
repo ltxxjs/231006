@@ -218,3 +218,4 @@ liveplay-srs.voc.com.cn:443
 114.102.131.159:5080
 101.35.240.114:88
 drive.mxmy.net:8888
+jwcdnqx.hebyun.com.cn:443
